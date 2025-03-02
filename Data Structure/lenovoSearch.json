@@ -1,0 +1,3778 @@
+{
+    "xrid": "e2e1f0cc919252ffe02daccb3b55bc01",
+    "status": 200,
+    "msg": "operation successful!",
+    "data": {
+      "count": 554,
+      "data": [
+        {
+          "products": [
+            {
+              "id": "PAXM0000US_0e49db5e-0834-41ba-84fe-f796497ba9fc",
+              "productName": "PHN MOTO XT2309-3 US CB 8+256 SS RTL",
+              "productType": "0",
+              "productCode": "PAXM0000US",
+              "productStatus": "",
+              "baseWarrantyKey": "MD8",
+              "essFlag": "NO",
+              "webPrice": "699.99",
+              "finalPrice": "699.99",
+              "saveAmount": "0.00",
+              "savePercent": "0",
+              "isMedion": false,
+              "ratingStar": "4.5",
+              "commentCount": 142,
+              "marketingStatus": "Available",
+              "modelsCount": 0,
+              "leadTimeMessage": "",
+              "inventoryStatus": 2,
+              "currencySymbol": "$",
+              "currencyCode": "USD",
+              "modifyTime": 1740787771787,
+              "onlineDate": 1682631318000,
+              "categoryPath": [
+                "ROOTPMI",
+                "phones",
+                "motorola-smartphones",
+                "thinkphone",
+                "PMIPMFQ34M3",
+                "PMIPMFQ34M3PAXM"
+              ],
+              "machineType": "PMIPMFQ34M3PAXM",
+              "purchaseFlag": true,
+              "media": {
+                "thumbnail": {
+                  "imageName": "25540145068_ThinkphoneByMotorolaCarbonBlack_20231207104609.png",
+                  "imageAddress": "https://p1-ofp.static.pub//medias/25540145068_ThinkphoneByMotorolaCarbonBlack_202312071046091706717566118.png"
+                },
+                "gallery": [
+                  {
+                    "imageName": "thinkphone-pdp-ecom-render-1-carbon-black-n5re8wvk.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/thinkphone-pdp-ecom-render-1-carbon-black-n5re8wvk1725070667044.png"
+                  },
+                  {
+                    "imageName": "thinkphone-pdp-ecom-render-5-carbon-black-qq6n0fna.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/thinkphone-pdp-ecom-render-5-carbon-black-qq6n0fna1725070673529.png"
+                  },
+                  {
+                    "imageName": "thinkphone-pdp-ecom-render-2-carbon-black-ik7ibx4i.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/thinkphone-pdp-ecom-render-2-carbon-black-ik7ibx4i1725070679114.png"
+                  },
+                  {
+                    "imageName": "thinkphone-pdp-ecom-render-4-carbon-black-rqqpoqx6.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/thinkphone-pdp-ecom-render-4-carbon-black-rqqpoqx61725070686527.png"
+                  },
+                  {
+                    "imageName": "thinkphone-pdp-ecom-render-3-carbon-black-tvuy5xm0.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/thinkphone-pdp-ecom-render-3-carbon-black-tvuy5xm01725070692249.png"
+                  }
+                ],
+                "subseriesListImage": [
+                  {
+                    "imageName": "q6ngwqrzhjdbdx9n065rp7nz47y63y261629.png",
+                    "imageAddress": "//p3-ofp.static.pub/fes/cms/2023/01/03/q6ngwqrzhjdbdx9n065rp7nz47y63y261629.png"
+                  }
+                ],
+                "heroImage": {
+                  "imageName": "lenovo-thinkphone-01.png",
+                  "imageAddress": "//p1-ofp.static.pub/ShareResource/na/subseries/gallery/lenovo-thinkphone-01.png"
+                }
+              },
+              "classification": [
+                {
+                  "a": "Processor",
+                  "b": "Qualcomm® Snapdragon™ 8+ Gen 1 Processor (3.20 GHz)",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                  "mediaIconAlt": "Processor",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                  "gamingIconAlt": "Processor",
+                  "c": 100,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Operating System",
+                  "b": "Android™ 13",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                  "mediaIconAlt": "Operating System",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                  "gamingIconAlt": "Operating System",
+                  "c": 99,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Graphic Card",
+                  "b": "Qualcomm® Adreno™ 730",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                  "mediaIconAlt": "Graphic Card",
+                  "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                  "gamingIconAlt": "Graphic Card",
+                  "c": 98,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Memory",
+                  "b": "8 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                  "mediaIconAlt": "Memory",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                  "gamingIconAlt": "Memory",
+                  "c": 97,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Storage",
+                  "b": "256 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                  "mediaIconAlt": "Storage",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                  "gamingIconAlt": "Storage",
+                  "c": 96,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Display",
+                  "b": "6.6\" FHD+ (2400 x 1080) pOLED, touchscreen",
+                  "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                  "mediaIconAlt": "Display",
+                  "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                  "gamingIconAlt": "Display",
+                  "c": 95,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Warranty",
+                  "b": "1 Year",
+                  "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                  "mediaIconAlt": "Warranty",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                  "gamingIconAlt": "Warranty",
+                  "c": 73,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Weight",
+                  "b": "0.41lbs/0.19kgs ",
+                  "mediaIcon": null,
+                  "mediaIconAlt": null,
+                  "gamingIcon": null,
+                  "gamingIconAlt": null,
+                  "c": 6,
+                  "webExclusive": 0
+                }
+              ],
+              "marketingLongDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003E50 MP camera system that lets you capture details up close, shoot from the front and rear cameras at the same time.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EGo for up to 2 days with the 5000 mAh battery.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EYour business data and mobile platforms are secured by ThinkShield\u003Csup\u003E®\u003C/sup\u003E for mobile.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECompatible with most Carriers.\u003Cbr/\u003E\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "marketingShortDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003ESee the bigger picture with 6.6&quot; pOLED Display.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EUnlock your phone with your fingerprint – no need for a passcode.\u003Cspan style=\"white-space:pre\"\u003E\t\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EWithin the Android™ 13 OS, your privacy is prioritized.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "description": "\u003Ch2\u003E\u003Cstrong\u003ETHINK TOGETHER.\u003Cbr/\u003ETHINKPHONE.\u003C/strong\u003E\u003C/h2\u003E",
+              "summary": "ThinkPhone by Motorola - Unlocked - Volcanic Grey",
+              "url": "/p/phones/motorola-smartphones/thinkphone/ThinkPhone-By-Motorola/paxm0000us",
+              "flCode": "phones",
+              "flName": "Phones",
+              "hasClaimIndicator": false,
+              "couponConsumed": false,
+              "isDCGSubseries": false,
+              "isOutlet": false,
+              "outletFlagColor": "#4C1984",
+              "modelEnabled": 0,
+              "launchDate": 0,
+              "teleUser": false,
+              "beforeTaxPrice": "699.99",
+              "lowestPrice": {
+                "price": null,
+                "percentage": null
+              },
+              "finalPriceType": 1,
+              "specialOffers": [],
+              "softBundleType": "",
+              "virtualProductCode": "",
+              "configId": "",
+              "subseriesCode": "PMIPMFQ34M3",
+              "score": 2,
+              "advancedZooming": "0",
+              "bannerPromotionalTile": false,
+              "brDesktopBundleChildren": false,
+              "goodForFeatures": {
+  
+              }
+            },
+            {
+              "id": "PAXW0001US_0e49db5e-0834-41ba-84fe-f796497ba9fc",
+              "productName": "MOTOPHN XT2317-2 US 4+64 BE SS",
+              "productType": "0",
+              "productCode": "PAXW0001US",
+              "productStatus": "",
+              "baseWarrantyKey": "MD8",
+              "essFlag": "NO",
+              "webPrice": "199.99",
+              "finalPrice": "199.99",
+              "saveAmount": "0.00",
+              "savePercent": "0",
+              "isMedion": false,
+              "ratingStar": "3.6",
+              "commentCount": 26,
+              "marketingStatus": "Available",
+              "modelsCount": 0,
+              "leadTime": 1,
+              "leadTimeMessage": "Ships FREE by Tue, Aug 13",
+              "inventoryStatus": 2,
+              "currencySymbol": "$",
+              "currencyCode": "USD",
+              "modifyTime": 1740787771814,
+              "onlineDate": 1689085497000,
+              "categoryPath": [
+                "ROOTPMI",
+                "phones",
+                "motorola-smartphones",
+                "motorola-moto-g",
+                "LEN311M0028"
+              ],
+              "machineType": "PMIPMFZ35MAPAXW",
+              "purchaseFlag": true,
+              "media": {
+                "thumbnail": {
+                  "imageName": "25815263272_Moto g stylus 2023 Midnight Blue IMG_20230519054316.png",
+                  "imageAddress": "https://p1-ofp.static.pub/medias/25815263272_Motogstylus2023MidnightBlueIMG_202305190543161684999223144.png"
+                },
+                "gallery": [],
+                "listImage": [
+                  {
+                    "imageName": "lenovo-geneva-g-stylus-color1.png",
+                    "imageAddress": "https://p2-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-geneva-g-stylus-color1.png"
+                  }
+                ],
+                "subseriesListImage": [
+                  {
+                    "imageName": "lenovo-geneva-g-stylus-color1.png",
+                    "imageAddress": "//p2-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-geneva-g-stylus-color1.png"
+                  }
+                ],
+                "heroImage": {
+                  "imageName": "lenovo-geneva-g-stylus-color1-1.png",
+                  "imageAddress": "//p1-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-geneva-g-stylus-color1-1.png"
+                }
+              },
+              "classification": [
+                {
+                  "a": "Processor",
+                  "b": "MediaTek Helio G85 Processor (2.00 GHz)",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                  "mediaIconAlt": "Processor",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                  "gamingIconAlt": "Processor",
+                  "c": 100,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Operating System",
+                  "b": "Android™ 13",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                  "mediaIconAlt": "Operating System",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                  "gamingIconAlt": "Operating System",
+                  "c": 99,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Memory",
+                  "b": "4 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                  "mediaIconAlt": "Memory",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                  "gamingIconAlt": "Memory",
+                  "c": 97,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Storage",
+                  "b": "64 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                  "mediaIconAlt": "Storage",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                  "gamingIconAlt": "Storage",
+                  "c": 96,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Display",
+                  "b": "6.5\" HD+ (1600 x 720) IPS, Touchscreen",
+                  "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                  "mediaIconAlt": "Display",
+                  "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                  "gamingIconAlt": "Display",
+                  "c": 95,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Warranty",
+                  "b": "1 Year",
+                  "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                  "mediaIconAlt": "Warranty",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                  "gamingIconAlt": "Warranty",
+                  "c": 73,
+                  "webExclusive": 0
+                }
+              ],
+              "marketingLongDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003EEnjoy a brilliant 6.4&quot; full HD+ OLED display\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003E50 MP triple camera and 36 hours battery life\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EDeeper sound clarity, brighter, broader details with fluid 6.5” HD+ display and smoother scrolling\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECompatible carriers include Verizon, AT&amp;T, T-Mobile, Boost and more! See tech specs for full list.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "marketingShortDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003E6.5&quot; 90Hz display and Dolby Atmos\u003Csup\u003E®\u003C/sup\u003E audio\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003E50MP camera system\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EPowerful 5000mAh battery\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "summary": "moto g stylus (2023) - unlocked - Midnight Blue",
+              "url": "/p/phones/motorola-smartphones/motorola-moto-g/Moto-G-Stylus-2023/paxw0001us",
+              "flCode": "phones",
+              "flName": "Phones",
+              "hasClaimIndicator": false,
+              "couponConsumed": false,
+              "isDCGSubseries": false,
+              "readyToShip": true,
+              "isOutlet": false,
+              "modelEnabled": 0,
+              "launchDate": 0,
+              "teleUser": false,
+              "beforeTaxPrice": "199.99",
+              "lowestPrice": {
+                "price": null,
+                "percentage": null
+              },
+              "finalPriceType": 1,
+              "specialOffers": [],
+              "softBundleType": "",
+              "virtualProductCode": "",
+              "configId": "",
+              "score": 2,
+              "bannerPromotionalTile": false,
+              "brDesktopBundleChildren": false,
+              "goodForFeatures": {
+  
+              }
+            },
+            {
+              "id": "PAXF0006US_0e49db5e-0834-41ba-84fe-f796497ba9fc",
+              "productName": "PHN MOTO XT2315-1 US BB 6+256 SS RTL",
+              "productType": "0",
+              "productCode": "PAXF0006US",
+              "productStatus": "",
+              "baseWarrantyKey": "MD8",
+              "essFlag": "NO",
+              "webPrice": "399.99",
+              "finalPrice": "399.99",
+              "saveAmount": "0.00",
+              "savePercent": "0",
+              "isMedion": false,
+              "ratingStar": "4.3",
+              "commentCount": 65,
+              "marketingStatus": "Available",
+              "modelsCount": 0,
+              "leadTimeMessage": "",
+              "inventoryStatus": 2,
+              "currencySymbol": "$",
+              "currencyCode": "USD",
+              "modifyTime": 1740787772149,
+              "onlineDate": 1692304388000,
+              "categoryPath": [
+                "ROOTPMI",
+                "phones",
+                "motorola-smartphones",
+                "motorola-moto-g",
+                "LEN311M0025"
+              ],
+              "machineType": "PMIPMFW34MWPAXF",
+              "purchaseFlag": true,
+              "media": {
+                "thumbnail": {
+                  "imageName": "lenovo-moto-g-stylus-5g-geneva-black.png",
+                  "imageAddress": "//p2-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-stylus-5g-geneva-black.png"
+                },
+                "gallery": [
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-geneva-6.png",
+                    "imageAddress": "//p1-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-moto-g-stylus-5g-geneva-6.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-geneva-3.png",
+                    "imageAddress": "//p4-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-moto-g-stylus-5g-geneva-3.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-geneva-2.png",
+                    "imageAddress": "//p4-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-moto-g-stylus-5g-geneva-2.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-geneva-1.png",
+                    "imageAddress": "//p2-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-moto-g-stylus-5g-geneva-1.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-geneva-5.png",
+                    "imageAddress": "//p3-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-moto-g-stylus-5g-geneva-5.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-geneva-4.png",
+                    "imageAddress": "//p2-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-moto-g-stylus-5g-geneva-4.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-geneva-7.png",
+                    "imageAddress": "//p3-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-moto-g-stylus-5g-geneva-7.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-geneva-black-2.png",
+                    "imageAddress": "//p1-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-moto-g-stylus-5g-geneva-black-2.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-geneva-black-3.png",
+                    "imageAddress": "//p1-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-moto-g-stylus-5g-geneva-black-3.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-geneva-black-1.png",
+                    "imageAddress": "//p2-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-moto-g-stylus-5g-geneva-black-1.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-geneva-black-4.png",
+                    "imageAddress": "//p1-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-moto-g-stylus-5g-geneva-black-4.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-geneva-black-5.png",
+                    "imageAddress": "//p3-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-moto-g-stylus-5g-geneva-black-5.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-geneva-black-7.png",
+                    "imageAddress": "//p2-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-moto-g-stylus-5g-geneva-black-7.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-geneva-black-8.png",
+                    "imageAddress": "//p4-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-moto-g-stylus-5g-geneva-black-8.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-geneva-black-6.png",
+                    "imageAddress": "//p4-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-moto-g-stylus-5g-geneva-black-6.png"
+                  }
+                ],
+                "listImage": [
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-geneva-black.png",
+                    "imageAddress": "//p2-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-stylus-5g-geneva-black.png"
+                  }
+                ],
+                "subseriesListImage": [
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-geneva-black.png",
+                    "imageAddress": "//p2-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-stylus-5g-geneva-black.png"
+                  }
+                ],
+                "heroImage": {
+                  "imageName": "lenovo-moto-g-stylus-5g-geneva-hero-image.png",
+                  "imageAddress": "//p1-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-moto-g-stylus-5g-geneva-hero-image.png"
+                }
+              },
+              "classification": [
+                {
+                  "a": "Processor",
+                  "b": "Qualcomm® Snapdragon™ 6 Gen 1 Processor (2.20 GHz)",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                  "mediaIconAlt": "Processor",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                  "gamingIconAlt": "Processor",
+                  "c": 100,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Operating System",
+                  "b": "Android™ 13",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                  "mediaIconAlt": "Operating System",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                  "gamingIconAlt": "Operating System",
+                  "c": 99,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Graphic Card",
+                  "b": "Qualcomm® Adreno™ 600 GPU",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                  "mediaIconAlt": "Graphic Card",
+                  "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                  "gamingIconAlt": "Graphic Card",
+                  "c": 98,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Memory",
+                  "b": "6 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                  "mediaIconAlt": "Memory",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                  "gamingIconAlt": "Memory",
+                  "c": 97,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Storage",
+                  "b": "256 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                  "mediaIconAlt": "Storage",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                  "gamingIconAlt": "Storage",
+                  "c": 96,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Display",
+                  "b": "6.6\" FHD+ (2400 x 1080) IPS, Touchscreen",
+                  "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                  "mediaIconAlt": "Display",
+                  "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                  "gamingIconAlt": "Display",
+                  "c": 95,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Warranty",
+                  "b": "1 Year",
+                  "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                  "mediaIconAlt": "Warranty",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                  "gamingIconAlt": "Warranty",
+                  "c": 73,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Weight",
+                  "b": "0.2kgs / 0.44lbs",
+                  "mediaIcon": null,
+                  "mediaIconAlt": null,
+                  "gamingIcon": null,
+                  "gamingIconAlt": null,
+                  "c": 6,
+                  "webExclusive": 0
+                }
+              ],
+              "marketingLongDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003ECreate at the speed of your imagination with the new moto g stylus 5G featuring a built-in stylus.&nbsp;\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EConnect at lightning-fast 5G speeds. Feel the power of a Snapdragon\u003Csup\u003E®\u003C/sup\u003E 6 Gen 1 processor. Take photos with a 50MP camera system. Unleash your creativity with moto g stylus 5G.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EExperience immersive entertainment on a 6.6&quot; 120Hz display and Dolby Atmos\u003Csup\u003E®\u003C/sup\u003E sound.&nbsp;\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECapture your sharpest, brightest photos with a 50MP camera system.&nbsp;\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECompatible carriers include Verizon, AT&amp;T, T-Mobile, Boost and more! See tech specs for full list.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "marketingShortDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003EBrilliant 6.4&quot; FHD+ OLED display\u003Cbr/\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECapture sharper photos thanks to a 50MP camera system enhanced with ultrapixel technology.&nbsp;\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EEnjoy 6.6&quot; 120Hz2 display and Dolby Atmos\u003Csup\u003E®\u003C/sup\u003E sound\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "summary": "moto g stylus 5G (2023) - Unlocked - Cosmic Black",
+              "url": "/p/phones/motorola-smartphones/motorola-moto-g/Moto-G-Stylus-5G-2023/paxf0006us",
+              "flCode": "phones",
+              "flName": "Phones",
+              "hasClaimIndicator": false,
+              "couponConsumed": false,
+              "isDCGSubseries": false,
+              "isOutlet": false,
+              "modelEnabled": 0,
+              "launchDate": 0,
+              "teleUser": false,
+              "beforeTaxPrice": "399.99",
+              "lowestPrice": {
+                "price": null,
+                "percentage": null
+              },
+              "finalPriceType": 1,
+              "specialOffers": [],
+              "softBundleType": "",
+              "virtualProductCode": "",
+              "configId": "",
+              "score": 2,
+              "bannerPromotionalTile": false,
+              "brDesktopBundleChildren": false,
+              "goodForFeatures": {
+  
+              }
+            },
+            {
+              "id": "PAWA0007US_0e49db5e-0834-41ba-84fe-f796497ba9fc",
+              "productName": "MOTOPHN XT2311-3 US 6+256 BW SS",
+              "productType": "0",
+              "productCode": "PAWA0007US",
+              "productStatus": "",
+              "baseWarrantyKey": "MD8",
+              "essFlag": "NO",
+              "webPrice": "299.99",
+              "finalPrice": "299.99",
+              "saveAmount": "0.00",
+              "savePercent": "0",
+              "isMedion": false,
+              "ratingStar": "3.9",
+              "commentCount": 89,
+              "marketingStatus": "Available",
+              "modelsCount": 0,
+              "leadTimeMessage": "",
+              "inventoryStatus": 2,
+              "currencySymbol": "$",
+              "currencyCode": "USD",
+              "modifyTime": 1740787772194,
+              "onlineDate": 1692199695000,
+              "categoryPath": [
+                "ROOTPMI",
+                "phones",
+                "motorola-smartphones",
+                "motorola-moto-g",
+                "LEN311M0026"
+              ],
+              "machineType": "PMIPMFN33MTPAWA",
+              "purchaseFlag": true,
+              "media": {
+                "thumbnail": {
+                  "imageName": "25720717067_Moto g power 5G Bright White IMG_20230407021845.png",
+                  "imageAddress": "https://p1-ofp.static.pub/medias/25720717067_Motogpower5GBrightWhiteIMG_202304070218451681099533912.png"
+                },
+                "gallery": [
+                  {
+                    "imageName": "moto-g-power-5g-pdp-render-Brightwhite-1n94mf9b4.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/moto-g-power-5g-pdp-render-Brightwhite-1n94mf9b41725501026110.png"
+                  },
+                  {
+                    "imageName": "moto-g-power-5g-pdp-render-Brightwhite-2xbivx96q.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/moto-g-power-5g-pdp-render-Brightwhite-2xbivx96q1725501028539.png"
+                  },
+                  {
+                    "imageName": "moto-g-power-5g-pdp-render-Brightwhite-32mznmrc5.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/moto-g-power-5g-pdp-render-Brightwhite-32mznmrc51725501031154.png"
+                  }
+                ],
+                "listImage": [
+                  {
+                    "imageName": "lenovo-moto-g-power-5g-white.png",
+                    "imageAddress": "//p4-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-power-5g-white.png"
+                  }
+                ],
+                "subseriesListImage": [
+                  {
+                    "imageName": "lenovo-moto-g-power-5g-white.png",
+                    "imageAddress": "//p4-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-power-5g-white.png"
+                  }
+                ],
+                "heroImage": {
+                  "imageName": "lenovo-moto-g-power-5g-bright-white-01.png",
+                  "imageAddress": "//p2-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-moto-g-power-5g-bright-white-01.png"
+                }
+              },
+              "classification": [
+                {
+                  "a": "Processor",
+                  "b": "MediaTek Dimensity 930 Processor (2.20 GHz)",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                  "mediaIconAlt": "Processor",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                  "gamingIconAlt": "Processor",
+                  "c": 100,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Operating System",
+                  "b": "Android™ 13",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                  "mediaIconAlt": "Operating System",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                  "gamingIconAlt": "Operating System",
+                  "c": 99,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Graphic Card",
+                  "b": "IMG BXM-8-256 GPU",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                  "mediaIconAlt": "Graphic Card",
+                  "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                  "gamingIconAlt": "Graphic Card",
+                  "c": 98,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Memory",
+                  "b": "6 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                  "mediaIconAlt": "Memory",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                  "gamingIconAlt": "Memory",
+                  "c": 97,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Storage",
+                  "b": "256 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                  "mediaIconAlt": "Storage",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                  "gamingIconAlt": "Storage",
+                  "c": 96,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Display",
+                  "b": "6.5\" FHD+ (2400 x 1080) IPS, Touchscreen",
+                  "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                  "mediaIconAlt": "Display",
+                  "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                  "gamingIconAlt": "Display",
+                  "c": 95,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Warranty",
+                  "b": "1 Year",
+                  "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                  "mediaIconAlt": "Warranty",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                  "gamingIconAlt": "Warranty",
+                  "c": 73,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Weight",
+                  "b": "185.0kgs / 407.0lbs",
+                  "mediaIcon": null,
+                  "mediaIconAlt": null,
+                  "gamingIcon": null,
+                  "gamingIconAlt": null,
+                  "c": 6,
+                  "webExclusive": 0
+                }
+              ],
+              "marketingLongDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003EExperience ultra-fast 5G performance with an octa-core processor.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EEnjoy seamless scrolling on a razor-sharp 6.5&quot; FHD+ display with a 120Hz refresh rate.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EGo for days on a single charge of the 5000mAh battery. And capture super sharp photos day or night with a 50MP camera system.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECompatible carriers include Verizon, AT&amp;T, T-Mobile, Boost and more! See tech specs for full list.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "marketingShortDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003EExperience ultra-fast 5G performance with an octa-core processor.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EEnjoy seamless scrolling on a razor-sharp 6.5&quot; FHD+ display with a 120Hz refresh rate.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "summary": "moto g power 5G (2023) - Unlocked - Bright White",
+              "url": "/p/phones/motorola-smartphones/motorola-moto-g/Moto-G-Power-5G-2023/pawa0007us",
+              "flCode": "phones",
+              "flName": "Phones",
+              "hasClaimIndicator": false,
+              "couponConsumed": false,
+              "isDCGSubseries": false,
+              "isOutlet": false,
+              "modelEnabled": 0,
+              "launchDate": 0,
+              "teleUser": false,
+              "beforeTaxPrice": "299.99",
+              "lowestPrice": {
+                "price": null,
+                "percentage": null
+              },
+              "finalPriceType": 1,
+              "specialOffers": [],
+              "softBundleType": "",
+              "virtualProductCode": "",
+              "configId": "",
+              "score": 2,
+              "bannerPromotionalTile": false,
+              "brDesktopBundleChildren": false,
+              "goodForFeatures": {
+  
+              }
+            },
+            {
+              "id": "PASE0005US_0e49db5e-0834-41ba-84fe-f796497ba9fc",
+              "productName": "MOTO Phone XT2165-5 US 4+64 DG SS",
+              "productType": "0",
+              "productCode": "PASE0005US",
+              "productStatus": "",
+              "baseWarrantyKey": "MD8",
+              "essFlag": "NO",
+              "webPrice": "199.99",
+              "finalPrice": "199.99",
+              "saveAmount": "0.00",
+              "savePercent": "0",
+              "isMedion": false,
+              "ratingStar": "4.1",
+              "commentCount": 156,
+              "marketingStatus": "Temporarily Unavailable",
+              "modelsCount": 0,
+              "leadTime": 1,
+              "leadTimeMessage": "Ships FREE by Tue, Aug 13",
+              "inventoryStatus": 1,
+              "currencySymbol": "$",
+              "currencyCode": "USD",
+              "modifyTime": 1740787771182,
+              "onlineDate": 1654863445000,
+              "categoryPath": [
+                "ROOTPMI",
+                "phones",
+                "motorola-smartphones",
+                "motorola-moto-g",
+                "LEN311M0014"
+              ],
+              "machineType": "PMIPMEL30MQPASE",
+              "purchaseFlag": true,
+              "media": {
+                "thumbnail": {
+                  "imageName": "24188684324_12_20220117053744.png",
+                  "imageAddress": "https://p1-ofp.static.pub/medias/24188684324_12_202201170537441667326084776.png"
+                },
+                "gallery": [
+                  {
+                    "imageName": "2021_Tonga-Smooth_Basic-Pack_Dark-Grove_PDP-Hero.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/2021_Tonga-Smooth_Basic-Pack_Dark-Grove_PDP-Hero1722840304981.png"
+                  },
+                  {
+                    "imageName": "2021_Tonga-Smooth_Basic-Pack_Dark-Grove_Frontside.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/2021_Tonga-Smooth_Basic-Pack_Dark-Grove_Frontside1722840309962.png"
+                  },
+                  {
+                    "imageName": "2021_Tonga-Smooth_Basic-Pack_Dark-Grove_Backside.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/2021_Tonga-Smooth_Basic-Pack_Dark-Grove_Backside1722840314550.png"
+                  },
+                  {
+                    "imageName": "2021_Tonga-Smooth_Basic-Pack_Dark-Grove_Left.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/2021_Tonga-Smooth_Basic-Pack_Dark-Grove_Left1722840319517.png"
+                  },
+                  {
+                    "imageName": "edge2022transcarriers2.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/edge2022transcarriers21722840323322.png"
+                  }
+                ],
+                "listImage": [
+                  {
+                    "imageName": "lenovo-moto-g-power-dark-grove.png",
+                    "imageAddress": "//p4-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-power-dark-grove.png"
+                  }
+                ],
+                "subseriesListImage": [
+                  {
+                    "imageName": "lenovo-moto-g-power-dark-grove.png",
+                    "imageAddress": "//p4-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-power-dark-grove.png"
+                  }
+                ],
+                "heroImage": {
+                  "imageName": "lenovo-moto-g-power-dark-grove.png",
+                  "imageAddress": "//p3-ofp.static.pub/ShareResource/na/subseries/hero/lenovo-moto-g-power-dark-grove.png"
+                }
+              },
+              "classification": [
+                {
+                  "a": "Processor",
+                  "b": "MediaTek® Helio G37 (Octa-Core @2.00 GHz)",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                  "mediaIconAlt": "Processor",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                  "gamingIconAlt": "Processor",
+                  "c": 100,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Operating System",
+                  "b": "Android™ 11",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                  "mediaIconAlt": "Operating System",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                  "gamingIconAlt": "Operating System",
+                  "c": 99,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Graphic Card",
+                  "b": "IMG PowerVR GE8320",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                  "mediaIconAlt": "Graphic Card",
+                  "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                  "gamingIconAlt": "Graphic Card",
+                  "c": 98,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Memory",
+                  "b": "4 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                  "mediaIconAlt": "Memory",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                  "gamingIconAlt": "Memory",
+                  "c": 97,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Storage",
+                  "b": "64 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                  "mediaIconAlt": "Storage",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                  "gamingIconAlt": "Storage",
+                  "c": 96,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Display",
+                  "b": "6.5\" HD+ (1600 x 720) touchscreen",
+                  "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                  "mediaIconAlt": "Display",
+                  "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                  "gamingIconAlt": "Display",
+                  "c": 95,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Warranty",
+                  "b": "1 Year",
+                  "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                  "mediaIconAlt": "Warranty",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                  "gamingIconAlt": "Warranty",
+                  "c": 73,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Weight",
+                  "b": "0.2kgs / 0.45lbs",
+                  "mediaIcon": null,
+                  "mediaIconAlt": null,
+                  "gamingIcon": null,
+                  "gamingIconAlt": null,
+                  "c": 6,
+                  "webExclusive": 0
+                }
+              ],
+              "marketingLongDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003EListen to your favorite tunes, enjoy a movie marathon, or scroll through your social feeds while on the go without needing to stop for a recharge.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003E50 MP camera system that lets you capture details up close, shoot from the front and rear cameras at the same time\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECompatible Carriers include Verizon, AT&amp;T, T-Mobile, Boost and more! See tech specs for full list.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "marketingShortDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003EGreat for entertainment, a 6.5” ultra-wide Max Vision Display\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003E50 MP camera system that lets you capture details up close, shoot from the front and rear cameras at the same time\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ELeave the charger at home and head out with a battery that can go up to 3 days\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "summary": "Motorola G Power (2022) - Unlocked - Dark Grove",
+              "url": "/p/phones/motorola-smartphones/motorola-moto-g/Moto-G-Power-(2022)/pase0005us",
+              "flCode": "phones",
+              "flName": "Phones",
+              "hasClaimIndicator": false,
+              "couponConsumed": false,
+              "isDCGSubseries": false,
+              "readyToShip": true,
+              "isOutlet": false,
+              "outletFlagColor": "#4C1984",
+              "modelEnabled": 0,
+              "launchDate": 0,
+              "teleUser": false,
+              "beforeTaxPrice": "199.99",
+              "lowestPrice": {
+                "price": null,
+                "percentage": null
+              },
+              "finalPriceType": 1,
+              "specialOffers": [],
+              "softBundleType": "",
+              "virtualProductCode": "",
+              "configId": "",
+              "score": 2,
+              "bannerPromotionalTile": false,
+              "brDesktopBundleChildren": false,
+              "goodForFeatures": {
+  
+              }
+            },
+            {
+              "id": "PAXF0007US_0e49db5e-0834-41ba-84fe-f796497ba9fc",
+              "productName": "PHN MOTO XT2315-1 US CG 6+256 SS RTL",
+              "productType": "0",
+              "productCode": "PAXF0007US",
+              "productStatus": "",
+              "baseWarrantyKey": "MD8",
+              "essFlag": "NO",
+              "webPrice": "399.99",
+              "finalPrice": "399.99",
+              "saveAmount": "0.00",
+              "savePercent": "0",
+              "isMedion": false,
+              "ratingStar": "4.3",
+              "commentCount": 65,
+              "marketingStatus": "Temporarily Unavailable",
+              "modelsCount": 0,
+              "leadTime": 1,
+              "leadTimeMessage": "Ships FREE by Mon, Mar 03",
+              "inventoryStatus": 1,
+              "currencySymbol": "$",
+              "currencyCode": "USD",
+              "modifyTime": 1740787772294,
+              "onlineDate": 1692304675000,
+              "categoryPath": [
+                "ROOTPMI",
+                "phones",
+                "motorola-smartphones",
+                "motorola-moto-g",
+                "LEN311M0025"
+              ],
+              "machineType": "PMIPMFW34MWPAXF",
+              "purchaseFlag": true,
+              "media": {
+                "thumbnail": {
+                  "imageName": "25849102479_Moto G Stylus 5G 2023 Crystal Grey IMG_20230608045558.png",
+                  "imageAddress": "https://p1-ofp.static.pub//medias/25849102479_MotoGStylus5G2023CrystalGreyIMG_202306080455581686557263431.png"
+                },
+                "gallery": [
+                  {
+                    "imageName": "moto-g-stylus-5g-na-pdp-ecom-render-12-color2-7wrm738eg0h9jycl.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/moto-g-stylus-5g-na-pdp-ecom-render-12-color2-7wrm738eg0h9jycl1725070630498.png"
+                  },
+                  {
+                    "imageName": "moto-g-stylus-5g-pdp-ecom-render-9-color2-a5m2sbepdzlpsl4n.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/moto-g-stylus-5g-pdp-ecom-render-9-color2-a5m2sbepdzlpsl4n1725070633976.png"
+                  },
+                  {
+                    "imageName": "moto-g-stylus-5g-pdp-ecom-render-8-color2-f5ynjjpvpy7637xu.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/moto-g-stylus-5g-pdp-ecom-render-8-color2-f5ynjjpvpy7637xu1725070637235.png"
+                  },
+                  {
+                    "imageName": "moto-g-stylus-5g-pdp-ecom-render-14-color2-4lguuz22cnfnz896.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/moto-g-stylus-5g-pdp-ecom-render-14-color2-4lguuz22cnfnz8961725070640120.png"
+                  },
+                  {
+                    "imageName": "moto-g-stylus-5g-pdp-ecom-render-11-color2-y0g5xbmiix3fydn6.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/moto-g-stylus-5g-pdp-ecom-render-11-color2-y0g5xbmiix3fydn61725070643291.png"
+                  }
+                ],
+                "listImage": [
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-geneva.png",
+                    "imageAddress": "//p4-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-stylus-5g-geneva.png"
+                  }
+                ],
+                "subseriesListImage": [
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-geneva-black.png",
+                    "imageAddress": "//p2-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-stylus-5g-geneva-black.png"
+                  }
+                ],
+                "heroImage": {
+                  "imageName": "lenovo-moto-g-stylus-5g-geneva-hero-image.png",
+                  "imageAddress": "//p1-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-moto-g-stylus-5g-geneva-hero-image.png"
+                }
+              },
+              "classification": [
+                {
+                  "a": "Processor",
+                  "b": "Qualcomm® Snapdragon™ 6 Gen 1 Processor (2.20 GHz)",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                  "mediaIconAlt": "Processor",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                  "gamingIconAlt": "Processor",
+                  "c": 100,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Operating System",
+                  "b": "Android™ 13",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                  "mediaIconAlt": "Operating System",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                  "gamingIconAlt": "Operating System",
+                  "c": 99,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Graphic Card",
+                  "b": "Qualcomm® Adreno™ 600 GPU",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                  "mediaIconAlt": "Graphic Card",
+                  "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                  "gamingIconAlt": "Graphic Card",
+                  "c": 98,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Memory",
+                  "b": "6 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                  "mediaIconAlt": "Memory",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                  "gamingIconAlt": "Memory",
+                  "c": 97,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Storage",
+                  "b": "256 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                  "mediaIconAlt": "Storage",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                  "gamingIconAlt": "Storage",
+                  "c": 96,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Display",
+                  "b": "6.6\" FHD+ (2400 x 1080) IPS, Touchscreen",
+                  "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                  "mediaIconAlt": "Display",
+                  "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                  "gamingIconAlt": "Display",
+                  "c": 95,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Warranty",
+                  "b": "1 Year",
+                  "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                  "mediaIconAlt": "Warranty",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                  "gamingIconAlt": "Warranty",
+                  "c": 73,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Weight",
+                  "b": "0.2kgs / 0.44lbs",
+                  "mediaIcon": null,
+                  "mediaIconAlt": null,
+                  "gamingIcon": null,
+                  "gamingIconAlt": null,
+                  "c": 6,
+                  "webExclusive": 0
+                }
+              ],
+              "marketingLongDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003ECreate at the speed of your imagination with the new moto g stylus 5G featuring a built-in stylus.&nbsp;\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EConnect at lightning-fast 5G speeds. Feel the power of a Snapdragon\u003Csup\u003E®\u003C/sup\u003E 6 Gen 1 processor. Take photos with a 50MP camera system. Unleash your creativity with moto g stylus 5G.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EExperience immersive entertainment on a 6.6&quot; 120Hz display and Dolby Atmos\u003Csup\u003E®\u003C/sup\u003E sound.&nbsp;\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECapture your sharpest, brightest photos with a 50MP camera system.&nbsp;\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECompatible carriers include Verizon, AT&amp;T, T-Mobile, Boost and more! See tech specs for full list.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "marketingShortDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003EBrilliant 6.4&quot; FHD+ OLED display\u003Cbr/\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECapture sharper photos thanks to a 50MP camera system enhanced with ultrapixel technology.&nbsp;\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EEnjoy 6.6&quot; 120Hz2 display and Dolby Atmos\u003Csup\u003E®\u003C/sup\u003E sound\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "summary": "moto g stylus 5G (2023) - Unlocked - Rose Champagne",
+              "url": "/p/phones/motorola-smartphones/motorola-moto-g/Moto-G-Stylus-5G-2023/paxf0007us",
+              "flCode": "phones",
+              "flName": "Phones",
+              "hasClaimIndicator": false,
+              "couponConsumed": false,
+              "isDCGSubseries": false,
+              "readyToShip": true,
+              "isOutlet": false,
+              "modelEnabled": 0,
+              "launchDate": 0,
+              "teleUser": false,
+              "beforeTaxPrice": "399.99",
+              "lowestPrice": {
+                "price": null,
+                "percentage": null
+              },
+              "finalPriceType": 1,
+              "specialOffers": [],
+              "softBundleType": "",
+              "virtualProductCode": "",
+              "configId": "",
+              "score": 2,
+              "bannerPromotionalTile": false,
+              "brDesktopBundleChildren": false,
+              "goodForFeatures": {
+  
+              }
+            },
+            {
+              "id": "PAWJ0002US_0e49db5e-0834-41ba-84fe-f796497ba9fc",
+              "productName": "PHN MOTO XT2301-1 US GB 8+512 DS RTL",
+              "productType": "0",
+              "productCode": "PAWJ0002US",
+              "productStatus": "",
+              "baseWarrantyKey": "MD8",
+              "essFlag": "NO",
+              "webPrice": "799.99",
+              "finalPrice": "799.99",
+              "saveAmount": "0.00",
+              "savePercent": "0",
+              "isMedion": false,
+              "ratingStar": "4.0",
+              "commentCount": 36,
+              "marketingStatus": "Available",
+              "modelsCount": 0,
+              "leadTimeMessage": "",
+              "inventoryStatus": 2,
+              "currencySymbol": "$",
+              "currencyCode": "USD",
+              "modifyTime": 1740799431193,
+              "onlineDate": 1689699325000,
+              "categoryPath": [
+                "ROOTPMI",
+                "phones",
+                "motorola-smartphones",
+                "motorola-edge",
+                "LEN311M0022"
+              ],
+              "machineType": "PMIPMFO33M2PAWJ",
+              "purchaseFlag": true,
+              "media": {
+                "thumbnail": {
+                  "imageName": "25819903226_Moto edge 2023 Glass Black IMG_20230524032537.png",
+                  "imageAddress": "https://p1-ofp.static.pub/medias/25819903226_Motoedge2023GlassBlackIMG_202305240325371685265105674.png"
+                },
+                "gallery": [
+                  {
+                    "imageName": "motorola-edge-40-pro-pdp-ecom-render-1-quartz-black-x6mr7rb6.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/motorola-edge-40-pro-pdp-ecom-render-1-quartz-black-x6mr7rb61725070009389.png"
+                  },
+                  {
+                    "imageName": "motorola-edge-40-pro-pdp-ecom-render-4-quartz-black-yc1akdmf.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/motorola-edge-40-pro-pdp-ecom-render-4-quartz-black-yc1akdmf1725070021262.png"
+                  },
+                  {
+                    "imageName": "motorola-edge-40-pro-pdp-ecom-render-2-quartz-black-opof53uh.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/motorola-edge-40-pro-pdp-ecom-render-2-quartz-black-opof53uh1725070017599.png"
+                  }
+                ]
+              },
+              "classification": [
+                {
+                  "a": "Processor",
+                  "b": "Qualcomm® Snapdragon™ 8 Gen 2 Processor (3.20 GHz )",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                  "mediaIconAlt": "Processor",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                  "gamingIconAlt": "Processor",
+                  "c": 100,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Operating System",
+                  "b": "Android 13",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                  "mediaIconAlt": "Operating System",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                  "gamingIconAlt": "Operating System",
+                  "c": 99,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Memory",
+                  "b": "8 GB LPDDR5X (Soldered)",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                  "mediaIconAlt": "Memory",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                  "gamingIconAlt": "Memory",
+                  "c": 97,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Storage",
+                  "b": "512 GB ",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                  "mediaIconAlt": "Storage",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                  "gamingIconAlt": "Storage",
+                  "c": 96,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Display",
+                  "b": "6.7\" FHD+ (2400 x 1080), pOLED, Dolby Vision™, HDR10+, DCI-P3 color space, 1300 nits, 165Hz, Endless Edge Display",
+                  "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                  "mediaIconAlt": "Display",
+                  "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                  "gamingIconAlt": "Display",
+                  "c": 95,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Warranty",
+                  "b": "1 Year Mail-in",
+                  "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                  "mediaIconAlt": "Warranty",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                  "gamingIconAlt": "Warranty",
+                  "c": 73,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Weight",
+                  "b": "0.2kgs / 0.45lbs",
+                  "mediaIcon": null,
+                  "mediaIconAlt": null,
+                  "gamingIcon": null,
+                  "gamingIconAlt": null,
+                  "c": 6,
+                  "webExclusive": 0
+                }
+              ],
+              "summary": "MOTO Phone XT2301-1",
+              "url": "/p/phones/motorola-smartphones/motorola-edge/Motorola-Edge-Plus-2023/pawj0002us",
+              "flCode": "phones",
+              "flName": "Phones",
+              "hasClaimIndicator": false,
+              "couponConsumed": false,
+              "isDCGSubseries": false,
+              "isOutlet": false,
+              "outletFlagColor": "#4C1984",
+              "modelEnabled": 0,
+              "launchDate": 0,
+              "teleUser": false,
+              "beforeTaxPrice": "799.99",
+              "lowestPrice": {
+                "price": null,
+                "percentage": null
+              },
+              "finalPriceType": 1,
+              "specialOffers": [],
+              "softBundleType": "",
+              "virtualProductCode": "",
+              "configId": "",
+              "score": 2,
+              "advancedZooming": "0",
+              "bannerPromotionalTile": false,
+              "brDesktopBundleChildren": false,
+              "goodForFeatures": {
+  
+              }
+            },
+            {
+              "id": "PAXD0010US_0e49db5e-0834-41ba-84fe-f796497ba9fc",
+              "productName": "MOTOPHN XT2313-6 US 4+128 HM SS",
+              "productType": "0",
+              "productCode": "PAXD0010US",
+              "productStatus": "",
+              "baseWarrantyKey": "MD8",
+              "essFlag": "NO",
+              "webPrice": "249.99",
+              "finalPrice": "249.99",
+              "saveAmount": "0.00",
+              "savePercent": "0",
+              "isMedion": false,
+              "ratingStar": "4.3",
+              "commentCount": 24,
+              "marketingStatus": "Available",
+              "modelsCount": 0,
+              "leadTimeMessage": "",
+              "inventoryStatus": 2,
+              "currencySymbol": "$",
+              "currencyCode": "USD",
+              "modifyTime": 1740787771976,
+              "onlineDate": 1688667168000,
+              "categoryPath": [
+                "ROOTPMI",
+                "phones",
+                "motorola-smartphones",
+                "motorola-moto-g",
+                "LEN311M0027"
+              ],
+              "machineType": "PMIPMFV34MUPAXD",
+              "purchaseFlag": true,
+              "media": {
+                "thumbnail": {
+                  "imageName": "25823731032_Moto G5G 2023 Harbor Gray IMG_20230525105932.png",
+                  "imageAddress": "https://p1-ofp.static.pub/medias/25823731032_MotoG5G2023HarborGrayIMG_202305251059321685053974743.png"
+                },
+                "gallery": [
+                  {
+                    "imageName": "moto-g-5g-na-pdp-ecom-render-Harbor-Mist-10-341ep7f7.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/moto-g-5g-na-pdp-ecom-render-Harbor-Mist-10-341ep7f71725070140833.png"
+                  },
+                  {
+                    "imageName": "moto-g-5g-na-pdp-ecom-render-Harbor-Mist-12-7wcdq67t.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/moto-g-5g-na-pdp-ecom-render-Harbor-Mist-12-7wcdq67t1725070145995.png"
+                  },
+                  {
+                    "imageName": "moto-g-5g-na-pdp-ecom-render-Harbor-Mist-9-lnt8m8de.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/moto-g-5g-na-pdp-ecom-render-Harbor-Mist-9-lnt8m8de1725070149062.png"
+                  }
+                ],
+                "listImage": [
+                  {
+                    "imageName": "lenovo-moto-g-5g-penang-gray.png",
+                    "imageAddress": "https://p1-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-5g-penang-gray.png"
+                  }
+                ],
+                "subseriesListImage": [
+                  {
+                    "imageName": "lenovo-moto-g-5g-penang-blue.png",
+                    "imageAddress": "//p4-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-5g-penang-blue.png"
+                  }
+                ],
+                "heroImage": {
+                  "imageName": "lenovo-moto-g-5g-penang-blue-1.png",
+                  "imageAddress": "//p3-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-moto-g-5g-penang-blue-1.png"
+                }
+              },
+              "classification": [
+                {
+                  "a": "Processor",
+                  "b": "Qualcomm® Snapdragon™ 480+ 5G Processor (2.20 GHz)",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                  "mediaIconAlt": "Processor",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                  "gamingIconAlt": "Processor",
+                  "c": 100,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Operating System",
+                  "b": "Android™ 13",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                  "mediaIconAlt": "Operating System",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                  "gamingIconAlt": "Operating System",
+                  "c": 99,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Graphic Card",
+                  "b": "Qualcomm® Adreno™ 619",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                  "mediaIconAlt": "Graphic Card",
+                  "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                  "gamingIconAlt": "Graphic Card",
+                  "c": 98,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Memory",
+                  "b": "4 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                  "mediaIconAlt": "Memory",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                  "gamingIconAlt": "Memory",
+                  "c": 97,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Storage",
+                  "b": "128 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                  "mediaIconAlt": "Storage",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                  "gamingIconAlt": "Storage",
+                  "c": 96,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Display",
+                  "b": "6.5\" HD+ (1600 x 720) Touchscreen, 120Hz",
+                  "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                  "mediaIconAlt": "Display",
+                  "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                  "gamingIconAlt": "Display",
+                  "c": 95,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Warranty",
+                  "b": "1 Year",
+                  "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                  "mediaIconAlt": "Warranty",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                  "gamingIconAlt": "Warranty",
+                  "c": 73,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Weight",
+                  "b": "189.0kgs / 415.8lbs",
+                  "mediaIcon": null,
+                  "mediaIconAlt": null,
+                  "gamingIcon": null,
+                  "gamingIconAlt": null,
+                  "c": 6,
+                  "webExclusive": 0
+                }
+              ],
+              "marketingLongDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003ELarge 6.5&quot; display that fits comfortably in your hand\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EAdvanced 48MP camera system\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EGo up to two days on a single charge of the 5000mAh battery\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECompatible Carriers include Verizon 5G, AT&amp;T 5G, T-Mobile 5G, and more! See tech specs for full list.\u003Cbr/\u003E\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "marketingShortDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003ELarge 6.5&quot; display that fits comfortably in your hand\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EDolby Atmos and stereo speakers\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EGo up to two days on a single charge of the 5000mAh battery\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EAdvanced 48MP camera system\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "summary": "moto g 5G (2023) - unlocked - Harbor Gray",
+              "url": "/p/phones/motorola-smartphones/motorola-moto-g/Moto-G-5G-2023/paxd0010us",
+              "flCode": "phones",
+              "flName": "Phones",
+              "hasClaimIndicator": false,
+              "couponConsumed": false,
+              "isDCGSubseries": false,
+              "isOutlet": false,
+              "modelEnabled": 0,
+              "launchDate": 0,
+              "teleUser": false,
+              "beforeTaxPrice": "249.99",
+              "lowestPrice": {
+                "price": null,
+                "percentage": null
+              },
+              "finalPriceType": 1,
+              "specialOffers": [],
+              "softBundleType": "",
+              "virtualProductCode": "",
+              "configId": "",
+              "score": 2,
+              "bannerPromotionalTile": false,
+              "brDesktopBundleChildren": false,
+              "goodForFeatures": {
+  
+              }
+            },
+            {
+              "id": "PAXD0001US_0e49db5e-0834-41ba-84fe-f796497ba9fc",
+              "productName": "MOTOPHN XT2313-6 US 4+128 BB SS",
+              "productType": "0",
+              "productCode": "PAXD0001US",
+              "productStatus": "",
+              "baseWarrantyKey": "MD8",
+              "essFlag": "NO",
+              "webPrice": "249.99",
+              "finalPrice": "249.99",
+              "saveAmount": "0.00",
+              "savePercent": "0",
+              "isMedion": false,
+              "ratingStar": "4.3",
+              "commentCount": 24,
+              "marketingStatus": "Available",
+              "modelsCount": 0,
+              "leadTimeMessage": "",
+              "inventoryStatus": 2,
+              "currencySymbol": "$",
+              "currencyCode": "USD",
+              "modifyTime": 1740787772467,
+              "onlineDate": 1688666927000,
+              "categoryPath": [
+                "ROOTPMI",
+                "phones",
+                "motorola-smartphones",
+                "motorola-moto-g",
+                "LEN311M0027"
+              ],
+              "machineType": "PMIPMFV34MUPAXD",
+              "purchaseFlag": true,
+              "media": {
+                "thumbnail": {
+                  "imageName": "25823731039_Moto G5G 2023 Ink Blue IMG_20230525105953.png",
+                  "imageAddress": "https://p1-ofp.static.pub/medias/25823731039_MotoG5G2023InkBlueIMG_202305251059531685053813723.png"
+                },
+                "gallery": [
+                  {
+                    "imageName": "moto-g-5g-na-pdp-ecom-kv-render-86wb1pjl.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/moto-g-5g-na-pdp-ecom-kv-render-86wb1pjl1725070128280.png"
+                  },
+                  {
+                    "imageName": "moto-g-5g-na-pdp-ecom-render-Basalt-Blue-2-wpg226f1.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/moto-g-5g-na-pdp-ecom-render-Basalt-Blue-2-wpg226f11725070131050.png"
+                  },
+                  {
+                    "imageName": "moto-g-5g-na-pdp-ecom-render-Basalt-Blue-4-f78my7ea.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/moto-g-5g-na-pdp-ecom-render-Basalt-Blue-4-f78my7ea1725070137618.png"
+                  }
+                ],
+                "listImage": [
+                  {
+                    "imageName": "lenovo-moto-g-5g-penang-blue.png",
+                    "imageAddress": "https://p4-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-5g-penang-blue.png"
+                  }
+                ],
+                "subseriesListImage": [
+                  {
+                    "imageName": "lenovo-moto-g-5g-penang-blue.png",
+                    "imageAddress": "//p4-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-5g-penang-blue.png"
+                  }
+                ],
+                "heroImage": {
+                  "imageName": "lenovo-moto-g-5g-penang-blue-1.png",
+                  "imageAddress": "//p3-ofp.static.pub/ShareResource/na/products/motorola/560x450/lenovo-moto-g-5g-penang-blue-1.png"
+                }
+              },
+              "classification": [
+                {
+                  "a": "Processor",
+                  "b": "Qualcomm® Snapdragon™ 480+ 5G Processor (2.20 GHz)",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                  "mediaIconAlt": "Processor",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                  "gamingIconAlt": "Processor",
+                  "c": 100,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Operating System",
+                  "b": "Android™ 13",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                  "mediaIconAlt": "Operating System",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                  "gamingIconAlt": "Operating System",
+                  "c": 99,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Graphic Card",
+                  "b": "Qualcomm® Adreno™ 619",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                  "mediaIconAlt": "Graphic Card",
+                  "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                  "gamingIconAlt": "Graphic Card",
+                  "c": 98,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Memory",
+                  "b": "4 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                  "mediaIconAlt": "Memory",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                  "gamingIconAlt": "Memory",
+                  "c": 97,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Storage",
+                  "b": "128 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                  "mediaIconAlt": "Storage",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                  "gamingIconAlt": "Storage",
+                  "c": 96,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Display",
+                  "b": "6.5\" HD+ (1600 x 720) Touchscreen, 120Hz",
+                  "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                  "mediaIconAlt": "Display",
+                  "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                  "gamingIconAlt": "Display",
+                  "c": 95,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Warranty",
+                  "b": "1 Year",
+                  "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                  "mediaIconAlt": "Warranty",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                  "gamingIconAlt": "Warranty",
+                  "c": 73,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Weight",
+                  "b": "189.0kgs / 415.8lbs",
+                  "mediaIcon": null,
+                  "mediaIconAlt": null,
+                  "gamingIcon": null,
+                  "gamingIconAlt": null,
+                  "c": 6,
+                  "webExclusive": 0
+                }
+              ],
+              "marketingLongDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003ELarge 6.5&quot; display that fits comfortably in your hand\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EAdvanced 48MP camera system\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EGo up to two days on a single charge of the 5000mAh battery\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECompatible Carriers include Verizon 5G, AT&amp;T 5G, T-Mobile 5G, and more! See tech specs for full list.\u003Cbr/\u003E\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "marketingShortDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003ELarge 6.5&quot; display that fits comfortably in your hand\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EDolby Atmos and stereo speakers\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EGo up to two days on a single charge of the 5000mAh battery\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EAdvanced 48MP camera system\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "summary": "moto g 5G (2023) - unlocked - Ink Blue",
+              "url": "/p/phones/motorola-smartphones/motorola-moto-g/Moto-G-5G-2023/paxd0001us",
+              "flCode": "phones",
+              "flName": "Phones",
+              "hasClaimIndicator": false,
+              "couponConsumed": false,
+              "isDCGSubseries": false,
+              "isOutlet": false,
+              "modelEnabled": 0,
+              "launchDate": 0,
+              "teleUser": false,
+              "beforeTaxPrice": "249.99",
+              "lowestPrice": {
+                "price": null,
+                "percentage": null
+              },
+              "finalPriceType": 1,
+              "specialOffers": [],
+              "softBundleType": "",
+              "virtualProductCode": "",
+              "configId": "",
+              "score": 2,
+              "bannerPromotionalTile": false,
+              "brDesktopBundleChildren": false,
+              "goodForFeatures": {
+  
+              }
+            },
+            {
+              "id": "PAUJ0001US_0e49db5e-0834-41ba-84fe-f796497ba9fc",
+              "productName": "PHN MOTO XT2205-1 US MN 8+256 SS RTL",
+              "productType": "0",
+              "productCode": "PAUJ0001US",
+              "productStatus": "",
+              "baseWarrantyKey": "MD8",
+              "essFlag": "NO",
+              "webPrice": "599.99",
+              "finalPrice": "599.99",
+              "saveAmount": "0.00",
+              "savePercent": "0",
+              "isMedion": false,
+              "ratingStar": "4.2",
+              "commentCount": 53,
+              "marketingStatus": "Available",
+              "modelsCount": 0,
+              "leadTimeMessage": "",
+              "inventoryStatus": 2,
+              "currencySymbol": "$",
+              "currencyCode": "USD",
+              "modifyTime": 1740787770302,
+              "onlineDate": 1664219433000,
+              "categoryPath": [
+                "ROOTPMI",
+                "phones",
+                "motorola-smartphones",
+                "motorola-edge",
+                "LEN311M0020"
+              ],
+              "machineType": "PMIPMFD32MCPAUJ",
+              "purchaseFlag": true,
+              "media": {
+                "thumbnail": {
+                  "imageName": "25302267010_Moto Edge(2022)_20220818120435.jpg",
+                  "imageAddress": "https://p1-ofp.static.pub/medias/25302267010_MotoEdge2022_202208181204351661155507500.jpg"
+                },
+                "gallery": [
+                  {
+                    "imageName": "Motorola-edge-pdp-kv-render-MoonlessNight-1-pyfffdtt.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/Motorola-edge-pdp-kv-render-MoonlessNight-1-pyfffdtt1722917619183.png"
+                  },
+                  {
+                    "imageName": "Motorola-edge-pdp-render-MoonlessNight-2-rspk5jdt.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/Motorola-edge-pdp-render-MoonlessNight-2-rspk5jdt1722917624294.png"
+                  },
+                  {
+                    "imageName": "Motorola-edge-pdp-render-MoonlessNight-5-z6lh4f8d.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/Motorola-edge-pdp-render-MoonlessNight-5-z6lh4f8d1722917629742.png"
+                  },
+                  {
+                    "imageName": "Motorola-edge-pdp-render-MoonlessNight-3-vpbts08u.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/Motorola-edge-pdp-render-MoonlessNight-3-vpbts08u1722917634831.png"
+                  },
+                  {
+                    "imageName": "edge2022transcarriers2.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/edge2022transcarriers21722917642095.png"
+                  }
+                ],
+                "listImage": [
+                  {
+                    "imageName": "lenovo-moto-edge-22.png",
+                    "imageAddress": "//p3-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-edge-22.png"
+                  }
+                ],
+                "subseriesListImage": [
+                  {
+                    "imageName": "lenovo-moto-edge-22.png",
+                    "imageAddress": "//p3-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-edge-22.png"
+                  }
+                ]
+              },
+              "classification": [
+                {
+                  "a": "Processor",
+                  "b": "MediaTek Dimensity 1050 Processor (2.50 GHz)",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                  "mediaIconAlt": "Processor",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                  "gamingIconAlt": "Processor",
+                  "c": 100,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Operating System",
+                  "b": "Android™ 12",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                  "mediaIconAlt": "Operating System",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                  "gamingIconAlt": "Operating System",
+                  "c": 99,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Graphic Card",
+                  "b": "Mali G610 MC3",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                  "mediaIconAlt": "Graphic Card",
+                  "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                  "gamingIconAlt": "Graphic Card",
+                  "c": 98,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Memory",
+                  "b": "8 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                  "mediaIconAlt": "Memory",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                  "gamingIconAlt": "Memory",
+                  "c": 97,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Storage",
+                  "b": "256 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                  "mediaIconAlt": "Storage",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                  "gamingIconAlt": "Storage",
+                  "c": 96,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Display",
+                  "b": "6.6\" FHD+ (2400 x 1080) OLED, Touchscreen",
+                  "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                  "mediaIconAlt": "Display",
+                  "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                  "gamingIconAlt": "Display",
+                  "c": 95,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Warranty",
+                  "b": "1 Year",
+                  "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                  "mediaIconAlt": "Warranty",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                  "gamingIconAlt": "Warranty",
+                  "c": 73,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Weight",
+                  "b": "0.17kgs / 0.37lbs",
+                  "mediaIcon": null,
+                  "mediaIconAlt": null,
+                  "gamingIcon": null,
+                  "gamingIconAlt": null,
+                  "c": 6,
+                  "webExclusive": 0
+                }
+              ],
+              "marketingLongDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003EEnjoy a cinematic big-screen experience with over a billion shades of color on a 6.6” OLED display. \u003Cspan style=\"white-space: pre;\"\u003E\t\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EConnect your phone wirelessly to an external device with Ready For.\u003Cspan style=\"white-space: pre;\"\u003E\t\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EIncludes ThinkShield for mobile’s comprehensive hardware and software security features.\u003Cspan style=\"white-space: pre;\"\u003E\t\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003E\u003Cspan style=\"white-space: pre;\"\u003E\u003C/span\u003ECompatible Carriers include Verizon 5G, AT&amp;T, T-Mobile 5G, and more! See tech specs for full list.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "marketingShortDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003EEye-catching from edge to edge\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ETake incredibly vivid photos and record HDR10+ videos in breathtaking color with the triple high resolution camera phone.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EGo for up to 2 dayswith the 5000 mAh battery.&nbsp;\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EReady For wireless connection to other devices.\u003Cspan style=\"white-space: pre;\"\u003E\t\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EIncludes ThinkShield for mobile.\u003Cspan style=\"white-space:pre\"\u003E\t\u003C/span\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECompatible with most Carriers! See tech specs for full list.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "summary": "motorola edge (2022) - unlocked",
+              "url": "/p/phones/motorola-smartphones/motorola-edge/Motorola-Edge-(2022)/pauj0001us",
+              "flCode": "phones",
+              "flName": "Phones",
+              "hasClaimIndicator": false,
+              "couponConsumed": false,
+              "isDCGSubseries": false,
+              "isOutlet": false,
+              "outletFlagColor": "#4C1984",
+              "modelEnabled": 0,
+              "launchDate": 0,
+              "teleUser": false,
+              "beforeTaxPrice": "599.99",
+              "lowestPrice": {
+                "price": null,
+                "percentage": null
+              },
+              "finalPriceType": 1,
+              "specialOffers": [],
+              "softBundleType": "",
+              "virtualProductCode": "",
+              "configId": "",
+              "score": 2,
+              "bannerPromotionalTile": false,
+              "brDesktopBundleChildren": false,
+              "goodForFeatures": {
+  
+              }
+            },
+            {
+              "id": "PASE0012US_0e49db5e-0834-41ba-84fe-f796497ba9fc",
+              "productName": "MOTOPHN XT2165-5 US 4+128 OS SS",
+              "productType": "0",
+              "productCode": "PASE0012US",
+              "productStatus": "",
+              "baseWarrantyKey": "MD8",
+              "essFlag": "NO",
+              "webPrice": "249.99",
+              "finalPrice": "249.99",
+              "saveAmount": "0.00",
+              "savePercent": "0",
+              "isMedion": false,
+              "ratingStar": "4.1",
+              "commentCount": 156,
+              "marketingStatus": "Temporarily Unavailable",
+              "modelsCount": 0,
+              "leadTime": 1,
+              "leadTimeMessage": "Ships FREE by Tue, Aug 13",
+              "inventoryStatus": 1,
+              "currencySymbol": "$",
+              "currencyCode": "USD",
+              "modifyTime": 1740787770285,
+              "onlineDate": 1654862255000,
+              "categoryPath": [
+                "ROOTPMI",
+                "phones",
+                "motorola-smartphones",
+                "motorola-moto-g",
+                "LEN311M0014"
+              ],
+              "machineType": "PMIPMEL30MQPASE",
+              "purchaseFlag": true,
+              "media": {
+                "thumbnail": {
+                  "imageName": "24188684654_13_20220117053849.png",
+                  "imageAddress": "https://p1-ofp.static.pub/medias/24188684654_13_202201170538491667326037572.png"
+                },
+                "gallery": [
+                  {
+                    "imageName": "2021_Tonga-Smooth_Basic-Pack_Opal-Silver_PDP-Hero.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/2021_Tonga-Smooth_Basic-Pack_Opal-Silver_PDP-Hero1722840330872.png"
+                  },
+                  {
+                    "imageName": "2021_Tonga-Smooth_Basic-Pack_Opal-Silver_Frontside.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/2021_Tonga-Smooth_Basic-Pack_Opal-Silver_Frontside1722840335870.png"
+                  },
+                  {
+                    "imageName": "2021_Tonga-Smooth_Basic-Pack_Opal-Silver_Backside.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/2021_Tonga-Smooth_Basic-Pack_Opal-Silver_Backside1722840341022.png"
+                  },
+                  {
+                    "imageName": "2021_Tonga-Smooth_Basic-Pack_Opal-Silver_Left.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/2021_Tonga-Smooth_Basic-Pack_Opal-Silver_Left1722840345324.png"
+                  },
+                  {
+                    "imageName": "edge2022transcarriers2.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/edge2022transcarriers21722840350673.png"
+                  }
+                ],
+                "listImage": [
+                  {
+                    "imageName": "lenovo-moto-g-power-opal-silver.png",
+                    "imageAddress": "//p3-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-power-opal-silver.png"
+                  }
+                ],
+                "subseriesListImage": [
+                  {
+                    "imageName": "lenovo-moto-g-power-dark-grove.png",
+                    "imageAddress": "//p4-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-power-dark-grove.png"
+                  }
+                ],
+                "heroImage": {
+                  "imageName": "lenovo-moto-g-power-opal-silver.png",
+                  "imageAddress": "//p2-ofp.static.pub/ShareResource/na/subseries/hero/lenovo-moto-g-power-opal-silver.png"
+                }
+              },
+              "classification": [
+                {
+                  "a": "Processor",
+                  "b": "MediaTek® Helio G37 (Octa-Core @2.00 GHz)",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                  "mediaIconAlt": "Processor",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                  "gamingIconAlt": "Processor",
+                  "c": 100,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Operating System",
+                  "b": "Android™ 11",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                  "mediaIconAlt": "Operating System",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                  "gamingIconAlt": "Operating System",
+                  "c": 99,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Graphic Card",
+                  "b": "IMG PowerVR GE8320",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                  "mediaIconAlt": "Graphic Card",
+                  "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                  "gamingIconAlt": "Graphic Card",
+                  "c": 98,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Memory",
+                  "b": "4 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                  "mediaIconAlt": "Memory",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                  "gamingIconAlt": "Memory",
+                  "c": 97,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Storage",
+                  "b": "128 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                  "mediaIconAlt": "Storage",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                  "gamingIconAlt": "Storage",
+                  "c": 96,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Display",
+                  "b": "6.5\" HD+ (1600 x 720) touchscreen",
+                  "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                  "mediaIconAlt": "Display",
+                  "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                  "gamingIconAlt": "Display",
+                  "c": 95,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Warranty",
+                  "b": "1 Year",
+                  "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                  "mediaIconAlt": "Warranty",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                  "gamingIconAlt": "Warranty",
+                  "c": 73,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Weight",
+                  "b": "0.2kgs / 0.45lbs",
+                  "mediaIcon": null,
+                  "mediaIconAlt": null,
+                  "gamingIcon": null,
+                  "gamingIconAlt": null,
+                  "c": 6,
+                  "webExclusive": 0
+                }
+              ],
+              "marketingLongDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003EListen to your favorite tunes, enjoy a movie marathon, or scroll through your social feeds while on the go without needing to stop for a recharge.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003E50 MP camera system that lets you capture details up close, shoot from the front and rear cameras at the same time\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECompatible Carriers include Verizon, AT&amp;T, T-Mobile, Boost and more! See tech specs for full list.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "marketingShortDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003EGreat for entertainment, a 6.5” ultra-wide Max Vision Display\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003E50 MP camera system that lets you capture details up close, shoot from the front and rear cameras at the same time\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ELeave the charger at home and head out with a battery that can go up to 3 days\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "summary": "moto g power (2022) - unlocked - Ice Blue",
+              "url": "/p/phones/motorola-smartphones/motorola-moto-g/Moto-G-Power-(2022)/pase0012us",
+              "flCode": "phones",
+              "flName": "Phones",
+              "hasClaimIndicator": false,
+              "couponConsumed": false,
+              "isDCGSubseries": false,
+              "readyToShip": true,
+              "isOutlet": false,
+              "outletFlagColor": "#4C1984",
+              "modelEnabled": 0,
+              "launchDate": 0,
+              "teleUser": false,
+              "beforeTaxPrice": "249.99",
+              "lowestPrice": {
+                "price": null,
+                "percentage": null
+              },
+              "finalPriceType": 1,
+              "specialOffers": [],
+              "softBundleType": "",
+              "virtualProductCode": "",
+              "configId": "",
+              "score": 2,
+              "bannerPromotionalTile": false,
+              "brDesktopBundleChildren": false,
+              "goodForFeatures": {
+  
+              }
+            },
+            {
+              "id": "PAJ90004US_0e49db5e-0834-41ba-84fe-f796497ba9fc",
+              "productName": "PHN MOTO XT2063-2 US MDNT 6+256 SS RTL",
+              "productType": "0",
+              "productCode": "PAJ90004US",
+              "productStatus": "",
+              "baseWarrantyKey": "",
+              "essFlag": "NO",
+              "webPrice": "699.99",
+              "finalPrice": "699.99",
+              "saveAmount": "0.00",
+              "savePercent": "0",
+              "isMedion": false,
+              "ratingStar": "4.0",
+              "commentCount": 276,
+              "marketingStatus": "Available",
+              "modelsCount": 0,
+              "leadTimeMessage": "",
+              "inventoryStatus": 2,
+              "currencySymbol": "$",
+              "currencyCode": "USD",
+              "modifyTime": 1740787772166,
+              "onlineDate": 1643922201000,
+              "categoryPath": [
+                "ROOTPMI",
+                "phones",
+                "motorola-smartphones",
+                "motorola-edge",
+                "LEN311M0009"
+              ],
+              "machineType": "PMIPMCS22MZPAJ9",
+              "purchaseFlag": true,
+              "media": {
+                "gallery": [
+                  {
+                    "imageName": "racer-5g-pdp-render-4duppxfwb.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/racer-5g-pdp-render-4duppxfwb1722595777297.png"
+                  },
+                  {
+                    "imageName": "racer-5g-pdp-render-1_NA_kv_ede99nfv.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/racer-5g-pdp-render-1_NA_kv_ede99nfv1722595782196.png"
+                  },
+                  {
+                    "imageName": "racer-5g-pdp-render-2jhfjmfdmd.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/racer-5g-pdp-render-2jhfjmfdmd1722595786949.png"
+                  },
+                  {
+                    "imageName": "racer-5g-pdp-render-3jgfgjdhhg.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/racer-5g-pdp-render-3jgfgjdhhg1722595791591.png"
+                  }
+                ],
+                "listImage": [
+                  {
+                    "imageName": "lenovo-motorola-edge-5g-solar-black.png",
+                    "imageAddress": "https://p2-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-motorola-edge-5g-solar-black.png"
+                  }
+                ],
+                "subseriesListImage": [
+                  {
+                    "imageName": "lenovo-motorola-edge-5g-solar-black.png",
+                    "imageAddress": "https://p2-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-motorola-edge-5g-solar-black.png"
+                  }
+                ],
+                "heroImage": {
+                  "imageName": "lenovo-motorola-edge-5g-solar-black.png",
+                  "imageAddress": "https://p1-ofp.static.pub/ShareResource/na/subseries/hero/lenovo-motorola-edge-5g-solar-black.png"
+                }
+              },
+              "classification": [
+                {
+                  "a": "Processor",
+                  "b": "Qualcomm® Snapdragon™ 765",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                  "mediaIconAlt": "Processor",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                  "gamingIconAlt": "Processor",
+                  "c": 100,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Operating System",
+                  "b": "Android™ 10",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                  "mediaIconAlt": "Operating System",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                  "gamingIconAlt": "Operating System",
+                  "c": 99,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Graphic Card",
+                  "b": "Integrated Qualcomm® Adreno™ 620",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                  "mediaIconAlt": "Graphic Card",
+                  "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                  "gamingIconAlt": "Graphic Card",
+                  "c": 98,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Memory",
+                  "b": "6 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                  "mediaIconAlt": "Memory",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                  "gamingIconAlt": "Memory",
+                  "c": 97,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Storage",
+                  "b": "256 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                  "mediaIconAlt": "Storage",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                  "gamingIconAlt": "Storage",
+                  "c": 96,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Display",
+                  "b": "6.7\" FHD+ (2340 x 1080) OLED, Touchscreen",
+                  "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                  "mediaIconAlt": "Display",
+                  "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                  "gamingIconAlt": "Display",
+                  "c": 95,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Warranty",
+                  "b": "1 Year",
+                  "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                  "mediaIconAlt": "Warranty",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                  "gamingIconAlt": "Warranty",
+                  "c": 73,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Weight",
+                  "b": "0.19kgs / 0.42lbs",
+                  "mediaIcon": null,
+                  "mediaIconAlt": null,
+                  "gamingIcon": null,
+                  "gamingIconAlt": null,
+                  "c": 6,
+                  "webExclusive": 0
+                }
+              ],
+              "marketingLongDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003EStream and download your favorite content on blazing-fast 5G.\u003Cbr/\u003E\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EWatch on an immersive Endless Edge display with the most powerful stereo speakers ever.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECapture incredible high-res photos, and go for up to two days with a class-leading battery.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECompatible Carriers include Verizon, AT&amp;T, T-Mobile 5G, and more! See tech specs for full list.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "marketingShortDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003EEndless Edge display that stretches 6.7&quot; and wraps nearly 90 degrees around both sides.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ETake remarkably sharp pictures with the 64 MP sensor, the highest camera resolution in its class\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EFree yourself from power outlets with a 4500 mAh battery, the largest in its class, and go up to 2 days without plugging in.\u003Cbr/\u003E\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "summary": "Motorola Edge (2020) - Unlocked",
+              "url": "/p/phones/motorola-smartphones/motorola-edge/Motorola-Edge-5G/paj90004us",
+              "flCode": "phones",
+              "flName": "Phones",
+              "hasClaimIndicator": false,
+              "couponConsumed": false,
+              "isDCGSubseries": false,
+              "isOutlet": false,
+              "outletFlagColor": "#4C1984",
+              "modelEnabled": 0,
+              "launchDate": 0,
+              "teleUser": false,
+              "beforeTaxPrice": "699.99",
+              "lowestPrice": {
+                "price": null,
+                "percentage": null
+              },
+              "finalPriceType": 1,
+              "specialOffers": [],
+              "softBundleType": "",
+              "virtualProductCode": "",
+              "configId": "",
+              "score": 2,
+              "bannerPromotionalTile": false,
+              "brDesktopBundleChildren": false,
+              "goodForFeatures": {
+  
+              }
+            },
+            {
+              "id": "PAT40000US_0e49db5e-0834-41ba-84fe-f796497ba9fc",
+              "productName": "MOTO Phone XT2211-2 US 6+128 MB SS",
+              "productType": "0",
+              "productCode": "PAT40000US",
+              "productStatus": "",
+              "baseWarrantyKey": "MD8",
+              "essFlag": "NO",
+              "webPrice": "299.99",
+              "finalPrice": "299.99",
+              "saveAmount": "0.00",
+              "savePercent": "0",
+              "isMedion": false,
+              "ratingStar": "4.2",
+              "commentCount": 86,
+              "marketingStatus": "Available",
+              "modelsCount": 0,
+              "leadTimeMessage": "",
+              "inventoryStatus": 2,
+              "currencySymbol": "$",
+              "currencyCode": "USD",
+              "modifyTime": 1740787772294,
+              "onlineDate": 1654883340000,
+              "categoryPath": [
+                "ROOTPMI",
+                "phones",
+                "motorola-smartphones",
+                "motorola-moto-g",
+                "LEN311M0015"
+              ],
+              "machineType": "PMIPMEP30M5PAT4",
+              "purchaseFlag": true,
+              "media": {
+                "thumbnail": {
+                  "imageName": "24477403031_blue_20220510103436.png",
+                  "imageAddress": "https://p1-ofp.static.pub/medias/24477403031_blue_202205101034361667326025765.png"
+                },
+                "gallery": [
+                  {
+                    "imageName": "Moto-G-Stylus-pdp-render-MidnightBlue-4-001c3mf4.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/Moto-G-Stylus-pdp-render-MidnightBlue-4-001c3mf41722841352100.png"
+                  },
+                  {
+                    "imageName": "Moto-G-Stylus-pdp-render-MidnightBlue-3-1prn30mp.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/Moto-G-Stylus-pdp-render-MidnightBlue-3-1prn30mp1722841358441.png"
+                  },
+                  {
+                    "imageName": "Moto-G-Stylus-pdp-render-MidnightBlue-5-23jp9xtb.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/Moto-G-Stylus-pdp-render-MidnightBlue-5-23jp9xtb1722841362749.png"
+                  },
+                  {
+                    "imageName": "Moto-G-Stylus-pdp-render-PinkClay-6-zyogyzuk.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/Moto-G-Stylus-pdp-render-PinkClay-6-zyogyzuk1722841368482.png"
+                  },
+                  {
+                    "imageName": "edge2022transcarriers2.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/edge2022transcarriers21722841372661.png"
+                  }
+                ],
+                "listImage": [
+                  {
+                    "imageName": "lenovo-moto-g-stylus-twilight-blue.png",
+                    "imageAddress": "//p3-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-stylus-twilight-blue.png"
+                  }
+                ],
+                "subseriesListImage": [
+                  {
+                    "imageName": "lenovo-moto-g-stylus-twilight-blue.png",
+                    "imageAddress": "//p3-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-stylus-twilight-blue.png"
+                  }
+                ],
+                "heroImage": {
+                  "imageName": "lenovo-moto-g-stylus-twilight-blue.png",
+                  "imageAddress": "https://p3-ofp.static.pub/ShareResource/na/subseries/hero/lenovo-moto-g-stylus-twilight-blue.png"
+                }
+              },
+              "classification": [
+                {
+                  "a": "Processor",
+                  "b": "MediaTek Helio G88 Processor (2.00 GHz)",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                  "mediaIconAlt": "Processor",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                  "gamingIconAlt": "Processor",
+                  "c": 100,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Operating System",
+                  "b": "Android™ 11",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                  "mediaIconAlt": "Operating System",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                  "gamingIconAlt": "Operating System",
+                  "c": 99,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Graphic Card",
+                  "b": "1 GHZ Mali G52 MC2",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                  "mediaIconAlt": "Graphic Card",
+                  "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                  "gamingIconAlt": "Graphic Card",
+                  "c": 98,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Memory",
+                  "b": "6 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                  "mediaIconAlt": "Memory",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                  "gamingIconAlt": "Memory",
+                  "c": 97,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Storage",
+                  "b": "128 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                  "mediaIconAlt": "Storage",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                  "gamingIconAlt": "Storage",
+                  "c": 96,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Display",
+                  "b": "6.8\" FHD+ (1080 x 2460) touchscreen",
+                  "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                  "mediaIconAlt": "Display",
+                  "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                  "gamingIconAlt": "Display",
+                  "c": 95,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Warranty",
+                  "b": "1 Year",
+                  "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                  "mediaIconAlt": "Warranty",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                  "gamingIconAlt": "Warranty",
+                  "c": 73,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Weight",
+                  "b": "0.2kgs / 0.43lbs",
+                  "mediaIcon": null,
+                  "mediaIconAlt": null,
+                  "gamingIcon": null,
+                  "gamingIconAlt": null,
+                  "c": 6,
+                  "webExclusive": 0
+                }
+              ],
+              "marketingLongDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003ESketch freely, handwrite notes, edit images, and more with a built-in stylus.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EThen explore without boundaries thanks to a 2-day battery and capture it all with a 50 MP camera system.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EIncludes ThinkShield for mobile’s comprehensive hardware and software security features.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EUnlock your phone with your fingerprint – no need for a passcode.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECompatible Carriers include Verizon, AT&amp;T, T-Mobile and more! See tech specs for full list.\u003Cbr/\u003E\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "marketingShortDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003ESketch freely, handwrite notes, edit images, and more with a built-in stylus.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ETake amazing pictures with the 50 MP2 camera system.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003E5000 mAh battery that lasts up to 2 days on a single charge.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EThinkShield\u003Csup\u003E®\u003C/sup\u003E for mobile security included.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "summary": "Moto G Stylus (2022) - Unlocked - Twilight Blue",
+              "url": "/p/phones/motorola-smartphones/motorola-moto-g/Moto-G-Stylus-(2022)/pat40000us",
+              "flCode": "phones",
+              "flName": "Phones",
+              "hasClaimIndicator": false,
+              "couponConsumed": false,
+              "isDCGSubseries": false,
+              "isOutlet": false,
+              "outletFlagColor": "#4C1984",
+              "modelEnabled": 0,
+              "launchDate": 0,
+              "teleUser": false,
+              "beforeTaxPrice": "299.99",
+              "lowestPrice": {
+                "price": null,
+                "percentage": null
+              },
+              "finalPriceType": 1,
+              "specialOffers": [],
+              "softBundleType": "",
+              "virtualProductCode": "",
+              "configId": "",
+              "score": 2,
+              "bannerPromotionalTile": false,
+              "brDesktopBundleChildren": false,
+              "goodForFeatures": {
+  
+              }
+            },
+            {
+              "id": "PATJ0002US_0e49db5e-0834-41ba-84fe-f796497ba9fc",
+              "productName": "PHN MOTO XT2215-4 US TM 8+256 SS RTL",
+              "productType": "0",
+              "productCode": "PATJ0002US",
+              "productStatus": "",
+              "baseWarrantyKey": "MD8",
+              "essFlag": "NO",
+              "webPrice": "499.99",
+              "finalPrice": "499.99",
+              "saveAmount": "0.00",
+              "savePercent": "0",
+              "isMedion": false,
+              "ratingStar": "4.3",
+              "commentCount": 153,
+              "marketingStatus": "Available",
+              "modelsCount": 0,
+              "leadTimeMessage": "",
+              "inventoryStatus": 2,
+              "currencySymbol": "$",
+              "currencyCode": "USD",
+              "modifyTime": 1740787770893,
+              "onlineDate": 1654880111000,
+              "categoryPath": [
+                "ROOTPMI",
+                "phones",
+                "motorola-smartphones",
+                "motorola-moto-g",
+                "LEN311M0012"
+              ],
+              "machineType": "PMIPMES31MJPATJ",
+              "purchaseFlag": true,
+              "media": {
+                "thumbnail": {
+                  "imageName": "24485580574_blue_20220511024929.png",
+                  "imageAddress": "https://p1-ofp.static.pub/medias/24485580574_blue_202205110249291667268943671.png"
+                },
+                "gallery": [
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-thermography-01.png",
+                    "imageAddress": "//p1-ofp.static.pub/ShareResource/na/subseries/gallery/lenovo-moto-g-stylus-5g-thermography-01.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-thermography-02.png",
+                    "imageAddress": "//p1-ofp.static.pub/ShareResource/na/subseries/gallery/lenovo-moto-g-stylus-5g-thermography-02.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-thermography-03.png",
+                    "imageAddress": "//p1-ofp.static.pub/ShareResource/na/subseries/gallery/lenovo-moto-g-stylus-5g-thermography-03.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-thermography-04.png",
+                    "imageAddress": "//p4-ofp.static.pub/ShareResource/na/subseries/gallery/lenovo-moto-g-stylus-5g-thermography-04.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-thermography-05.png",
+                    "imageAddress": "//p1-ofp.static.pub/ShareResource/na/subseries/gallery/lenovo-moto-g-stylus-5g-thermography-05.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-seafoam-green-01.png",
+                    "imageAddress": "//p3-ofp.static.pub/ShareResource/na/subseries/gallery/lenovo-moto-g-stylus-5g-seafoam-green-01.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-seafoam-green-02.png",
+                    "imageAddress": "//p1-ofp.static.pub/ShareResource/na/subseries/gallery/lenovo-moto-g-stylus-5g-seafoam-green-02.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-seafoam-green-03.png",
+                    "imageAddress": "//p3-ofp.static.pub/ShareResource/na/subseries/gallery/lenovo-moto-g-stylus-5g-seafoam-green-03.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-seafoam-green-04.png",
+                    "imageAddress": "//p2-ofp.static.pub/ShareResource/na/subseries/gallery/lenovo-moto-g-stylus-5g-seafoam-green-04.png"
+                  }
+                ],
+                "listImage": [
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-thermography.png",
+                    "imageAddress": "//p4-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-stylus-5g-thermography.png"
+                  }
+                ],
+                "subseriesListImage": [
+                  {
+                    "imageName": "lenovo-moto-g-stylus-5g-thermography.png",
+                    "imageAddress": "//p4-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-stylus-5g-thermography.png"
+                  }
+                ],
+                "heroImage": {
+                  "imageName": "lenovo-moto-g-stylus-5g-thermography.png",
+                  "imageAddress": "//p1-ofp.static.pub/ShareResource/na/subseries/hero/lenovo-moto-g-stylus-5g-thermography.png"
+                }
+              },
+              "classification": [
+                {
+                  "a": "Processor",
+                  "b": "Qualcomm® Snapdragon™ 695 Processor (2.20 GHz)",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                  "mediaIconAlt": "Processor",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                  "gamingIconAlt": "Processor",
+                  "c": 100,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Operating System",
+                  "b": "Android™ 12",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                  "mediaIconAlt": "Operating System",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                  "gamingIconAlt": "Operating System",
+                  "c": 99,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Graphic Card",
+                  "b": "Adreno™ 619 GPU",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                  "mediaIconAlt": "Graphic Card",
+                  "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                  "gamingIconAlt": "Graphic Card",
+                  "c": 98,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Memory",
+                  "b": "8 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                  "mediaIconAlt": "Memory",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                  "gamingIconAlt": "Memory",
+                  "c": 97,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Storage",
+                  "b": "256 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                  "mediaIconAlt": "Storage",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                  "gamingIconAlt": "Storage",
+                  "c": 96,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Display",
+                  "b": "6.8\" FHD+ (1080 x 2460) Touchscreen",
+                  "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                  "mediaIconAlt": "Display",
+                  "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                  "gamingIconAlt": "Display",
+                  "c": 95,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Warranty",
+                  "b": "1 Year",
+                  "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                  "mediaIconAlt": "Warranty",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                  "gamingIconAlt": "Warranty",
+                  "c": 73,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Weight",
+                  "b": "0.22kgs / 0.47lbs",
+                  "mediaIcon": null,
+                  "mediaIconAlt": null,
+                  "gamingIcon": null,
+                  "gamingIconAlt": null,
+                  "c": 6,
+                  "webExclusive": 0
+                }
+              ],
+              "marketingLongDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003EStep up in 5G style\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EFind new ways to express yourself with a versatile camera system, built-in stylus, and blazing-fast performance.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECompatible Carriers include Verizon 5G, AT&amp;T, T-Mobile, and more! See tech specs for full list.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "marketingShortDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003ECapture Your Creativity &amp; Step up in 5G style\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EFind new ways to express yourself with a versatile camera system, built-in stylus, and blazing-fast performance.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECompatible with most Carriers! See tech specs for full list.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "summary": "Moto G Stylus 5G (2022) - Steel Blue",
+              "url": "/p/phones/motorola-smartphones/motorola-moto-g/Moto-G-Stylus-5G-(2022)/patj0002us",
+              "flCode": "phones",
+              "flName": "Phones",
+              "hasClaimIndicator": false,
+              "couponConsumed": false,
+              "isDCGSubseries": false,
+              "isOutlet": false,
+              "outletFlagColor": "#4C1984",
+              "modelEnabled": 0,
+              "launchDate": 0,
+              "teleUser": false,
+              "beforeTaxPrice": "499.99",
+              "lowestPrice": {
+                "price": null,
+                "percentage": null
+              },
+              "finalPriceType": 1,
+              "specialOffers": [],
+              "softBundleType": "",
+              "virtualProductCode": "",
+              "configId": "",
+              "score": 2,
+              "bannerPromotionalTile": false,
+              "brDesktopBundleChildren": false,
+              "goodForFeatures": {
+  
+              }
+            },
+            {
+              "id": "PAM80084US_0e49db5e-0834-41ba-84fe-f796497ba9fc",
+              "productName": "PHNMOTO XT2125-4 US BLU 8+128 DS RTL HD",
+              "productType": "0",
+              "productCode": "PAM80084US",
+              "productStatus": "",
+              "baseWarrantyKey": "",
+              "essFlag": "NO",
+              "webPrice": "599.99",
+              "finalPrice": "599.99",
+              "saveAmount": "0.00",
+              "savePercent": "0",
+              "isMedion": false,
+              "ratingStar": "3.1",
+              "commentCount": 6,
+              "marketingStatus": "Available",
+              "modelsCount": 0,
+              "leadTimeMessage": "",
+              "inventoryStatus": 2,
+              "currencySymbol": "$",
+              "currencyCode": "USD",
+              "modifyTime": 1740787770650,
+              "onlineDate": 1635429396000,
+              "categoryPath": [
+                "ROOTPMI",
+                "phones",
+                "motorola-smartphones",
+                "motorola-moto-g",
+                "LEN311M0003"
+              ],
+              "machineType": "PMIPMDM28MBPAM8",
+              "purchaseFlag": true,
+              "media": {
+                "gallery": [
+                  {
+                    "imageName": "lenovo-moto-g100-bright-blue-01.png",
+                    "imageAddress": "https://p3-ofp.static.pub/ShareResource/na/subseries/gallery/lenovo-moto-g100-bright-blue-01.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g100-bright-blue-02.png",
+                    "imageAddress": "https://p1-ofp.static.pub/ShareResource/na/subseries/gallery/lenovo-moto-g100-bright-blue-02.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g100-bright-blue-03.png",
+                    "imageAddress": "https://p2-ofp.static.pub/ShareResource/na/subseries/gallery/lenovo-moto-g100-bright-blue-03.png"
+                  },
+                  {
+                    "imageName": "lenovo-moto-g100-bright-blue-04.png",
+                    "imageAddress": "https://p3-ofp.static.pub/ShareResource/na/subseries/gallery/lenovo-moto-g100-bright-blue-04.png"
+                  }
+                ],
+                "listImage": [
+                  {
+                    "imageName": "lenovo-moto-g100-bright-blue.png",
+                    "imageAddress": "https://p3-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g100-bright-blue.png"
+                  }
+                ],
+                "subseriesListImage": [
+                  {
+                    "imageName": "lenovo-motorola-g100-white.png",
+                    "imageAddress": "//p3-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-motorola-g100-white.png"
+                  }
+                ],
+                "heroImage": {
+                  "imageName": "lenovo-moto-g100-bright-blue.png",
+                  "imageAddress": "https://p2-ofp.static.pub/ShareResource/na/subseries/hero/lenovo-moto-g100-bright-blue.png"
+                }
+              },
+              "classification": [
+                {
+                  "a": "Processor",
+                  "b": "Qualcomm® Snapdragon™ 870 5G Mobile Platform Adreno™ 650 GPU",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                  "mediaIconAlt": "Processor",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                  "gamingIconAlt": "Processor",
+                  "c": 100,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Operating System",
+                  "b": "Android™ 11",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                  "mediaIconAlt": "Operating System",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                  "gamingIconAlt": "Operating System",
+                  "c": 99,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Graphic Card",
+                  "b": "Adreno™ 650 GPU",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                  "mediaIconAlt": "Graphic Card",
+                  "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                  "gamingIconAlt": "Graphic Card",
+                  "c": 98,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Memory",
+                  "b": "8GB LPDDR5",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                  "mediaIconAlt": "Memory",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                  "gamingIconAlt": "Memory",
+                  "c": 97,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Storage",
+                  "b": "128GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                  "mediaIconAlt": "Storage",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                  "gamingIconAlt": "Storage",
+                  "c": 96,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Display",
+                  "b": "6.7” FHD+ (2520 x 1080) Touchscreen",
+                  "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                  "mediaIconAlt": "Display",
+                  "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                  "gamingIconAlt": "Display",
+                  "c": 95,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Warranty",
+                  "b": "1 Year",
+                  "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                  "mediaIconAlt": "Warranty",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                  "gamingIconAlt": "Warranty",
+                  "c": 73,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Weight",
+                  "b": "0.21kgs / 0.46lbs",
+                  "mediaIcon": null,
+                  "mediaIconAlt": null,
+                  "gamingIcon": null,
+                  "gamingIconAlt": null,
+                  "c": 6,
+                  "webExclusive": 0
+                }
+              ],
+              "marketingLongDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003EPowerful performance, superfast 5G speeds, ready For everything, smart, intuitive design with 64 MP high-res camera\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003E\u003C/p\u003EReady For makes being productive easy. All your phone’s games, video calls, and apps on one big screen.\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EIncludes ThinkShield for mobile’s comprehensive hardware and software security features.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECompatible Carriers include, T-Mobile 5G, Google Fi and more! See tech specs for full list.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "marketingShortDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003ETake your entertainment to the next level with a 6.7&quot; ultra-wide display, HDR10 support, and a 90 Hz refresh rate.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECapture sharper photos with Quad Pixel technology.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EGo farther on a single charge with a 5000 mAh battery.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EReady For connection to other devices.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EIncludes ThinkShield for mobile.\u003Cbr/\u003E\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "summary": "Moto G 100 - Unlocked - Iridescent Ocean",
+              "url": "/p/phones/motorola-smartphones/motorola-moto-g/Moto-G100/pam80084us",
+              "flCode": "phones",
+              "flName": "Phones",
+              "hasClaimIndicator": false,
+              "couponConsumed": false,
+              "isDCGSubseries": false,
+              "isOutlet": false,
+              "outletFlagColor": "#4C1984",
+              "modelEnabled": 0,
+              "launchDate": 0,
+              "teleUser": false,
+              "beforeTaxPrice": "599.99",
+              "lowestPrice": {
+                "price": null,
+                "percentage": null
+              },
+              "finalPriceType": 1,
+              "specialOffers": [],
+              "softBundleType": "",
+              "virtualProductCode": "",
+              "configId": "",
+              "score": 2,
+              "bannerPromotionalTile": false,
+              "brDesktopBundleChildren": false,
+              "goodForFeatures": {
+  
+              }
+            },
+            {
+              "id": "PAM80086US_0e49db5e-0834-41ba-84fe-f796497ba9fc",
+              "productName": "PHN MOTO XT2125-4 US WHT 8+128 DS RTL HD",
+              "productType": "0",
+              "productCode": "PAM80086US",
+              "productStatus": "",
+              "baseWarrantyKey": "",
+              "essFlag": "NO",
+              "webPrice": "599.99",
+              "finalPrice": "599.99",
+              "saveAmount": "0.00",
+              "savePercent": "0",
+              "isMedion": false,
+              "ratingStar": "3.1",
+              "commentCount": 6,
+              "marketingStatus": "Temporarily Unavailable",
+              "modelsCount": 0,
+              "leadTime": 1,
+              "leadTimeMessage": "Ships FREE by Tue, Aug 13",
+              "inventoryStatus": 1,
+              "currencySymbol": "$",
+              "currencyCode": "USD",
+              "modifyTime": 1740787771063,
+              "onlineDate": 1650293789000,
+              "categoryPath": [
+                "ROOTPMI",
+                "phones",
+                "motorola-smartphones",
+                "motorola-moto-g",
+                "LEN311M0003"
+              ],
+              "machineType": "PMIPMDM28MBPAM8",
+              "purchaseFlag": true,
+              "media": {
+                "thumbnail": {
+                  "imageName": "lenovo-motorola-g100-white.png",
+                  "imageAddress": "//p2-ofp.static.pub/ShareResource/na/subseries/thumbs/lenovo-motorola-g100-white.png"
+                },
+                "gallery": [
+                  {
+                    "imageName": "lenovo-motorola-g100-white-01.png",
+                    "imageAddress": "//p4-ofp.static.pub/ShareResource/na/subseries/gallery/lenovo-motorola-g100-white-01.png"
+                  },
+                  {
+                    "imageName": "lenovo-motorola-g100-white-02.png",
+                    "imageAddress": "//p3-ofp.static.pub/ShareResource/na/subseries/gallery/lenovo-motorola-g100-white-02.png"
+                  },
+                  {
+                    "imageName": "lenovo-motorola-g100-white-03.png",
+                    "imageAddress": "//p4-ofp.static.pub/ShareResource/na/subseries/gallery/lenovo-motorola-g100-white-03.png"
+                  },
+                  {
+                    "imageName": "lenovo-motorola-g100-white-04.png",
+                    "imageAddress": "//p1-ofp.static.pub/ShareResource/na/subseries/gallery/lenovo-motorola-g100-white-04.png"
+                  }
+                ],
+                "listImage": [
+                  {
+                    "imageName": "lenovo-motorola-g100-white.png",
+                    "imageAddress": "//p3-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-motorola-g100-white.png"
+                  }
+                ],
+                "subseriesListImage": [
+                  {
+                    "imageName": "lenovo-motorola-g100-white.png",
+                    "imageAddress": "//p3-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-motorola-g100-white.png"
+                  }
+                ],
+                "heroImage": {
+                  "imageName": "lenovo-motorola-g100-white.png",
+                  "imageAddress": "//p3-ofp.static.pub/ShareResource/na/subseries/hero/lenovo-motorola-g100-white.png"
+                }
+              },
+              "classification": [
+                {
+                  "a": "Processor",
+                  "b": "Qualcomm® Snapdragon™ 870 5G Mobile Platform Adreno™ 650 GPU",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                  "mediaIconAlt": "Processor",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                  "gamingIconAlt": "Processor",
+                  "c": 100,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Operating System",
+                  "b": "Android™ 11",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                  "mediaIconAlt": "Operating System",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                  "gamingIconAlt": "Operating System",
+                  "c": 99,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Graphic Card",
+                  "b": "Integrated Qualcomm® Adreno™ 650 GPU",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                  "mediaIconAlt": "Graphic Card",
+                  "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                  "gamingIconAlt": "Graphic Card",
+                  "c": 98,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Memory",
+                  "b": "8 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                  "mediaIconAlt": "Memory",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                  "gamingIconAlt": "Memory",
+                  "c": 97,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Storage",
+                  "b": "128 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                  "mediaIconAlt": "Storage",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                  "gamingIconAlt": "Storage",
+                  "c": 96,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Display",
+                  "b": "6.7\" FHD+ (2520 x 1080) Touchscreen",
+                  "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                  "mediaIconAlt": "Display",
+                  "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                  "gamingIconAlt": "Display",
+                  "c": 95,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Warranty",
+                  "b": "1 Year",
+                  "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                  "mediaIconAlt": "Warranty",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                  "gamingIconAlt": "Warranty",
+                  "c": 73,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Weight",
+                  "b": "0.21kgs / 0.46lbs",
+                  "mediaIcon": null,
+                  "mediaIconAlt": null,
+                  "gamingIcon": null,
+                  "gamingIconAlt": null,
+                  "c": 6,
+                  "webExclusive": 0
+                }
+              ],
+              "marketingLongDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003EPowerful performance, superfast 5G speeds, ready For everything, smart, intuitive design with 64 MP high-res camera\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003E\u003C/p\u003EReady For makes being productive easy. All your phone’s games, video calls, and apps on one big screen.\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EIncludes ThinkShield for mobile’s comprehensive hardware and software security features.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECompatible Carriers include, T-Mobile 5G, Google Fi and more! See tech specs for full list.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "marketingShortDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003ETake your entertainment to the next level with a 6.7&quot; ultra-wide display, HDR10 support, and a 90 Hz refresh rate.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECapture sharper photos with Quad Pixel technology.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EGo farther on a single charge with a 5000 mAh battery.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EReady For connection to other devices.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EIncludes ThinkShield for mobile.\u003Cbr/\u003E\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "summary": "Moto G 100 - Unlocked - Iridescent Sky",
+              "url": "/p/phones/motorola-smartphones/motorola-moto-g/Moto-G100/pam80086us",
+              "flCode": "phones",
+              "flName": "Phones",
+              "hasClaimIndicator": false,
+              "couponConsumed": false,
+              "isDCGSubseries": false,
+              "readyToShip": true,
+              "isOutlet": false,
+              "outletFlagColor": "#4C1984",
+              "modelEnabled": 0,
+              "launchDate": 0,
+              "teleUser": false,
+              "beforeTaxPrice": "599.99",
+              "lowestPrice": {
+                "price": null,
+                "percentage": null
+              },
+              "finalPriceType": 1,
+              "specialOffers": [],
+              "softBundleType": "",
+              "virtualProductCode": "",
+              "configId": "",
+              "score": 2,
+              "bannerPromotionalTile": false,
+              "brDesktopBundleChildren": false,
+              "goodForFeatures": {
+  
+              }
+            },
+            {
+              "id": "PAVA0005US_0e49db5e-0834-41ba-84fe-f796497ba9fc",
+              "productName": "MOTOPHN XT2271-5 US 3+32 DB SS",
+              "productType": "0",
+              "productCode": "PAVA0005US",
+              "productStatus": "",
+              "baseWarrantyKey": "MD8",
+              "essFlag": "NO",
+              "webPrice": "149.99",
+              "finalPrice": "149.99",
+              "saveAmount": "0.00",
+              "savePercent": "0",
+              "isMedion": false,
+              "ratingStar": "3.5",
+              "commentCount": 14,
+              "marketingStatus": "Temporarily Unavailable",
+              "modelsCount": 0,
+              "leadTimeMessage": "",
+              "inventoryStatus": 2,
+              "currencySymbol": "$",
+              "currencyCode": "USD",
+              "modifyTime": 1740787771665,
+              "onlineDate": 1699636832000,
+              "categoryPath": [
+                "ROOTPMI",
+                "phones",
+                "motorola-smartphones",
+                "motorola-moto-g",
+                "LEN311M0029"
+              ],
+              "machineType": "PMIPMFK32MZPAVA",
+              "purchaseFlag": true,
+              "media": {
+                "thumbnail": {
+                  "imageName": "25656819474_Moto G play 2023 Dark Blue IMG_20230228014953.png",
+                  "imageAddress": "https://p1-ofp.static.pub/medias/25656819474_MotoGplay2023DarkBlueIMG_202302280149531677586821216.png"
+                },
+                "gallery": [
+                  {
+                    "imageName": "Moto-g-play-pdp-kv-renderqswsw3fd--1-.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/Moto-g-play-pdp-kv-renderqswsw3fd--1-1725070648761.png"
+                  },
+                  {
+                    "imageName": "Moto-g-play-pdp-render-Darkblue-1fpj5ycrf--1-.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/Moto-g-play-pdp-render-Darkblue-1fpj5ycrf--1-1725070654545.png"
+                  },
+                  {
+                    "imageName": "Moto-g-play-pdp-render-Darkblue-3jbudenhm--1-.png",
+                    "imageAddress": "https://p1-ofp.static.pub/medias/Moto-g-play-pdp-render-Darkblue-3jbudenhm--1-1725070660334.png"
+                  }
+                ],
+                "listImage": [
+                  {
+                    "imageName": "lenovo-moto-g-play-v2.png",
+                    "imageAddress": "//p4-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-play-v2.png"
+                  }
+                ],
+                "subseriesListImage": [
+                  {
+                    "imageName": "lenovo-moto-g-play-v2.png",
+                    "imageAddress": "//p4-ofp.static.pub/ShareResource/na/products/motorola/400x300/lenovo-moto-g-play-v2.png"
+                  }
+                ],
+                "heroImage": {
+                  "imageName": "lenovo-moto-g-play.png",
+                  "imageAddress": "//p3-ofp.static.pub/ShareResource/na/subseries/hero/lenovo-moto-g-play.png"
+                }
+              },
+              "classification": [
+                {
+                  "a": "Processor",
+                  "b": "MediaTek Helio G37 Processor (2.30 GHz )",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-processor-xs.svg",
+                  "mediaIconAlt": "Processor",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-processor-pure-light.svg",
+                  "gamingIconAlt": "Processor",
+                  "c": 100,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Operating System",
+                  "b": "Android™ 12",
+                  "mediaIcon": "//p3-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-system-management-xs.svg",
+                  "mediaIconAlt": "Operating System",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/lenovo-business-and-culture/extra-small/lenovo-system-management-pure-light.svg",
+                  "gamingIconAlt": "Operating System",
+                  "c": 99,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Graphic Card",
+                  "b": "IMG PowerVR GE8320 GPU",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-graphic-card-xs.svg",
+                  "mediaIconAlt": "Graphic Card",
+                  "gamingIcon": "//p2-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-graphic-card-pure-light.svg",
+                  "gamingIconAlt": "Graphic Card",
+                  "c": 98,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Memory",
+                  "b": "3 GB",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-memory-xs.svg",
+                  "mediaIconAlt": "Memory",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-memory-pure-light.svg",
+                  "gamingIconAlt": "Memory",
+                  "c": 97,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Storage",
+                  "b": "32 GB ",
+                  "mediaIcon": "//p2-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-cpu-gpu-storage-xs.svg",
+                  "mediaIconAlt": "Storage",
+                  "gamingIcon": "//p3-ofp.static.pub/ShareResource/na/icons/cpu-gpu/extra-small/lenovo-storage-pure-light.svg",
+                  "gamingIconAlt": "Storage",
+                  "c": 96,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Display",
+                  "b": "6.5\" HD+ (1600 x 720) IPS, Touchscreen",
+                  "mediaIcon": "//p1-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-display-display-xs.svg",
+                  "mediaIconAlt": "Display",
+                  "gamingIcon": "//p4-ofp.static.pub/ShareResource/na/icons/display/extra-small/lenovo-display-pure-light.svg",
+                  "gamingIconAlt": "Display",
+                  "c": 95,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Warranty",
+                  "b": "1 Year Mail-in",
+                  "mediaIcon": "//p4-ofp.static.pub/ShareResource/na/icons/16x16/icon-pictogram-business-and-culture-warranty-xs.svg",
+                  "mediaIconAlt": "Warranty",
+                  "gamingIcon": "//p1-ofp.static.pub/ShareResource/na/icons/services-and-certification/extra-small/lenovo-warranty-pure-light.svg",
+                  "gamingIconAlt": "Warranty",
+                  "c": 73,
+                  "webExclusive": 0
+                },
+                {
+                  "a": "Weight",
+                  "b": "0.2kgs / 0.45lbs",
+                  "mediaIcon": null,
+                  "mediaIconAlt": null,
+                  "gamingIcon": null,
+                  "gamingIconAlt": null,
+                  "c": 6,
+                  "webExclusive": 0
+                }
+              ],
+              "marketingLongDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003EWith a fast-refreshing 6.5&quot; 90Hz display, your favorite movies, websites, and games look remarkably smooth and fluid\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EWith a 16MP triple camera system, it’s easy to shoot like a pro\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ELeave your power worries behind with up to three days of battery life\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003ECompatible carriers include Verizon, AT&amp;T, T-Mobile, Boost and more! See tech specs for full list.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "marketingShortDescription": "\u003Cul style=\"list-style-type: disc;\"\u003E\u003Cli\u003E\u003Cp\u003EWith a fast-refreshing 6.5&quot; 90Hz display, your favorite movies, websites, and games look better\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EShoot like a pro with a 16MP triple camera system\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp\u003EEnjoy up to 3 days of battery life\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E",
+              "summary": "moto g play (2023) - Unlocked - Navy Blue",
+              "url": "/p/phones/motorola-smartphones/motorola-moto-g/Moto-G-Play-2023/pava0005us",
+              "flCode": "phones",
+              "flName": "Phones",
+              "hasClaimIndicator": false,
+              "couponConsumed": false,
+              "isDCGSubseries": false,
+              "isOutlet": false,
+              "modelEnabled": 0,
+              "launchDate": 0,
+              "teleUser": false,
+              "beforeTaxPrice": "149.99",
+              "lowestPrice": {
+                "price": null,
+                "percentage": null
+              },
+              "finalPriceType": 1,
+              "specialOffers": [],
+              "softBundleType": "",
+              "virtualProductCode": "",
+              "configId": "",
+              "score": 2,
+              "bannerPromotionalTile": false,
+              "brDesktopBundleChildren": false,
+              "goodForFeatures": {
+  
+              }
+            }
+          ],
+          "count": 17
+        }
+      ],
+      "facetGroups": [
+        {
+          "groupName": null,
+          "facets": [
+            {
+              "facetId": "{!ex=prodCat}lengs_Product_facet_ProdCategories",
+              "facetName": "Product Category",
+              "facetType": "productAttribute",
+              "isShow": true,
+              "isGrayOut": false,
+              "showType": "all",
+              "limitValue": null,
+              "multiSelect": null,
+              "defaultValues": null,
+              "hideValues": null,
+              "sinkEndValues": null,
+              "preselectHideValues": null,
+              "weight": null,
+              "items": [
+                {
+                  "name": "Phones",
+                  "count": "17",
+                  "value": "Phones"
+                }
+              ],
+              "conditionIsBool": false,
+              "facetTooltipDomain": {
+                "videoId": "",
+                "headline": "",
+                "description": "",
+                "tooltipUrl": "",
+                "tooltipTextLink": "",
+                "specTooltip": 1
+              },
+              "nestedGroupSortRule": null,
+              "show": true,
+              "grayOut": false
+            },
+            {
+              "facetId": "{!ex=698}lengs_US_Brand_facet_698",
+              "facetName": "Brand",
+              "facetType": "productAttribute",
+              "isShow": true,
+              "isGrayOut": false,
+              "showType": "all",
+              "limitValue": null,
+              "multiSelect": null,
+              "defaultValues": null,
+              "hideValues": null,
+              "sinkEndValues": null,
+              "preselectHideValues": null,
+              "weight": null,
+              "items": [
+                {
+                  "name": "Motorola",
+                  "count": "17",
+                  "value": "Motorola"
+                }
+              ],
+              "conditionIsBool": false,
+              "facetTooltipDomain": {
+                "videoId": "",
+                "headline": "",
+                "description": "",
+                "tooltipUrl": "",
+                "tooltipTextLink": "",
+                "specTooltip": 1
+              },
+              "nestedGroupSortRule": null,
+              "show": true,
+              "grayOut": false
+            },
+            {
+              "facetId": "{!ex=696}lengs_US_Processor_facet_696",
+              "facetName": "Processor",
+              "facetType": "productAttribute",
+              "isShow": true,
+              "isGrayOut": false,
+              "showType": "all",
+              "limitValue": null,
+              "multiSelect": null,
+              "defaultValues": null,
+              "hideValues": null,
+              "sinkEndValues": null,
+              "preselectHideValues": null,
+              "weight": null,
+              "items": [
+                {
+                  "name": "Qualcomm™",
+                  "count": "10",
+                  "value": "Qualcomm™"
+                },
+                {
+                  "name": "MediaTek™",
+                  "count": "7",
+                  "value": "MediaTek™"
+                }
+              ],
+              "conditionIsBool": false,
+              "facetTooltipDomain": {
+                "videoId": "",
+                "headline": "Processor",
+                "description": "\u003Cp\u003E\u003Cspan style=\"font-size: 12px; font-family: arial, helvetica, sans-serif;\"\u003EThe speed and power of a processor (aka the &#39;brain&#39; of your computer) determines how well and how fast your computer can do things like create spreadsheets, play games, browse the internet, run software, and more. The more cores a processor has, the better it will be at doing multiple things at once.\u003C/span\u003E\u003C/p\u003E",
+                "tooltipUrl": "",
+                "tooltipTextLink": "",
+                "specTooltip": 1
+              },
+              "nestedGroupSortRule": null,
+              "show": true,
+              "grayOut": false
+            },
+            {
+              "facetId": "{!ex=704}lengs_US_Memory_facet_704",
+              "facetName": "Memory",
+              "facetType": "productAttribute",
+              "isShow": true,
+              "isGrayOut": false,
+              "showType": "limit",
+              "limitValue": 3,
+              "multiSelect": null,
+              "defaultValues": null,
+              "hideValues": null,
+              "sinkEndValues": null,
+              "preselectHideValues": null,
+              "weight": null,
+              "items": [
+                {
+                  "name": "8 GB",
+                  "count": "6",
+                  "value": "8 GB"
+                },
+                {
+                  "name": "4 GB",
+                  "count": "5",
+                  "value": "4 GB"
+                },
+                {
+                  "name": "6 GB",
+                  "count": "5",
+                  "value": "6 GB"
+                },
+                {
+                  "name": "3 GB",
+                  "count": "1",
+                  "value": "3 GB"
+                }
+              ],
+              "conditionIsBool": false,
+              "facetTooltipDomain": {
+                "videoId": "",
+                "headline": "Memory",
+                "description": "\u003Cp\u003E\u003Cspan style=\"font-size: 12px; font-family: arial, helvetica, sans-serif;\"\u003EMemory or Random Access Memory (RAM) allows your computer to multitask. It temporarily stores data and the higher number of GB (Gigabytes) means more applications can be running in tandem without slowdowns. Some intensive applications for gaming or video editing, require more RAM for optimal performance.\u003Cbr/\u003EMemory described as &#39;DDR&#39; stands for &#39;Double Data Rate&#39; and processes data approximately twice as fast as a standard memory module. When a number appears after DDR (ie DDR3) that type of memory is approximately twice as fast as the previous generation.\u003C/span\u003E\u003C/p\u003E",
+                "tooltipUrl": "",
+                "tooltipTextLink": "",
+                "specTooltip": 1
+              },
+              "nestedGroupSortRule": null,
+              "show": true,
+              "grayOut": false
+            },
+            {
+              "facetId": "{!ex=857}lengs_US_ScreenSize_facet_857",
+              "facetName": "Screen Size",
+              "facetType": "productAttribute",
+              "isShow": true,
+              "isGrayOut": false,
+              "showType": "all",
+              "limitValue": null,
+              "multiSelect": null,
+              "defaultValues": null,
+              "hideValues": null,
+              "sinkEndValues": null,
+              "preselectHideValues": null,
+              "weight": null,
+              "items": [
+                {
+                  "name": "Less than 7''",
+                  "count": "17",
+                  "value": "Less than 7''"
+                }
+              ],
+              "conditionIsBool": false,
+              "facetTooltipDomain": {
+                "videoId": "",
+                "headline": "Screen Size",
+                "description": "\u003Cp\u003E\u003Cspan style=\"font-size: 12px; font-family: arial, helvetica, sans-serif;\"\u003ESize of the screen, measured diagonally from corner to corner.\u003C/span\u003E\u003C/p\u003E",
+                "tooltipUrl": "",
+                "tooltipTextLink": "",
+                "specTooltip": 1
+              },
+              "nestedGroupSortRule": null,
+              "show": true,
+              "grayOut": false
+            },
+            {
+              "facetId": "{!ex=727}lengs_US_Price_facet_727",
+              "facetName": "Price",
+              "facetType": "price",
+              "isShow": true,
+              "isGrayOut": false,
+              "showType": "all",
+              "limitValue": null,
+              "multiSelect": null,
+              "defaultValues": null,
+              "hideValues": null,
+              "sinkEndValues": null,
+              "preselectHideValues": null,
+              "weight": null,
+              "items": [
+                {
+                  "name": "$100-$299.99",
+                  "count": "8",
+                  "value": "$100-$299.99"
+                },
+                {
+                  "name": "$300-$499.99",
+                  "count": "3",
+                  "value": "$300-$499.99"
+                },
+                {
+                  "name": "$500-$799.99",
+                  "count": "6",
+                  "value": "$500-$799.99"
+                }
+              ],
+              "conditionIsBool": false,
+              "facetTooltipDomain": {
+                "videoId": "",
+                "headline": "",
+                "description": "",
+                "tooltipUrl": "",
+                "tooltipTextLink": "",
+                "specTooltip": 1
+              },
+              "nestedGroupSortRule": null,
+              "show": true,
+              "grayOut": false
+            },
+            {
+              "facetId": "{!ex=705}lengs_US_HardDriveSize_facet_705",
+              "facetName": "Storage",
+              "facetType": "productAttribute",
+              "isShow": true,
+              "isGrayOut": false,
+              "showType": "limit",
+              "limitValue": 3,
+              "multiSelect": null,
+              "defaultValues": null,
+              "hideValues": null,
+              "sinkEndValues": null,
+              "preselectHideValues": null,
+              "weight": null,
+              "items": [
+                {
+                  "name": "128 GB",
+                  "count": "7",
+                  "value": "128 GB"
+                },
+                {
+                  "name": "256 GB",
+                  "count": "6",
+                  "value": "256 GB"
+                },
+                {
+                  "name": "64 GB",
+                  "count": "2",
+                  "value": "64 GB"
+                },
+                {
+                  "name": "32 GB",
+                  "count": "1",
+                  "value": "32 GB"
+                },
+                {
+                  "name": "512 GB",
+                  "count": "1",
+                  "value": "512 GB"
+                }
+              ],
+              "conditionIsBool": false,
+              "facetTooltipDomain": {
+                "videoId": "",
+                "headline": "Storage",
+                "description": "\u003Cp\u003E\u003Cspan style=\"font-size: 12px; font-family: arial, helvetica, sans-serif;\"\u003EThe hard drive is where a computer stores all files, pictures, music, and programs. Different from memory which is temporary when in use, storage determines how much data can be saved on the computer. Measured in &nbsp;Gigabytes (GB) and Terabytes (TB). Terabytes are 1,000 gigabytes.\u003Cbr/\u003EThere are HDD (hard disk) and SSD (solid state) drives. SSDs are faster and use less energy, while HDDs have the ability to store more data and are typically larger in size.\u003C/span\u003E\u003C/p\u003E",
+                "tooltipUrl": "",
+                "tooltipTextLink": "",
+                "specTooltip": 1
+              },
+              "nestedGroupSortRule": null,
+              "show": true,
+              "grayOut": false
+            },
+            {
+              "facetId": "{!ex=860}lengs_US_Features_facet_860",
+              "facetName": "Features",
+              "facetType": "productAttribute",
+              "isShow": true,
+              "isGrayOut": false,
+              "showType": "all",
+              "limitValue": null,
+              "multiSelect": null,
+              "defaultValues": null,
+              "hideValues": null,
+              "sinkEndValues": null,
+              "preselectHideValues": null,
+              "weight": null,
+              "items": [
+                {
+                  "name": "Fingerprint Reader",
+                  "count": "12",
+                  "value": "Fingerprint Reader"
+                },
+                {
+                  "name": "Touch Screen",
+                  "count": "5",
+                  "value": "Touch Screen"
+                },
+                {
+                  "name": "Face Unlock",
+                  "count": "3",
+                  "value": "Face Unlock"
+                }
+              ],
+              "conditionIsBool": false,
+              "facetTooltipDomain": {
+                "videoId": "",
+                "headline": "",
+                "description": "",
+                "tooltipUrl": "",
+                "tooltipTextLink": "",
+                "specTooltip": 1
+              },
+              "nestedGroupSortRule": null,
+              "show": true,
+              "grayOut": false
+            },
+            {
+              "facetId": "{!ex=699}lengs_US_OperatingSystem_facet_699",
+              "facetName": "Operating System",
+              "facetType": "productAttribute",
+              "isShow": true,
+              "isGrayOut": false,
+              "showType": "all",
+              "limitValue": null,
+              "multiSelect": null,
+              "defaultValues": null,
+              "hideValues": null,
+              "sinkEndValues": null,
+              "preselectHideValues": null,
+              "weight": null,
+              "items": [
+                {
+                  "name": "Android",
+                  "count": "17",
+                  "value": "Android"
+                }
+              ],
+              "conditionIsBool": false,
+              "facetTooltipDomain": {
+                "videoId": "",
+                "headline": "Operating System",
+                "description": "\u003Cp\u003E\u003Cspan style=\"font-size: 12px; font-family: arial, helvetica, sans-serif;\"\u003EThe operating system (or OS) manages the computer&#39;s programs, files, and devices or its hardware and software. Windows, Android, and Chrome are common operating systems in Lenovo products. The higher the version number, the more recently it was released.\u003C/span\u003E\u003C/p\u003E",
+                "tooltipUrl": "",
+                "tooltipTextLink": "",
+                "specTooltip": 1
+              },
+              "nestedGroupSortRule": null,
+              "show": true,
+              "grayOut": false
+            },
+            {
+              "facetId": "{!ex=710}lengs_US_Graphics_facet_710",
+              "facetName": "Graphics",
+              "facetType": "productAttribute",
+              "isShow": true,
+              "isGrayOut": false,
+              "showType": "all",
+              "limitValue": null,
+              "multiSelect": null,
+              "defaultValues": null,
+              "hideValues": null,
+              "sinkEndValues": null,
+              "preselectHideValues": null,
+              "weight": null,
+              "items": [
+                {
+                  "name": "Qualcomm™ Adreno",
+                  "count": "10",
+                  "value": "Qualcomm™ Adreno"
+                },
+                {
+                  "name": "IMG®",
+                  "count": "4",
+                  "value": "IMG®"
+                },
+                {
+                  "name": "ARM®",
+                  "count": "2",
+                  "value": "ARM®"
+                }
+              ],
+              "conditionIsBool": false,
+              "facetTooltipDomain": {
+                "videoId": "",
+                "headline": "Graphics",
+                "description": "\u003Cp\u003E\u003Cspan style=\"font-size: 12px; font-family: arial, helvetica, sans-serif;\"\u003EThe graphics card (or video card or GPU) displays everything you see and are an essential piece of hardware. It determines the range of color, how sharp images appear, and how well videos or games run without stuttering or pausing. Integrated graphics are built-in to your PC&#39;s processor, while dedicated or discrete graphics are separate from the processor and enable you to run smoothly more advanced programs although they typically use more power.\u003C/span\u003E\u003C/p\u003E",
+                "tooltipUrl": "",
+                "tooltipTextLink": "",
+                "specTooltip": 1
+              },
+              "nestedGroupSortRule": null,
+              "show": true,
+              "grayOut": false
+            },
+            {
+              "facetId": "{!ex=701}lengs_US_ScreenResolution_facet_701",
+              "facetName": "Display",
+              "facetType": "productAttribute",
+              "isShow": true,
+              "isGrayOut": false,
+              "showType": "limit",
+              "limitValue": 3,
+              "multiSelect": null,
+              "defaultValues": null,
+              "hideValues": null,
+              "sinkEndValues": null,
+              "preselectHideValues": null,
+              "weight": null,
+              "items": [
+                {
+                  "name": "2400 x 1080",
+                  "count": "6",
+                  "value": "2400 x 1080"
+                },
+                {
+                  "name": "HD+",
+                  "count": "6",
+                  "value": "HD+"
+                },
+                {
+                  "name": "FHD+",
+                  "count": "4",
+                  "value": "FHD+"
+                },
+                {
+                  "name": "1080 x 2460",
+                  "count": "1",
+                  "value": "1080 x 2460"
+                }
+              ],
+              "conditionIsBool": false,
+              "facetTooltipDomain": {
+                "videoId": "",
+                "headline": "Display",
+                "description": "\u003Cp\u003E\u003Cspan style=\"font-size: 12px; font-family: arial, helvetica, sans-serif;\"\u003EThe laptop screen or desktop monitor is commonly referred to as its display. The display&#39;s resolution is a measurement of how sharp, or realistic, your computer&#39;s images are. It refers to the number of pixels – tiny points of color – viewable on the rectangular screen, horizontally and vertically. The higher a display&#39;s resolution, the sharper and more realistic its images are.\u003C/span\u003E\u003C/p\u003E",
+                "tooltipUrl": "",
+                "tooltipTextLink": "",
+                "specTooltip": 1
+              },
+              "nestedGroupSortRule": null,
+              "show": true,
+              "grayOut": false
+            },
+            {
+              "facetId": "{!ex=731}lengs_US_Rating_facet_731",
+              "facetName": "Rating",
+              "facetType": "rating",
+              "isShow": true,
+              "isGrayOut": false,
+              "showType": "limit",
+              "limitValue": 3,
+              "multiSelect": null,
+              "defaultValues": null,
+              "hideValues": null,
+              "sinkEndValues": null,
+              "preselectHideValues": null,
+              "weight": null,
+              "items": [
+                {
+                  "name": "1-5 & Up",
+                  "count": "17",
+                  "value": "1-5 & Up"
+                },
+                {
+                  "name": "2-5 & Up",
+                  "count": "17",
+                  "value": "2-5 & Up"
+                },
+                {
+                  "name": "3-5 & Up",
+                  "count": "17",
+                  "value": "3-5 & Up"
+                },
+                {
+                  "name": "4-5 & Up",
+                  "count": "12",
+                  "value": "4-5 & Up"
+                }
+              ],
+              "conditionIsBool": false,
+              "facetTooltipDomain": {
+                "videoId": "",
+                "headline": "",
+                "description": "",
+                "tooltipUrl": "",
+                "tooltipTextLink": "",
+                "specTooltip": 1
+              },
+              "nestedGroupSortRule": null,
+              "show": true,
+              "grayOut": false
+            },
+            {
+              "facetId": "{!ex=700}lengs_US_Color_facet_700",
+              "facetName": "Color",
+              "facetType": "productAttribute",
+              "isShow": true,
+              "isGrayOut": false,
+              "showType": "limit",
+              "limitValue": 3,
+              "multiSelect": null,
+              "defaultValues": null,
+              "hideValues": null,
+              "sinkEndValues": null,
+              "preselectHideValues": null,
+              "weight": null,
+              "items": [
+                {
+                  "name": "Blue",
+                  "count": "7",
+                  "value": "Blue"
+                },
+                {
+                  "name": "Black",
+                  "count": "4",
+                  "value": "Black"
+                },
+                {
+                  "name": "Grey",
+                  "count": "3",
+                  "value": "Grey"
+                },
+                {
+                  "name": "Dark Grove",
+                  "count": "1",
+                  "value": "Dark Grove"
+                },
+                {
+                  "name": "Iridescent Sky",
+                  "count": "1",
+                  "value": "Iridescent Sky"
+                },
+                {
+                  "name": "White",
+                  "count": "1",
+                  "value": "White"
+                }
+              ],
+              "conditionIsBool": false,
+              "facetTooltipDomain": {
+                "videoId": "",
+                "headline": "",
+                "description": "",
+                "tooltipUrl": "",
+                "tooltipTextLink": "",
+                "specTooltip": 1
+              },
+              "nestedGroupSortRule": null,
+              "show": true,
+              "grayOut": false
+            },
+            {
+              "facetId": "{!ex=728}lengs_US_Shipping_facet_728",
+              "facetName": "Shipping",
+              "facetType": "shipping",
+              "isShow": true,
+              "isGrayOut": false,
+              "showType": "all",
+              "limitValue": null,
+              "multiSelect": null,
+              "defaultValues": null,
+              "hideValues": null,
+              "sinkEndValues": null,
+              "preselectHideValues": null,
+              "weight": null,
+              "items": [
+                {
+                  "name": "Next Business Day",
+                  "count": "5",
+                  "value": "Next Business Day"
+                }
+              ],
+              "conditionIsBool": false,
+              "facetTooltipDomain": {
+                "videoId": "",
+                "headline": "",
+                "description": "",
+                "tooltipUrl": "",
+                "tooltipTextLink": "",
+                "specTooltip": 1
+              },
+              "nestedGroupSortRule": null,
+              "show": true,
+              "grayOut": false
+            }
+          ],
+          "sortNumber": null,
+          "isDisplayGroupName": false,
+          "showType": null,
+          "limitValue": null
+        }
+      ],
+      "page": 1,
+      "pageSize": 20,
+      "pageCount": 1,
+      "searchKey": "phone",
+      "productCount": 17,
+      "contentCount": 537,
+      "newsTotal": 0,
+      "displayType": "Products",
+      "contentCategories": [],
+      "contentItems": [],
+      "newsShow": false
+    },
+    "params": null,
+    "success": true
+  }

@@ -1,0 +1,3026 @@
+{
+    "type" : "productCategorySearchPageWsDTO",
+    "accessoriesCount" : 12,
+    "articlesCount" : 0,
+    "breadcrumbs" : [ ],
+    "currentQuery" : {
+       "query" : {
+          "value" : "oven:relevance"
+       },
+       "url" : "/search?q=oven%3Arelevance"
+    },
+    "facets" : [ {
+       "category" : false,
+       "code" : "price",
+       "multiSelect" : true,
+       "name" : "price",
+       "priority" : 2147483646,
+       "values" : [ {
+          "code" : "$0-$50.99",
+          "count" : 0,
+          "name" : "$0-$50.99",
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:price:$0-$50.99"
+             },
+             "url" : "/search?q=oven%3Arelevance:price:$0-$50.99"
+          },
+          "selected" : false
+       }, {
+          "code" : "$51-$100.99",
+          "count" : 3,
+          "name" : "$51-$100.99",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:price:%2451-%24100.99"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aprice%3A%252451-%2524100.99"
+          },
+          "selected" : false
+       }, {
+          "code" : "$101-$150.99",
+          "count" : 0,
+          "name" : "$101-$150.99",
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:price:$101-$150.99"
+             },
+             "url" : "/search?q=oven%3Arelevance:price:$101-$150.99"
+          },
+          "selected" : false
+       }, {
+          "code" : "$151-$200.99",
+          "count" : 3,
+          "name" : "$151-$200.99",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:price:%24151-%24200.99"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aprice%3A%2524151-%2524200.99"
+          },
+          "selected" : false
+       }, {
+          "code" : "$201-$550.99",
+          "count" : 10,
+          "name" : "$201-$550.99",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:price:%24201-%24550.99"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aprice%3A%2524201-%2524550.99"
+          },
+          "selected" : false
+       }, {
+          "code" : "$551-$750.99",
+          "count" : 2,
+          "name" : "$551-$750.99",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:price:%24551-%24750.99"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aprice%3A%2524551-%2524750.99"
+          },
+          "selected" : false
+       }, {
+          "code" : "$751-$1,000.99",
+          "count" : 4,
+          "name" : "$751-$1,000.99",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:price:%24751-%241%2C000.99"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aprice%3A%2524751-%25241%252C000.99"
+          },
+          "selected" : false
+       }, {
+          "code" : "$1,001-$1,500.99",
+          "count" : 8,
+          "name" : "$1,001-$1,500.99",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:price:%241%2C001-%241%2C500.99"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aprice%3A%25241%252C001-%25241%252C500.99"
+          },
+          "selected" : false
+       }, {
+          "code" : "$1,501-$2,000.99",
+          "count" : 10,
+          "name" : "$1,501-$2,000.99",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:price:%241%2C501-%242%2C000.99"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aprice%3A%25241%252C501-%25242%252C000.99"
+          },
+          "selected" : false
+       }, {
+          "code" : "$2,001-$2,500.99",
+          "count" : 12,
+          "name" : "$2,001-$2,500.99",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:price:%242%2C001-%242%2C500.99"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aprice%3A%25242%252C001-%25242%252C500.99"
+          },
+          "selected" : false
+       }, {
+          "code" : "$2,501-$3,000.99",
+          "count" : 9,
+          "name" : "$2,501-$3,000.99",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:price:%242%2C501-%243%2C000.99"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aprice%3A%25242%252C501-%25243%252C000.99"
+          },
+          "selected" : false
+       }, {
+          "code" : "$3,001-$3,500.99",
+          "count" : 2,
+          "name" : "$3,001-$3,500.99",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:price:%243%2C001-%243%2C500.99"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aprice%3A%25243%252C001-%25243%252C500.99"
+          },
+          "selected" : false
+       }, {
+          "code" : "$3,501-$4,000.99",
+          "count" : 1,
+          "name" : "$3,501-$4,000.99",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:price:%243%2C501-%244%2C000.99"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aprice%3A%25243%252C501-%25244%252C000.99"
+          },
+          "selected" : false
+       }, {
+          "code" : "$4,001-$4,500.99",
+          "count" : 0,
+          "name" : "$4,001-$4,500.99",
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:price:$4,001-$4,500.99"
+             },
+             "url" : "/search?q=oven%3Arelevance:price:$4,001-$4,500.99"
+          },
+          "selected" : false
+       }, {
+          "code" : "$4,501-$5,000.99",
+          "count" : 0,
+          "name" : "$4,501-$5,000.99",
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:price:$4,501-$5,000.99"
+             },
+             "url" : "/search?q=oven%3Arelevance:price:$4,501-$5,000.99"
+          },
+          "selected" : false
+       }, {
+          "code" : "$5,001-$5,500.99",
+          "count" : 0,
+          "name" : "$5,001-$5,500.99",
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:price:$5,001-$5,500.99"
+             },
+             "url" : "/search?q=oven%3Arelevance:price:$5,001-$5,500.99"
+          },
+          "selected" : false
+       }, {
+          "code" : "$5,501-$6,000.99",
+          "count" : 0,
+          "name" : "$5,501-$6,000.99",
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:price:$5,501-$6,000.99"
+             },
+             "url" : "/search?q=oven%3Arelevance:price:$5,501-$6,000.99"
+          },
+          "selected" : false
+       }, {
+          "code" : "$6,001-$10,000",
+          "count" : 7,
+          "name" : "$6,001-$10,000",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:price:%246%2C001-%2410%2C000"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aprice%3A%25246%252C001-%252410%252C000"
+          },
+          "selected" : false
+       } ],
+       "visible" : true
+    }, {
+       "category" : false,
+       "code" : "Series",
+       "multiSelect" : true,
+       "name" : "Series",
+       "priority" : 2147483645,
+       "values" : [ {
+          "code" : "Frigidaire Gallery",
+          "count" : 106,
+          "name" : "Frigidaire Gallery",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:Series:Frigidaire+Gallery"
+             },
+             "url" : "/search?q=oven%3Arelevance%3ASeries%3AFrigidaire%2BGallery"
+          },
+          "selected" : false
+       }, {
+          "code" : "Frigidaire Professional",
+          "count" : 48,
+          "name" : "Frigidaire Professional",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:Series:Frigidaire+Professional"
+             },
+             "url" : "/search?q=oven%3Arelevance%3ASeries%3AFrigidaire%2BProfessional"
+          },
+          "selected" : false
+       }, {
+          "code" : "Frigidaire",
+          "count" : 101,
+          "name" : "Frigidaire",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:Series:Frigidaire"
+             },
+             "url" : "/search?q=oven%3Arelevance%3ASeries%3AFrigidaire"
+          },
+          "selected" : false
+       }, {
+          "code" : "Frigidaire Gallery Premier",
+          "count" : 1,
+          "name" : "Frigidaire Gallery Premier",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:Series:Frigidaire+Gallery+Premier"
+             },
+             "url" : "/search?q=oven%3Arelevance%3ASeries%3AFrigidaire%2BGallery%2BPremier"
+          },
+          "selected" : false
+       } ],
+       "visible" : true
+    }, {
+       "category" : false,
+       "code" : "color",
+       "multiSelect" : true,
+       "name" : "color",
+       "priority" : 2147483644,
+       "topValues" : [ {
+          "code" : "Stainless Steel",
+          "count" : 219,
+          "iconUrl" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg",
+          "name" : "Stainless Steel",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:color:Stainless+Steel"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Acolor%3AStainless%2BSteel"
+          },
+          "selected" : false
+       }, {
+          "code" : "Black Stainless Steel",
+          "count" : 33,
+          "iconUrl" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/BlackStainlessSteel.jpg",
+          "name" : "Black Stainless Steel",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:color:Black+Stainless+Steel"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Acolor%3ABlack%2BStainless%2BSteel"
+          },
+          "selected" : false
+       }, {
+          "code" : "Black",
+          "count" : 115,
+          "iconUrl" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Black.jpg",
+          "name" : "Black",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:color:Black"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Acolor%3ABlack"
+          },
+          "selected" : false
+       }, {
+          "code" : "White",
+          "count" : 110,
+          "iconUrl" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/White.jpg",
+          "name" : "White",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:color:White"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Acolor%3AWhite"
+          },
+          "selected" : false
+       }, {
+          "code" : "Bisque",
+          "count" : 24,
+          "iconUrl" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Bisque.jpg",
+          "name" : "Bisque",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:color:Bisque"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Acolor%3ABisque"
+          },
+          "selected" : false
+       } ],
+       "values" : [ {
+          "code" : "Stainless Steel",
+          "count" : 219,
+          "iconUrl" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg",
+          "name" : "Stainless Steel",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:color:Stainless+Steel"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Acolor%3AStainless%2BSteel"
+          },
+          "selected" : false
+       }, {
+          "code" : "Black Stainless Steel",
+          "count" : 33,
+          "iconUrl" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/BlackStainlessSteel.jpg",
+          "name" : "Black Stainless Steel",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:color:Black+Stainless+Steel"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Acolor%3ABlack%2BStainless%2BSteel"
+          },
+          "selected" : false
+       }, {
+          "code" : "Black",
+          "count" : 115,
+          "iconUrl" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Black.jpg",
+          "name" : "Black",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:color:Black"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Acolor%3ABlack"
+          },
+          "selected" : false
+       }, {
+          "code" : "White",
+          "count" : 110,
+          "iconUrl" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/White.jpg",
+          "name" : "White",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:color:White"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Acolor%3AWhite"
+          },
+          "selected" : false
+       }, {
+          "code" : "Bisque",
+          "count" : 24,
+          "iconUrl" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Bisque.jpg",
+          "name" : "Bisque",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:color:Bisque"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Acolor%3ABisque"
+          },
+          "selected" : false
+       }, {
+          "code" : "Silver Mist",
+          "count" : 6,
+          "iconUrl" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/SilverMist.jpg",
+          "name" : "Silver Mist",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:color:Silver+Mist"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Acolor%3ASilver%2BMist"
+          },
+          "selected" : false
+       } ],
+       "visible" : true
+    }, {
+       "category" : false,
+       "code" : "ovenCapacity",
+       "multiSelect" : true,
+       "name" : "Oven Capacity",
+       "priority" : 2147483641,
+       "values" : [ {
+          "code" : "5.1 Cu. Ft.",
+          "count" : 6,
+          "name" : "5.1 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:ovenCapacity:5.1+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AovenCapacity%3A5.1%2BCu.%2BFt."
+          },
+          "selected" : false
+       }, {
+          "code" : "6 Cu. Ft.",
+          "count" : 1,
+          "name" : "6 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:ovenCapacity:6+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AovenCapacity%3A6%2BCu.%2BFt."
+          },
+          "selected" : false
+       }, {
+          "code" : "4.6 Cu. Ft.",
+          "count" : 4,
+          "name" : "4.6 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:ovenCapacity:4.6+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AovenCapacity%3A4.6%2BCu.%2BFt."
+          },
+          "selected" : false
+       }, {
+          "code" : "3.8 Cu. Ft.",
+          "count" : 8,
+          "name" : "3.8 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:ovenCapacity:3.8+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AovenCapacity%3A3.8%2BCu.%2BFt."
+          },
+          "selected" : false
+       }, {
+          "code" : "2.8 Cu. Ft.",
+          "count" : 2,
+          "name" : "2.8 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:ovenCapacity:2.8+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AovenCapacity%3A2.8%2BCu.%2BFt."
+          },
+          "selected" : false
+       }, {
+          "code" : "5.3 Cu. Ft.",
+          "count" : 8,
+          "name" : "5.3 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:ovenCapacity:5.3+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AovenCapacity%3A5.3%2BCu.%2BFt."
+          },
+          "selected" : false
+       }, {
+          "code" : "3.3 Cu. Ft.",
+          "count" : 2,
+          "name" : "3.3 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:ovenCapacity:3.3+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AovenCapacity%3A3.3%2BCu.%2BFt."
+          },
+          "selected" : false
+       }, {
+          "code" : "6.2 Cu. Ft.",
+          "count" : 3,
+          "name" : "6.2 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:ovenCapacity:6.2+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AovenCapacity%3A6.2%2BCu.%2BFt."
+          },
+          "selected" : false
+       } ],
+       "visible" : true
+    }, {
+       "category" : false,
+       "code" : "controlType",
+       "multiSelect" : true,
+       "name" : "Control Type",
+       "priority" : 2147483638,
+       "values" : [ {
+          "code" : "Right",
+          "count" : 13,
+          "name" : "Right",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:controlType:Right"
+             },
+             "url" : "/search?q=oven%3Arelevance%3AcontrolType%3ARight"
+          },
+          "selected" : false
+       }, {
+          "code" : "Bottom",
+          "count" : 7,
+          "name" : "Bottom",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:controlType:Bottom"
+             },
+             "url" : "/search?q=oven%3Arelevance%3AcontrolType%3ABottom"
+          },
+          "selected" : false
+       }, {
+          "code" : "Front",
+          "count" : 7,
+          "name" : "Front",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:controlType:Front"
+             },
+             "url" : "/search?q=oven%3Arelevance%3AcontrolType%3AFront"
+          },
+          "selected" : false
+       }, {
+          "code" : "Top",
+          "count" : 6,
+          "name" : "Top",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:controlType:Top"
+             },
+             "url" : "/search?q=oven%3Arelevance%3AcontrolType%3ATop"
+          },
+          "selected" : false
+       }, {
+          "code" : "Rear",
+          "count" : 2,
+          "name" : "Rear",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:controlType:Rear"
+             },
+             "url" : "/search?q=oven%3Arelevance%3AcontrolType%3ARear"
+          },
+          "selected" : false
+       } ],
+       "visible" : true
+    }, {
+       "category" : false,
+       "code" : "features",
+       "multiSelect" : true,
+       "name" : "Features",
+       "priority" : 2147483629,
+       "values" : [ {
+          "code" : "Self Clean",
+          "count" : 40,
+          "name" : "Self Clean",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:features:Self+Clean"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Afeatures%3ASelf%2BClean"
+          },
+          "selected" : false
+       }, {
+          "code" : "Air Fry",
+          "count" : 23,
+          "name" : "Air Fry",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:features:Air+Fry"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Afeatures%3AAir%2BFry"
+          },
+          "selected" : false
+       }, {
+          "code" : "Smudge-Proof®",
+          "count" : 30,
+          "name" : "Smudge-Proof®",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:features:Smudge-Proof%C2%AE"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Afeatures%3ASmudge-Proof%25C2%25AE"
+          },
+          "selected" : false
+       }, {
+          "code" : "ADA Compliant",
+          "count" : 15,
+          "name" : "ADA Compliant",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:features:ADA+Compliant"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Afeatures%3AADA%2BCompliant"
+          },
+          "selected" : false
+       }, {
+          "code" : "No Preheat",
+          "count" : 15,
+          "name" : "No Preheat",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:features:No+Preheat"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Afeatures%3ANo%2BPreheat"
+          },
+          "selected" : false
+       }, {
+          "code" : "Side-Swing Door",
+          "count" : 12,
+          "name" : "Side-Swing Door",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:features:Side-Swing+Door"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Afeatures%3ASide-Swing%2BDoor"
+          },
+          "selected" : false
+       }, {
+          "code" : "Microwave Drop Down Door",
+          "count" : 3,
+          "name" : "Microwave Drop Down Door",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:features:Microwave+Drop+Down+Door"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Afeatures%3AMicrowave%2BDrop%2BDown%2BDoor"
+          },
+          "selected" : false
+       } ],
+       "visible" : true
+    }, {
+       "category" : false,
+       "code" : "watts",
+       "multiSelect" : true,
+       "name" : "Watts",
+       "priority" : 2147483620,
+       "values" : [ {
+          "code" : "950 Watts",
+          "count" : 3,
+          "name" : "950 Watts",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:watts:950+Watts"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Awatts%3A950%2BWatts"
+          },
+          "selected" : false
+       }, {
+          "code" : "1000 Watts",
+          "count" : 16,
+          "name" : "1000 Watts",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:watts:1000+Watts"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Awatts%3A1000%2BWatts"
+          },
+          "selected" : false
+       }, {
+          "code" : "1050 Watts",
+          "count" : 1,
+          "name" : "1050 Watts",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:watts:1050+Watts"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Awatts%3A1050%2BWatts"
+          },
+          "selected" : false
+       }, {
+          "code" : "1750 Watts",
+          "count" : 1,
+          "name" : "1750 Watts",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:watts:1750+Watts"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Awatts%3A1750%2BWatts"
+          },
+          "selected" : false
+       } ],
+       "visible" : true
+    }, {
+       "category" : false,
+       "code" : "microwaveCapacity",
+       "multiSelect" : true,
+       "name" : "Microwave Capacity",
+       "priority" : 2147483619,
+       "values" : [ {
+          "code" : "1.2 Cu. Ft.",
+          "count" : 1,
+          "name" : "1.2 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:microwaveCapacity:1.2+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AmicrowaveCapacity%3A1.2%2BCu.%2BFt."
+          },
+          "selected" : false
+       }, {
+          "code" : "1.4 Cu. Ft.",
+          "count" : 2,
+          "name" : "1.4 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:microwaveCapacity:1.4+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AmicrowaveCapacity%3A1.4%2BCu.%2BFt."
+          },
+          "selected" : false
+       }, {
+          "code" : "1.6 Cu. Ft.",
+          "count" : 11,
+          "name" : "1.6 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:microwaveCapacity:1.6+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AmicrowaveCapacity%3A1.6%2BCu.%2BFt."
+          },
+          "selected" : false
+       }, {
+          "code" : "1.7 Cu. Ft.",
+          "count" : 8,
+          "name" : "1.7 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:microwaveCapacity:1.7+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AmicrowaveCapacity%3A1.7%2BCu.%2BFt."
+          },
+          "selected" : false
+       }, {
+          "code" : "1.8 Cu. Ft.",
+          "count" : 7,
+          "name" : "1.8 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:microwaveCapacity:1.8+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AmicrowaveCapacity%3A1.8%2BCu.%2BFt."
+          },
+          "selected" : false
+       }, {
+          "code" : "1.9 Cu. Ft.",
+          "count" : 5,
+          "name" : "1.9 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:microwaveCapacity:1.9+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AmicrowaveCapacity%3A1.9%2BCu.%2BFt."
+          },
+          "selected" : false
+       }, {
+          "code" : "1.5 Cu. Ft.",
+          "count" : 2,
+          "name" : "1.5 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:microwaveCapacity:1.5+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AmicrowaveCapacity%3A1.5%2BCu.%2BFt."
+          },
+          "selected" : false
+       }, {
+          "code" : "2 Cu. Ft.",
+          "count" : 1,
+          "name" : "2 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:microwaveCapacity:2+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AmicrowaveCapacity%3A2%2BCu.%2BFt."
+          },
+          "selected" : false
+       } ],
+       "visible" : true
+    }, {
+       "category" : false,
+       "code" : "width",
+       "multiSelect" : true,
+       "name" : "Width",
+       "priority" : 2147483610,
+       "values" : [ {
+          "code" : "23 1/2\"",
+          "count" : 2,
+          "name" : "23 1/2\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:width:23+1%2F2%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Awidth%3A23%2B1%252F2%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "23 7/8\"",
+          "count" : 2,
+          "name" : "23 7/8\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:width:23+7%2F8%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Awidth%3A23%2B7%252F8%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "27\"",
+          "count" : 8,
+          "name" : "27\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:width:27%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Awidth%3A27%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "29 3/4\"",
+          "count" : 2,
+          "name" : "29 3/4\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:width:29+3%2F4%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Awidth%3A29%2B3%252F4%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "29 13/16\"",
+          "count" : 1,
+          "name" : "29 13/16\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:width:29+13%2F16%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Awidth%3A29%2B13%252F16%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "29 7/8\"",
+          "count" : 23,
+          "name" : "29 7/8\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:width:29+7%2F8%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Awidth%3A29%2B7%252F8%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "29 15/16\"",
+          "count" : 2,
+          "name" : "29 15/16\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:width:29+15%2F16%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Awidth%3A29%2B15%252F16%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "30\"",
+          "count" : 14,
+          "name" : "30\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:width:30%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Awidth%3A30%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "35 7/8\"",
+          "count" : 2,
+          "name" : "35 7/8\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:width:35+7%2F8%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Awidth%3A35%2B7%252F8%2522"
+          },
+          "selected" : false
+       } ],
+       "visible" : true
+    }, {
+       "category" : false,
+       "code" : "height",
+       "multiSelect" : true,
+       "name" : "Height",
+       "priority" : 2147483609,
+       "values" : [ {
+          "code" : "10 5/16\"",
+          "count" : 1,
+          "name" : "10 5/16\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:10+5%2F16%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A10%2B5%252F16%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "15 5/8\"",
+          "count" : 1,
+          "name" : "15 5/8\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:15+5%2F8%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A15%2B5%252F8%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "16 3/8\"",
+          "count" : 8,
+          "name" : "16 3/8\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:16+3%2F8%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A16%2B3%252F8%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "16 7/16\"",
+          "count" : 2,
+          "name" : "16 7/16\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:16+7%2F16%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A16%2B7%252F16%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "17\"",
+          "count" : 2,
+          "name" : "17\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:17%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A17%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "17 1/8\"",
+          "count" : 2,
+          "name" : "17 1/8\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:17+1%2F8%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A17%2B1%252F8%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "19 5/8\"",
+          "count" : 3,
+          "name" : "19 5/8\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:19+5%2F8%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A19%2B5%252F8%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "28\"",
+          "count" : 4,
+          "name" : "28\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:28%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A28%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "28 5/8\"",
+          "count" : 1,
+          "name" : "28 5/8\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:28+5%2F8%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A28%2B5%252F8%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "29\"",
+          "count" : 1,
+          "name" : "29\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:29%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A29%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "29 1/2\"",
+          "count" : 2,
+          "name" : "29 1/2\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:29+1%2F2%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A29%2B1%252F2%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "35 3/8\"",
+          "count" : 3,
+          "name" : "35 3/8\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:35+3%2F8%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A35%2B3%252F8%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "35 5/8\"",
+          "count" : 1,
+          "name" : "35 5/8\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:35+5%2F8%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A35%2B5%252F8%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "35 3/4\"",
+          "count" : 2,
+          "name" : "35 3/4\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:35+3%2F4%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A35%2B3%252F4%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "37 11/16\"",
+          "count" : 1,
+          "name" : "37 11/16\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:37+11%2F16%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A37%2B11%252F16%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "41 9/16\"",
+          "count" : 2,
+          "name" : "41 9/16\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:41+9%2F16%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A41%2B9%252F16%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "42\"",
+          "count" : 1,
+          "name" : "42\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:42%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A42%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "42 5/16\"",
+          "count" : 1,
+          "name" : "42 5/16\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:42+5%2F16%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A42%2B5%252F16%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "42 3/4\"",
+          "count" : 1,
+          "name" : "42 3/4\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:42+3%2F4%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A42%2B3%252F4%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "46 3/4\"",
+          "count" : 2,
+          "name" : "46 3/4\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:46+3%2F4%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A46%2B3%252F4%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "50 3/4\"",
+          "count" : 4,
+          "name" : "50 3/4\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:50+3%2F4%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A50%2B3%252F4%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "50 7/8\"",
+          "count" : 2,
+          "name" : "50 7/8\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:50+7%2F8%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A50%2B7%252F8%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "76\"",
+          "count" : 1,
+          "name" : "76\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:76%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A76%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "16 13/32\"",
+          "count" : 4,
+          "name" : "16 13/32\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:16+13%2F32%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A16%2B13%252F32%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "16 15/16\"",
+          "count" : 1,
+          "name" : "16 15/16\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:16+15%2F16%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A16%2B15%252F16%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "17 9/16\"",
+          "count" : 1,
+          "name" : "17 9/16\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:17+9%2F16%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A17%2B9%252F16%2522"
+          },
+          "selected" : false
+       }, {
+          "code" : "50 7/16\"",
+          "count" : 1,
+          "name" : "50 7/16\"",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:height:50+7%2F16%22"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aheight%3A50%2B7%252F16%2522"
+          },
+          "selected" : false
+       } ],
+       "visible" : true
+    }, {
+       "category" : false,
+       "code" : "featuresSxS",
+       "multiSelect" : true,
+       "name" : "Features",
+       "priority" : 2147483608,
+       "values" : [ {
+          "code" : "Smudge-Proof®",
+          "count" : 30,
+          "name" : "Smudge-Proof®",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:featuresSxS:Smudge-Proof%C2%AE"
+             },
+             "url" : "/search?q=oven%3Arelevance%3AfeaturesSxS%3ASmudge-Proof%25C2%25AE"
+          },
+          "selected" : false
+       } ],
+       "visible" : true
+    }, {
+       "category" : false,
+       "code" : "soundLevel",
+       "multiSelect" : true,
+       "name" : "Sound Level",
+       "priority" : 2147483602,
+       "values" : [ {
+          "code" : "60 dBA",
+          "count" : 3,
+          "name" : "60 dBA",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:soundLevel:60+dBA"
+             },
+             "url" : "/search?q=oven%3Arelevance%3AsoundLevel%3A60%2BdBA"
+          },
+          "selected" : false
+       } ],
+       "visible" : true
+    }, {
+       "category" : false,
+       "code" : "api2pl",
+       "multiSelect" : true,
+       "name" : "Category",
+       "priority" : 2147483600,
+       "values" : [ {
+          "code" : "Over-The-Range Microwave",
+          "count" : 28,
+          "name" : "Over-The-Range Microwave",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:api2pl:Over-The-Range+Microwave"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aapi2pl%3AOver-The-Range%2BMicrowave"
+          },
+          "selected" : false
+       }, {
+          "code" : "Single Wall Oven",
+          "count" : 9,
+          "name" : "Single Wall Oven",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:api2pl:Single+Wall+Oven"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aapi2pl%3ASingle%2BWall%2BOven"
+          },
+          "selected" : false
+       }, {
+          "code" : "Double Wall Oven",
+          "count" : 7,
+          "name" : "Double Wall Oven",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:api2pl:Double+Wall+Oven"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aapi2pl%3ADouble%2BWall%2BOven"
+          },
+          "selected" : false
+       }, {
+          "code" : "Microwave Combination Wall Oven",
+          "count" : 5,
+          "name" : "Microwave Combination Wall Oven",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:api2pl:Microwave+Combination+Wall+Oven"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aapi2pl%3AMicrowave%2BCombination%2BWall%2BOven"
+          },
+          "selected" : false
+       }, {
+          "code" : "Gas Range",
+          "count" : 3,
+          "name" : "Gas Range",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:api2pl:Gas+Range"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aapi2pl%3AGas%2BRange"
+          },
+          "selected" : false
+       }, {
+          "code" : "Electric Range",
+          "count" : 2,
+          "name" : "Electric Range",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:api2pl:Electric+Range"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aapi2pl%3AElectric%2BRange"
+          },
+          "selected" : false
+       }, {
+          "code" : "Built-In Microwave",
+          "count" : 2,
+          "name" : "Built-In Microwave",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:api2pl:Built-In+Microwave"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aapi2pl%3ABuilt-In%2BMicrowave"
+          },
+          "selected" : false
+       }, {
+          "code" : "Induction Range",
+          "count" : 2,
+          "name" : "Induction Range",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:api2pl:Induction+Range"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aapi2pl%3AInduction%2BRange"
+          },
+          "selected" : false
+       }, {
+          "code" : "Dual Fuel Range",
+          "count" : 1,
+          "name" : "Dual Fuel Range",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:api2pl:Dual+Fuel+Range"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aapi2pl%3ADual%2BFuel%2BRange"
+          },
+          "selected" : false
+       }, {
+          "code" : "Laundry Center",
+          "count" : 1,
+          "name" : "Laundry Center",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:api2pl:Laundry+Center"
+             },
+             "url" : "/search?q=oven%3Arelevance%3Aapi2pl%3ALaundry%2BCenter"
+          },
+          "selected" : false
+       } ],
+       "visible" : true
+    }, {
+       "category" : false,
+       "code" : "ovenCapacityRange",
+       "multiSelect" : true,
+       "name" : "Oven Capacity",
+       "priority" : 2147483597,
+       "values" : [ {
+          "code" : "4 - 4.9 Cu. Ft.",
+          "count" : 1,
+          "name" : "4 - 4.9 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:ovenCapacityRange:4+-+4.9+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AovenCapacityRange%3A4%2B-%2B4.9%2BCu.%2BFt."
+          },
+          "selected" : false
+       }, {
+          "code" : "5 - 5.9 Cu. Ft.",
+          "count" : 2,
+          "name" : "5 - 5.9 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:ovenCapacityRange:5+-+5.9+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AovenCapacityRange%3A5%2B-%2B5.9%2BCu.%2BFt."
+          },
+          "selected" : false
+       }, {
+          "code" : "6 - 6.9 Cu. Ft.",
+          "count" : 2,
+          "name" : "6 - 6.9 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:ovenCapacityRange:6+-+6.9+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AovenCapacityRange%3A6%2B-%2B6.9%2BCu.%2BFt."
+          },
+          "selected" : false
+       } ],
+       "visible" : true
+    }, {
+       "category" : false,
+       "code" : "packageProductCount",
+       "multiSelect" : true,
+       "name" : "Product Count",
+       "priority" : 2147483594,
+       "values" : [ {
+          "code" : "2",
+          "count" : 2,
+          "name" : "2",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:packageProductCount:2"
+             },
+             "url" : "/search?q=oven%3Arelevance%3ApackageProductCount%3A2"
+          },
+          "selected" : false
+       }, {
+          "code" : "3",
+          "count" : 3,
+          "name" : "3",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:packageProductCount:3"
+             },
+             "url" : "/search?q=oven%3Arelevance%3ApackageProductCount%3A3"
+          },
+          "selected" : false
+       }, {
+          "code" : "4",
+          "count" : 11,
+          "name" : "4",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:packageProductCount:4"
+             },
+             "url" : "/search?q=oven%3Arelevance%3ApackageProductCount%3A4"
+          },
+          "selected" : false
+       }, {
+          "code" : "6",
+          "count" : 1,
+          "name" : "6",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:packageProductCount:6"
+             },
+             "url" : "/search?q=oven%3Arelevance%3ApackageProductCount%3A6"
+          },
+          "selected" : false
+       } ],
+       "visible" : true
+    }, {
+       "category" : false,
+       "code" : "totalCapacity",
+       "multiSelect" : true,
+       "name" : "Total Capacity",
+       "priority" : 2147483593,
+       "values" : [ {
+          "code" : "7.6 Cu. Ft.",
+          "count" : 4,
+          "name" : "7.6 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:totalCapacity:7.6+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AtotalCapacity%3A7.6%2BCu.%2BFt."
+          },
+          "selected" : false
+       }, {
+          "code" : "10.6 Cu. Ft.",
+          "count" : 4,
+          "name" : "10.6 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:totalCapacity:10.6+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AtotalCapacity%3A10.6%2BCu.%2BFt."
+          },
+          "selected" : false
+       }, {
+          "code" : "9.2 Cu. Ft.",
+          "count" : 1,
+          "name" : "9.2 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:totalCapacity:9.2+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AtotalCapacity%3A9.2%2BCu.%2BFt."
+          },
+          "selected" : false
+       }, {
+          "code" : "10.2 Cu. Ft.",
+          "count" : 3,
+          "name" : "10.2 Cu. Ft.",
+          "popular" : false,
+          "query" : {
+             "query" : {
+                "value" : "oven:relevance:totalCapacity:10.2+Cu.+Ft."
+             },
+             "url" : "/search?q=oven%3Arelevance%3AtotalCapacity%3A10.2%2BCu.%2BFt."
+          },
+          "selected" : false
+       } ],
+       "visible" : true
+    } ],
+    "faqEntriesCount" : 0,
+    "freeTextSearch" : "oven",
+    "newPageRedirect" : false,
+    "pageProductCount" : 12,
+    "pagination" : {
+       "currentPage" : 0,
+       "pageSize" : 12,
+       "sort" : "relevance",
+       "totalPages" : 22,
+       "totalResults" : 256
+    },
+    "products" : [ {
+       "approvalStatus" : "approved",
+       "baseProduct" : "",
+       "brand" : "Frigidaire",
+       "bundleProduct" : true,
+       "categoryName" : "Double Wall Ovens",
+       "categoryUrl" : "//Kitchen/Wall Ovens/Double Wall Ovens",
+       "code" : "FCWD302LA",
+       "colorVariants" : [ {
+          "altText" : "30\" Double Electric Wall Oven - FCWD302LAF",
+          "approvalStatus" : "approved",
+          "code" : "FCWD302LAF",
+          "color" : "Stainless Steel",
+          "colorPriority" : 1,
+          "depth" : "27 3/5\"",
+          "height" : "50 3/4\"",
+          "isConsumerVisUS" : false,
+          "isStockAvailable" : false,
+          "mapUSD" : 2499.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 2799.0,
+          "name" : "30\" Double Electric Wall Oven",
+          "pimStatus" : "",
+          "plpImage" : "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWD302LAF-HOVb.png",
+          "saleable" : false,
+          "url" : "/c//p/FCWD302LAF",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg",
+          "width" : "29 7/8\""
+       } ],
+       "description" : "FINISHED_GOODS",
+       "featureIcon" : false,
+       "isDiscountPriceValueAvailable" : false,
+       "manual" : "true",
+       "mapUSD" : 2499.0,
+       "msrpCADFormattedValue" : "$0.00",
+       "msrpUSD" : 2799.0,
+       "name" : "30\" Double Electric Wall Oven",
+       "ownersGuide" : "true",
+       "plpImage" : "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWD302LAF-HOVb.png",
+       "productType" : "FINISHED_GOODS",
+       "replacementParts" : [ "true" ],
+       "reviewVisibility" : true,
+       "selected" : false,
+       "soldIndividually" : true,
+       "swatchColors" : [ "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg" ],
+       "url" : "/c//p/FCWD302LAF",
+       "volumePricesFlag" : false
+    }, {
+       "approvalStatus" : "approved",
+       "baseProduct" : "",
+       "brand" : "Frigidaire",
+       "categoryName" : "Frigidaire Professional Series",
+       "categoryUrl" : "//Kitchen/Wall Ovens/Single Wall Ovens",
+       "code" : "FCWS302LA",
+       "colorVariants" : [ {
+          "altText" : "30\" Single Electric Wall Oven - FCWS302LAF",
+          "approvalStatus" : "approved",
+          "code" : "FCWS302LAF",
+          "color" : "Stainless Steel",
+          "colorPriority" : 1,
+          "depth" : "27 3/5\"",
+          "height" : "28\"",
+          "isConsumerVisUS" : false,
+          "isStockAvailable" : false,
+          "mapUSD" : 1699.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 1949.0,
+          "name" : "30\" Single Electric Wall Oven",
+          "pimStatus" : "",
+          "plpImage" : "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWS302LAF-HOVb.png",
+          "saleable" : false,
+          "url" : "/c//p/FCWS302LAF",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg",
+          "width" : "29 7/8\""
+       } ],
+       "description" : "FINISHED_GOODS",
+       "featureIcon" : false,
+       "isDiscountPriceValueAvailable" : false,
+       "manual" : "true",
+       "mapUSD" : 1699.0,
+       "msrpCADFormattedValue" : "$0.00",
+       "msrpUSD" : 1949.0,
+       "name" : "30\" Single Electric Wall Oven",
+       "ownersGuide" : "true",
+       "plpImage" : "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWS302LAF-HOVb.png",
+       "productType" : "FINISHED_GOODS",
+       "replacementParts" : [ "true" ],
+       "reviewVisibility" : true,
+       "selected" : false,
+       "soldIndividually" : true,
+       "swatchColors" : [ "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg" ],
+       "url" : "/c//p/FCWS302LAF",
+       "volumePricesFlag" : false
+    }, {
+       "approvalStatus" : "approved",
+       "baseProduct" : "",
+       "brand" : "Frigidaire",
+       "bundleProduct" : true,
+       "categoryName" : "Double Wall Ovens",
+       "categoryUrl" : "//Kitchen/Wall Ovens/Double Wall Ovens",
+       "code" : "FCWD2727A",
+       "colorVariants" : [ {
+          "altText" : "27\" Double Electric Wall Oven - FCWD2727AW",
+          "approvalStatus" : "approved",
+          "code" : "FCWD2727AW",
+          "color" : "White",
+          "colorPriority" : 2,
+          "depth" : "27 7/16\"",
+          "height" : "50 7/8\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 2699.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 3049.0,
+          "name" : "27\" Double Electric Wall Oven",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_convectionbake.svg",
+             "name" : "Convection Bake"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWD2727AW-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$1,898.00",
+             "priceType" : "BUY",
+             "value" : 1898.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/FCWD2727AW",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/White.jpg",
+          "width" : "27\""
+       }, {
+          "altText" : "27\" Double Electric Wall Oven - FCWD2727AB",
+          "approvalStatus" : "approved",
+          "code" : "FCWD2727AB",
+          "color" : "Black",
+          "colorPriority" : 3,
+          "depth" : "27 7/16\"",
+          "height" : "50 7/8\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 2699.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 3049.0,
+          "name" : "27\" Double Electric Wall Oven",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_convectionbake.svg",
+             "name" : "Convection Bake"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWD2727AB-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$1,898.00",
+             "priceType" : "BUY",
+             "value" : 1898.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/FCWD2727AB",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Black.jpg",
+          "width" : "27\""
+       }, {
+          "altText" : "27\" Double Electric Wall Oven - FCWD2727AS",
+          "approvalStatus" : "approved",
+          "code" : "FCWD2727AS",
+          "color" : "Stainless Steel",
+          "colorPriority" : 1,
+          "depth" : "27 7/16\"",
+          "height" : "50 7/8\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 2799.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 3149.0,
+          "name" : "27\" Double Electric Wall Oven",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_convectionbake.svg",
+             "name" : "Convection Bake"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWD2727AS-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$1,898.00",
+             "priceType" : "BUY",
+             "value" : 1898.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/FCWD2727AS",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg",
+          "width" : "27\""
+       } ],
+       "description" : "FINISHED_GOODS",
+       "featureIcon" : false,
+       "isDiscountPriceValueAvailable" : true,
+       "manual" : "true",
+       "mapUSD" : 2699.0,
+       "msrpCADFormattedValue" : "$0.00",
+       "msrpUSD" : 3049.0,
+       "name" : "27\" Double Electric Wall Oven",
+       "ownersGuide" : "true",
+       "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWD2727AW-HOVb.jpg",
+       "price" : {
+          "bestValue" : false,
+          "currencyIso" : "USD",
+          "formattedValue" : "$1,898.00",
+          "priceType" : "BUY",
+          "value" : 1898.00
+       },
+       "productType" : "FINISHED_GOODS",
+       "replacementParts" : [ "true" ],
+       "reviewVisibility" : true,
+       "selected" : false,
+       "soldIndividually" : true,
+       "summary" : "This double wall oven features our Fan Convection system which allows you to achieve faster, more even multi-rack baking results. ",
+       "swatchColors" : [ "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/White.jpg", "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Black.jpg", "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg" ],
+       "url" : "/c//p/FCWD2727AW",
+       "volumePricesFlag" : false
+    }, {
+       "approvalStatus" : "approved",
+       "baseProduct" : "",
+       "brand" : "Frigidaire",
+       "bundleProduct" : true,
+       "categoryName" : "Double Wall Ovens",
+       "categoryUrl" : "//Kitchen/Wall Ovens/Double Wall Ovens",
+       "code" : "FCWD3027A",
+       "colorVariants" : [ {
+          "altText" : "30\" Double Electric Wall Oven - FCWD3027AD",
+          "approvalStatus" : "approved",
+          "code" : "FCWD3027AD",
+          "color" : "Black Stainless Steel",
+          "colorPriority" : 2,
+          "depth" : "27 3/5\"",
+          "height" : "50 3/4\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 2899.0,
+          "msrpCAD" : 3699.0,
+          "msrpCADFormattedValue" : "$3,699.00",
+          "msrpUSD" : 3249.0,
+          "name" : "30\" Double Electric Wall Oven",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_convectionbake.svg",
+             "name" : "Convection Bake"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWD3027AD-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$1,898.00",
+             "priceType" : "BUY",
+             "value" : 1898.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/FCWD3027AD",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/BlackStainlessSteel.jpg",
+          "width" : "29 7/8\""
+       }, {
+          "altText" : "30\" Double Electric Wall Oven - FCWD3027AS",
+          "approvalStatus" : "approved",
+          "code" : "FCWD3027AS",
+          "color" : "Stainless Steel",
+          "colorPriority" : 1,
+          "depth" : "27 3/5\"",
+          "height" : "50 3/4\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 2799.0,
+          "msrpCAD" : 3599.0,
+          "msrpCADFormattedValue" : "$3,599.00",
+          "msrpUSD" : 3149.0,
+          "name" : "30\" Double Electric Wall Oven",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_convectionbake.svg",
+             "name" : "Convection Bake"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWD3027AS-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$1,798.00",
+             "priceType" : "BUY",
+             "value" : 1798.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/FCWD3027AS",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg",
+          "width" : "29 7/8\""
+       }, {
+          "altText" : "30\" Double Electric Wall Oven - FCWD3027AW",
+          "approvalStatus" : "approved",
+          "code" : "FCWD3027AW",
+          "color" : "White",
+          "colorPriority" : 3,
+          "depth" : "27 3/5\"",
+          "height" : "50 3/4\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 2699.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 3049.0,
+          "name" : "30\" Double Electric Wall Oven",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_convectionbake.svg",
+             "name" : "Convection Bake"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWD3027AW-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$1,798.00",
+             "priceType" : "BUY",
+             "value" : 1798.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/FCWD3027AW",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/White.jpg",
+          "width" : "29 7/8\""
+       }, {
+          "altText" : "30\" Double Electric Wall Oven - FCWD3027AB",
+          "approvalStatus" : "approved",
+          "code" : "FCWD3027AB",
+          "color" : "Black",
+          "colorPriority" : 4,
+          "depth" : "27 3/5\"",
+          "height" : "50 3/4\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 2699.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 3049.0,
+          "name" : "30\" Double Electric Wall Oven",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_convectionbake.svg",
+             "name" : "Convection Bake"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWD3027AB-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$1,798.00",
+             "priceType" : "BUY",
+             "value" : 1798.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/FCWD3027AB",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Black.jpg",
+          "width" : "29 7/8\""
+       } ],
+       "description" : "FINISHED_GOODS",
+       "featureIcon" : false,
+       "isDiscountPriceValueAvailable" : true,
+       "manual" : "true",
+       "mapUSD" : 2899.0,
+       "msrpCAD" : 3699.0,
+       "msrpCADFormattedValue" : "$3,699.00",
+       "msrpUSD" : 3249.0,
+       "name" : "30\" Double Electric Wall Oven",
+       "ownersGuide" : "true",
+       "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWD3027AD-HOVb.jpg",
+       "price" : {
+          "bestValue" : false,
+          "currencyIso" : "USD",
+          "formattedValue" : "$1,898.00",
+          "priceType" : "BUY",
+          "value" : 1898.00
+       },
+       "productType" : "FINISHED_GOODS",
+       "replacementParts" : [ "true" ],
+       "reviewVisibility" : true,
+       "selected" : false,
+       "soldIndividually" : true,
+       "summary" : "This double wall oven features our Fan Convection system which allows you to achieve faster, more even multi-rack baking results. ",
+       "swatchColors" : [ "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/BlackStainlessSteel.jpg", "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg", "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/White.jpg", "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Black.jpg" ],
+       "url" : "/c//p/FCWD3027AD",
+       "volumePricesFlag" : false
+    }, {
+       "approvalStatus" : "approved",
+       "baseProduct" : "",
+       "brand" : "Frigidaire",
+       "bundleProduct" : true,
+       "categoryName" : "Frigidaire Professional Series",
+       "categoryUrl" : "//Kitchen/Wall Ovens/Single Wall Ovens",
+       "code" : "FCWS2727A",
+       "colorVariants" : [ {
+          "altText" : "27\" Single Electric Wall Oven - FCWS2727AB",
+          "approvalStatus" : "approved",
+          "code" : "FCWS2727AB",
+          "color" : "Black",
+          "colorPriority" : 3,
+          "depth" : "27 7/16\"",
+          "height" : "29 1/2\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 1899.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 2149.0,
+          "name" : "27\" Single Electric Wall Oven",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_convectionbake.svg",
+             "name" : "Convection Bake"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWS2727AB-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$1,248.00",
+             "priceType" : "BUY",
+             "value" : 1248.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/FCWS2727AB",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Black.jpg",
+          "width" : "27\""
+       }, {
+          "altText" : "27\" Single Electric Wall Oven - FCWS2727AS",
+          "approvalStatus" : "approved",
+          "code" : "FCWS2727AS",
+          "color" : "Stainless Steel",
+          "colorPriority" : 1,
+          "depth" : "27 7/16\"",
+          "height" : "29 1/2\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 1999.0,
+          "msrpCAD" : 2199.0,
+          "msrpCADFormattedValue" : "$2,199.00",
+          "msrpUSD" : 2249.0,
+          "name" : "27\" Single Electric Wall Oven",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_convectionbake.svg",
+             "name" : "Convection Bake"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWS2727AS-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$1,198.00",
+             "priceType" : "BUY",
+             "value" : 1198.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/FCWS2727AS",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg",
+          "width" : "27\""
+       }, {
+          "altText" : "27\" Single Electric Wall Oven - FCWS2727AW",
+          "approvalStatus" : "approved",
+          "code" : "FCWS2727AW",
+          "color" : "White",
+          "colorPriority" : 2,
+          "depth" : "27 7/16\"",
+          "height" : "29 1/2\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 1899.0,
+          "msrpCAD" : 2099.0,
+          "msrpCADFormattedValue" : "$2,099.00",
+          "msrpUSD" : 2149.0,
+          "name" : "27\" Single Electric Wall Oven",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_convectionbake.svg",
+             "name" : "Convection Bake"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWS2727AW-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$1,248.00",
+             "priceType" : "BUY",
+             "value" : 1248.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/FCWS2727AW",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/White.jpg",
+          "width" : "27\""
+       } ],
+       "description" : "FINISHED_GOODS",
+       "featureIcon" : false,
+       "isDiscountPriceValueAvailable" : true,
+       "manual" : "true",
+       "mapUSD" : 1899.0,
+       "msrpCADFormattedValue" : "$0.00",
+       "msrpUSD" : 2149.0,
+       "name" : "27\" Single Electric Wall Oven",
+       "ownersGuide" : "true",
+       "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWS2727AB-HOVb.jpg",
+       "price" : {
+          "bestValue" : false,
+          "currencyIso" : "USD",
+          "formattedValue" : "$1,248.00",
+          "priceType" : "BUY",
+          "value" : 1248.00
+       },
+       "productType" : "FINISHED_GOODS",
+       "replacementParts" : [ "true" ],
+       "reviewVisibility" : true,
+       "selected" : false,
+       "soldIndividually" : true,
+       "summary" : "This single wall oven features our Fan Convection system which allows you to achieve faster, more even multi-rack baking results. ",
+       "swatchColors" : [ "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Black.jpg", "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg", "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/White.jpg" ],
+       "url" : "/c//p/FCWS2727AB",
+       "volumePricesFlag" : false
+    }, {
+       "approvalStatus" : "approved",
+       "baseProduct" : "",
+       "brand" : "Frigidaire",
+       "bundleProduct" : true,
+       "categoryName" : "Frigidaire Professional Series",
+       "categoryUrl" : "//Kitchen/Wall Ovens/Single Wall Ovens",
+       "code" : "FCWS3027A",
+       "colorVariants" : [ {
+          "altText" : "30\" Single Electric Wall Oven - FCWS3027AD",
+          "approvalStatus" : "approved",
+          "code" : "FCWS3027AD",
+          "color" : "Black Stainless Steel",
+          "colorPriority" : 2,
+          "depth" : "27 3/5\"",
+          "height" : "28\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 2099.0,
+          "msrpCAD" : 2299.0,
+          "msrpCADFormattedValue" : "$2,299.00",
+          "msrpUSD" : 2349.0,
+          "name" : "30\" Single Electric Wall Oven",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_convectionbake.svg",
+             "name" : "Convection Bake"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWS3027AD-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$1,198.00",
+             "priceType" : "BUY",
+             "value" : 1198.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/FCWS3027AD",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/BlackStainlessSteel.jpg",
+          "width" : "29 7/8\""
+       }, {
+          "altText" : "30\" Single Electric Wall Oven - FCWS3027AW",
+          "approvalStatus" : "approved",
+          "code" : "FCWS3027AW",
+          "color" : "White",
+          "colorPriority" : 3,
+          "depth" : "27 3/5\"",
+          "height" : "28\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 1899.0,
+          "msrpCAD" : 2099.0,
+          "msrpCADFormattedValue" : "$2,099.00",
+          "msrpUSD" : 2149.0,
+          "name" : "30\" Single Electric Wall Oven",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_convectionbake.svg",
+             "name" : "Convection Bake"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWS3027AW-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$1,098.00",
+             "priceType" : "BUY",
+             "value" : 1098.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/FCWS3027AW",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/White.jpg",
+          "width" : "29 7/8\""
+       }, {
+          "altText" : "30\" Single Electric Wall Oven - FCWS3027AB",
+          "approvalStatus" : "approved",
+          "code" : "FCWS3027AB",
+          "color" : "Black",
+          "colorPriority" : 4,
+          "depth" : "27 3/5\"",
+          "height" : "28\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 1899.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 2149.0,
+          "name" : "30\" Single Electric Wall Oven",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_convectionbake.svg",
+             "name" : "Convection Bake"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWS3027AB-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$1,098.00",
+             "priceType" : "BUY",
+             "value" : 1098.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/FCWS3027AB",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Black.jpg",
+          "width" : "29 7/8\""
+       }, {
+          "altText" : "30\" Single Electric Wall Oven - FCWS3027AS",
+          "approvalStatus" : "approved",
+          "code" : "FCWS3027AS",
+          "color" : "Stainless Steel",
+          "colorPriority" : 1,
+          "depth" : "27 3/5\"",
+          "height" : "28\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 1999.0,
+          "msrpCAD" : 2199.0,
+          "msrpCADFormattedValue" : "$2,199.00",
+          "msrpUSD" : 2249.0,
+          "name" : "30\" Single Electric Wall Oven",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_convectionbake.svg",
+             "name" : "Convection Bake"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWS3027AS-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$1,048.00",
+             "priceType" : "BUY",
+             "value" : 1048.00
+          },
+          "primaryFlag" : "Top Rated",
+          "saleable" : true,
+          "url" : "/c//p/FCWS3027AS",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg",
+          "width" : "29 7/8\""
+       } ],
+       "description" : "FINISHED_GOODS",
+       "featureIcon" : false,
+       "isDiscountPriceValueAvailable" : true,
+       "manual" : "true",
+       "mapUSD" : 2099.0,
+       "msrpCAD" : 2299.0,
+       "msrpCADFormattedValue" : "$2,299.00",
+       "msrpUSD" : 2349.0,
+       "name" : "30\" Single Electric Wall Oven",
+       "ownersGuide" : "true",
+       "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWS3027AD-HOVb.jpg",
+       "price" : {
+          "bestValue" : false,
+          "currencyIso" : "USD",
+          "formattedValue" : "$1,198.00",
+          "priceType" : "BUY",
+          "value" : 1198.00
+       },
+       "productType" : "FINISHED_GOODS",
+       "replacementParts" : [ "true" ],
+       "reviewVisibility" : true,
+       "selected" : false,
+       "soldIndividually" : true,
+       "summary" : "This single wall oven features a large, 5.3 cu. ft. oven with Convection Baking, which allows you to achieve faster, more even multi-rack baking results. ",
+       "swatchColors" : [ "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/BlackStainlessSteel.jpg", "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/White.jpg", "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Black.jpg", "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg" ],
+       "url" : "/c//p/FCWS3027AD",
+       "volumePricesFlag" : false
+    }, {
+       "approvalStatus" : "approved",
+       "baseProduct" : "",
+       "brand" : "Frigidaire",
+       "bundleProduct" : true,
+       "categoryName" : "Frigidaire Professional Series",
+       "categoryUrl" : "//Kitchen/Wall Ovens/Microwave Combination Ovens",
+       "code" : "FCWM2727A",
+       "colorVariants" : [ {
+          "altText" : "27\" Electric Wall Oven and Microwave Combination - FCWM2727AB",
+          "approvalStatus" : "approved",
+          "code" : "FCWM2727AB",
+          "color" : "Black",
+          "colorPriority" : 2,
+          "depth" : "27 7/16\"",
+          "height" : "42 3/4\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 3099.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 3449.0,
+          "name" : "27\" Electric Wall Oven and Microwave Combination",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_convectionbake.svg",
+             "name" : "Convection Bake"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWM2727AB-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$2,548.00",
+             "priceType" : "BUY",
+             "value" : 2548.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/FCWM2727AB",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Black.jpg",
+          "width" : "27\""
+       }, {
+          "altText" : "27\" Electric Wall Oven and Microwave Combination - FCWM2727AS",
+          "approvalStatus" : "approved",
+          "code" : "FCWM2727AS",
+          "color" : "Stainless Steel",
+          "colorPriority" : 1,
+          "depth" : "27 7/16\"",
+          "height" : "42 3/4\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 3199.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 3599.0,
+          "name" : "27\" Electric Wall Oven and Microwave Combination",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_convectionbake.svg",
+             "name" : "Convection Bake"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWM2727AS-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$2,498.00",
+             "priceType" : "BUY",
+             "value" : 2498.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/FCWM2727AS",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg",
+          "width" : "27\""
+       } ],
+       "description" : "FINISHED_GOODS",
+       "featureIcon" : false,
+       "isDiscountPriceValueAvailable" : true,
+       "manual" : "true",
+       "mapUSD" : 3099.0,
+       "msrpCADFormattedValue" : "$0.00",
+       "msrpUSD" : 3449.0,
+       "name" : "27\" Electric Wall Oven and Microwave Combination",
+       "ownersGuide" : "true",
+       "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWM2727AB-HOVb.jpg",
+       "price" : {
+          "bestValue" : false,
+          "currencyIso" : "USD",
+          "formattedValue" : "$2,548.00",
+          "priceType" : "BUY",
+          "value" : 2548.00
+       },
+       "productType" : "FINISHED_GOODS",
+       "replacementParts" : [ "true" ],
+       "reviewVisibility" : true,
+       "selected" : false,
+       "soldIndividually" : true,
+       "summary" : "This microwave combi oven features our Fan Convection system which allows you to achieve faster, more even multi-rack baking results. ",
+       "swatchColors" : [ "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Black.jpg", "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg" ],
+       "url" : "/c//p/FCWM2727AB",
+       "volumePricesFlag" : false
+    }, {
+       "approvalStatus" : "approved",
+       "baseProduct" : "",
+       "brand" : "Frigidaire",
+       "bundleProduct" : true,
+       "categoryName" : "Frigidaire Professional Series",
+       "categoryUrl" : "//Kitchen/Wall Ovens/Microwave Combination Ovens",
+       "code" : "FCWM3027A",
+       "colorVariants" : [ {
+          "altText" : "30\" Electric Wall Oven and Microwave Combination - FCWM3027AD",
+          "approvalStatus" : "approved",
+          "code" : "FCWM3027AD",
+          "color" : "Black Stainless Steel",
+          "colorPriority" : 2,
+          "depth" : "27 3/5\"",
+          "height" : "42\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 3299.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 3699.0,
+          "name" : "30\" Electric Wall Oven and Microwave Combination",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_convectionbake.svg",
+             "name" : "Convection Bake"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWM3027AD-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$2,398.00",
+             "priceType" : "BUY",
+             "value" : 2398.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/FCWM3027AD",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/BlackStainlessSteel.jpg",
+          "width" : "29 7/8\""
+       }, {
+          "altText" : "30\" Electric Wall Oven and Microwave Combination - FCWM3027AB",
+          "approvalStatus" : "approved",
+          "code" : "FCWM3027AB",
+          "color" : "Black",
+          "colorPriority" : 3,
+          "depth" : "27 3/5\"",
+          "height" : "42\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 3099.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 3449.0,
+          "name" : "30\" Electric Wall Oven and Microwave Combination",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_convectionbake.svg",
+             "name" : "Convection Bake"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWM3027AB-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$2,248.00",
+             "priceType" : "BUY",
+             "value" : 2248.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/FCWM3027AB",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Black.jpg",
+          "width" : "29 7/8\""
+       }, {
+          "altText" : "30\" Electric Wall Oven and Microwave Combination - FCWM3027AS",
+          "approvalStatus" : "approved",
+          "code" : "FCWM3027AS",
+          "color" : "Stainless Steel",
+          "colorPriority" : 1,
+          "depth" : "27 3/5\"",
+          "height" : "42\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 3199.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 3599.0,
+          "name" : "30\" Electric Wall Oven and Microwave Combination",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_convectionbake.svg",
+             "name" : "Convection Bake"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWM3027AS-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$2,198.00",
+             "priceType" : "BUY",
+             "value" : 2198.00
+          },
+          "primaryFlag" : "Top Rated",
+          "saleable" : true,
+          "url" : "/c//p/FCWM3027AS",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg",
+          "width" : "29 7/8\""
+       } ],
+       "description" : "FINISHED_GOODS",
+       "featureIcon" : false,
+       "isDiscountPriceValueAvailable" : true,
+       "manual" : "true",
+       "mapUSD" : 3299.0,
+       "msrpCADFormattedValue" : "$0.00",
+       "msrpUSD" : 3699.0,
+       "name" : "30\" Electric Wall Oven and Microwave Combination",
+       "ownersGuide" : "true",
+       "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWM3027AD-HOVb.jpg",
+       "price" : {
+          "bestValue" : false,
+          "currencyIso" : "USD",
+          "formattedValue" : "$2,398.00",
+          "priceType" : "BUY",
+          "value" : 2398.00
+       },
+       "productType" : "FINISHED_GOODS",
+       "replacementParts" : [ "true" ],
+       "reviewVisibility" : true,
+       "selected" : false,
+       "soldIndividually" : true,
+       "summary" : "This double wall oven features a large, 5.3 cu. ft. oven with Convection Baking, which allows you to achieve faster, more even multi-rack baking results. ",
+       "swatchColors" : [ "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/BlackStainlessSteel.jpg", "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Black.jpg", "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg" ],
+       "url" : "/c//p/FCWM3027AD",
+       "volumePricesFlag" : false
+    }, {
+       "approvalStatus" : "approved",
+       "baseProduct" : "",
+       "brand" : "Frigidaire Gallery",
+       "bundleProduct" : true,
+       "categoryName" : "Frigidaire Professional Series",
+       "categoryUrl" : "//Kitchen/Wall Ovens/Single Wall Ovens",
+       "code" : "GCWG2438A",
+       "colorVariants" : [ {
+          "altText" : "24\" Single Gas Wall Oven with Air Fry - GCWG2438AB",
+          "approvalStatus" : "approved",
+          "code" : "GCWG2438AB",
+          "color" : "Black",
+          "colorPriority" : 3,
+          "depth" : "25 3/16\"",
+          "height" : "37 11/16\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 2199.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 2499.0,
+          "name" : "24\" Single Gas Wall Oven with Air Fry",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_gaspowered.svg",
+             "name" : "Gas"
+          }, {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_trueconvection.svg",
+             "name" : "True Convection "
+          }, {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_storagedrawers.svg",
+             "name" : "Storage Drawer"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/GCWG2438AB-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$1,848.00",
+             "priceType" : "BUY",
+             "value" : 1848.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/GCWG2438AB",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Black.jpg",
+          "width" : "23 1/2\""
+       }, {
+          "altText" : "24\" Single Gas Wall Oven with Air Fry - GCWG2438AW",
+          "approvalStatus" : "approved",
+          "code" : "GCWG2438AW",
+          "color" : "White",
+          "colorPriority" : 2,
+          "depth" : "25 3/16\"",
+          "height" : "37 11/16\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 2199.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 2499.0,
+          "name" : "24\" Single Gas Wall Oven with Air Fry",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_gaspowered.svg",
+             "name" : "Gas"
+          }, {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_trueconvection.svg",
+             "name" : "True Convection "
+          }, {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_storagedrawers.svg",
+             "name" : "Storage Drawer"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/GCWG2438AW-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$1,848.00",
+             "priceType" : "BUY",
+             "value" : 1848.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/GCWG2438AW",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/White.jpg",
+          "width" : "23 1/2\""
+       }, {
+          "altText" : "24\" Single Gas Wall Oven with Air Fry - GCWG2438AF",
+          "approvalStatus" : "approved",
+          "code" : "GCWG2438AF",
+          "color" : "Stainless Steel",
+          "colorPriority" : 1,
+          "depth" : "25 3/16\"",
+          "height" : "37 11/16\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 2399.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 2699.0,
+          "name" : "24\" Single Gas Wall Oven with Air Fry",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_gaspowered.svg",
+             "name" : "Gas"
+          }, {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_trueconvection.svg",
+             "name" : "True Convection "
+          }, {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_storagedrawers.svg",
+             "name" : "Storage Drawer"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/GCWG2438AF-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$1,798.00",
+             "priceType" : "BUY",
+             "value" : 1798.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/GCWG2438AF",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg",
+          "width" : "23 1/2\""
+       } ],
+       "description" : "FINISHED_GOODS",
+       "featureIcon" : false,
+       "isDiscountPriceValueAvailable" : true,
+       "manual" : "true",
+       "mapUSD" : 2199.0,
+       "msrpCADFormattedValue" : "$0.00",
+       "msrpUSD" : 2499.0,
+       "name" : "24\" Single Gas Wall Oven with Air Fry",
+       "ownersGuide" : "true",
+       "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/GCWG2438AB-HOVb.jpg",
+       "price" : {
+          "bestValue" : false,
+          "currencyIso" : "USD",
+          "formattedValue" : "$1,848.00",
+          "priceType" : "BUY",
+          "value" : 1848.00
+       },
+       "productType" : "FINISHED_GOODS",
+       "replacementParts" : [ "true" ],
+       "reviewVisibility" : true,
+       "selected" : false,
+       "soldIndividually" : true,
+       "summary" : "This wall oven features Air Fry, so you can deliver all of the flavor, none of the guilt.",
+       "swatchColors" : [ "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Black.jpg", "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/White.jpg", "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg" ],
+       "url" : "/c//p/GCWG2438AB",
+       "volumePricesFlag" : false
+    }, {
+       "approvalStatus" : "approved",
+       "baseProduct" : "",
+       "brand" : "Frigidaire Gallery",
+       "bundleProduct" : true,
+       "categoryName" : "Frigidaire Professional Series",
+       "categoryUrl" : "//Kitchen/Wall Ovens/Single Wall Ovens",
+       "code" : "GCWS2438A",
+       "colorVariants" : [ {
+          "altText" : "24\" Single Electric Wall Oven with Air Fry - GCWS2438AB",
+          "approvalStatus" : "approved",
+          "code" : "GCWS2438AB",
+          "color" : "Black",
+          "colorPriority" : 3,
+          "depth" : "25 3/16\"",
+          "height" : "28 5/8\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 2099.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 2349.0,
+          "name" : "24\" Single Electric Wall Oven with Air Fry",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_airfry.svg",
+             "name" : "Air Fry"
+          }, {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_trueconvection.svg",
+             "name" : "True Convection "
+          }, {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_storagedrawers.svg",
+             "name" : "Storage Drawer"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/GCWS2438AB-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$1,748.00",
+             "priceType" : "BUY",
+             "value" : 1748.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/GCWS2438AB",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Black.jpg",
+          "width" : "23 1/2\""
+       }, {
+          "altText" : "24\" Single Electric Wall Oven with Air Fry - GCWS2438AW",
+          "approvalStatus" : "approved",
+          "code" : "GCWS2438AW",
+          "color" : "White",
+          "colorPriority" : 2,
+          "depth" : "25 3/16\"",
+          "height" : "28 5/8\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 2099.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 2349.0,
+          "name" : "24\" Single Electric Wall Oven with Air Fry",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_airfry.svg",
+             "name" : "Air Fry"
+          }, {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_trueconvection.svg",
+             "name" : "True Convection "
+          }, {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_storagedrawers.svg",
+             "name" : "Storage Drawer"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/GCWS2438AW-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$1,748.00",
+             "priceType" : "BUY",
+             "value" : 1748.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/GCWS2438AW",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/White.jpg",
+          "width" : "23 1/2\""
+       }, {
+          "altText" : "24\" Single Electric Wall Oven with Air Fry - GCWS2438AF",
+          "approvalStatus" : "approved",
+          "code" : "GCWS2438AF",
+          "color" : "Stainless Steel",
+          "colorPriority" : 1,
+          "depth" : "25 3/16\"",
+          "height" : "28 5/8\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 2299.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 2599.0,
+          "name" : "24\" Single Electric Wall Oven with Air Fry",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_airfry.svg",
+             "name" : "Air Fry"
+          }, {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_trueconvection.svg",
+             "name" : "True Convection "
+          }, {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_storagedrawers.svg",
+             "name" : "Storage Drawer"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/GCWS2438AF-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$1,698.00",
+             "priceType" : "BUY",
+             "value" : 1698.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/GCWS2438AF",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg",
+          "width" : "23 1/2\""
+       } ],
+       "description" : "FINISHED_GOODS",
+       "featureIcon" : false,
+       "isDiscountPriceValueAvailable" : true,
+       "manual" : "true",
+       "mapUSD" : 2099.0,
+       "msrpCADFormattedValue" : "$0.00",
+       "msrpUSD" : 2349.0,
+       "name" : "24\" Single Electric Wall Oven with Air Fry",
+       "ownersGuide" : "true",
+       "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/GCWS2438AB-HOVb.jpg",
+       "price" : {
+          "bestValue" : false,
+          "currencyIso" : "USD",
+          "formattedValue" : "$1,748.00",
+          "priceType" : "BUY",
+          "value" : 1748.00
+       },
+       "productType" : "FINISHED_GOODS",
+       "replacementParts" : [ "true" ],
+       "reviewVisibility" : true,
+       "selected" : false,
+       "soldIndividually" : true,
+       "summary" : "This wall oven features Air Fry, so you can deliver all of the flavor, none of the guilt.",
+       "swatchColors" : [ "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Black.jpg", "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/White.jpg", "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg" ],
+       "url" : "/c//p/GCWS2438AB",
+       "volumePricesFlag" : false
+    }, {
+       "approvalStatus" : "approved",
+       "baseProduct" : "",
+       "brand" : "Frigidaire Professional",
+       "bundleProduct" : true,
+       "categoryName" : "Double Wall Ovens",
+       "categoryUrl" : "//Kitchen/Wall Ovens/Double Wall Ovens",
+       "code" : "PCWD3080A",
+       "colorVariants" : [ {
+          "altText" : "30\" Double Wall Oven with No Preheat + Air Fry - PCWD3080AF",
+          "approvalStatus" : "approved",
+          "code" : "PCWD3080AF",
+          "color" : "Stainless Steel",
+          "colorPriority" : 1,
+          "depth" : "27 3/5\"",
+          "height" : "50 3/4\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 3999.0,
+          "msrpCAD" : 5299.0,
+          "msrpCADFormattedValue" : "$5,299.00",
+          "msrpUSD" : 4399.0,
+          "name" : "30\" Double Wall Oven with No Preheat + Air Fry",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_airfry.svg",
+             "name" : "Air Fry + Tray Included"
+          }, {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_nopreheat.svg",
+             "name" : "No Preheat"
+          }, {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_totalconvection.svg",
+             "name" : "Total Convection"
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/PCWD3080AF-HOVb.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$2,898.00",
+             "priceType" : "BUY",
+             "value" : 2898.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/PCWD3080AF",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg",
+          "width" : "29 7/8\""
+       } ],
+       "description" : "FINISHED_GOODS",
+       "featureIcon" : true,
+       "isDiscountPriceValueAvailable" : true,
+       "manual" : "true",
+       "mapUSD" : 3999.0,
+       "msrpCAD" : 5299.0,
+       "msrpCADFormattedValue" : "$5,299.00",
+       "msrpUSD" : 4399.0,
+       "name" : "30\" Double Wall Oven with No Preheat + Air Fry",
+       "ownersGuide" : "true",
+       "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/PCWD3080AF-HOVb.jpg",
+       "price" : {
+          "bestValue" : false,
+          "currencyIso" : "USD",
+          "formattedValue" : "$2,898.00",
+          "priceType" : "BUY",
+          "value" : 2898.00
+       },
+       "productType" : "FINISHED_GOODS",
+       "replacementParts" : [ "true" ],
+       "reviewVisibility" : true,
+       "selected" : false,
+       "soldIndividually" : true,
+       "summary" : "This double wall oven features our most powerful and advanced Total Convection system, giving you so many different ways to cook.",
+       "swatchColors" : [ "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg" ],
+       "url" : "/c//p/PCWD3080AF",
+       "volumePricesFlag" : false
+    }, {
+       "approvalStatus" : "approved",
+       "baseProduct" : "",
+       "brand" : "Frigidaire Gallery",
+       "categoryName" : "Frigidaire Professional Series",
+       "categoryUrl" : "//Kitchen/Wall Ovens/Single Wall Ovens",
+       "code" : "FGEW276SP",
+       "colorVariants" : [ {
+          "altText" : "27\" Single Electric Wall Oven - FGEW276SPF",
+          "approvalStatus" : "approved",
+          "code" : "FGEW276SPF",
+          "color" : "Stainless Steel",
+          "colorPriority" : 1,
+          "depth" : "24\"",
+          "height" : "29\"",
+          "isConsumerVisUS" : true,
+          "isStockAvailable" : false,
+          "mapUSD" : 2499.0,
+          "msrpCAD" : 2199.0,
+          "msrpCADFormattedValue" : "$2,199.00",
+          "msrpUSD" : 2799.0,
+          "name" : "27\" Single Electric Wall Oven",
+          "pimStatus" : "",
+          "plpBadges" : [ {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_sidwswingdoor.svg",
+             "name" : "Side-Swing Door"
+          }, {
+             "icon" : "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux%20Assets/Images/Badges/badge_trueconvection.svg",
+             "name" : "True Convection "
+          } ],
+          "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FGEW276SPF-HOV_526_L01.jpg",
+          "price" : {
+             "bestValue" : false,
+             "currencyIso" : "USD",
+             "formattedValue" : "$2,248.00",
+             "priceType" : "BUY",
+             "value" : 2248.00
+          },
+          "saleable" : true,
+          "url" : "/c//p/FGEW276SPF",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg",
+          "width" : "27\""
+       }, {
+          "altText" : "27\" Single Electric Wall Oven - FGEW276SPB",
+          "approvalStatus" : "discontinued",
+          "code" : "FGEW276SPB",
+          "color" : "Black",
+          "colorPriority" : 4,
+          "isConsumerVisUS" : false,
+          "isStockAvailable" : false,
+          "mapUSD" : 1499.0,
+          "msrpCADFormattedValue" : "$0.00",
+          "msrpUSD" : 1699.0,
+          "name" : "27\" Single Electric Wall Oven",
+          "pimStatus" : "",
+          "plpImage" : "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FGEW276SPB-HOV_517.png",
+          "saleable" : false,
+          "url" : "/c//p/FGEW276SPB",
+          "variantSwatchColors" : "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Black.jpg"
+       } ],
+       "description" : "FINISHED_GOODS",
+       "featureIcon" : false,
+       "isDiscountPriceValueAvailable" : true,
+       "manual" : "true",
+       "mapUSD" : 2499.0,
+       "msrpCAD" : 2199.0,
+       "msrpCADFormattedValue" : "$2,199.00",
+       "msrpUSD" : 2799.0,
+       "name" : "27\" Single Electric Wall Oven",
+       "ownersGuide" : "true",
+       "plpImage" : "https://na2.electroluxmedia.com/XL/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FGEW276SPF-HOV_526_L01.jpg",
+       "price" : {
+          "bestValue" : false,
+          "currencyIso" : "USD",
+          "formattedValue" : "$2,248.00",
+          "priceType" : "BUY",
+          "value" : 2248.00
+       },
+       "productType" : "FINISHED_GOODS",
+       "replacementParts" : [ "true" ],
+       "reviewVisibility" : true,
+       "selected" : false,
+       "soldIndividually" : true,
+       "summary" : "The Frigidaire Gallery 27 in. Electric Wall Oven features a large 3.8 cu. ft. oven so you have more room to cook multiple items. Express-Select Control panel makes it easy to set cooking temperature at the touch of a button and the side swing door allows you to take dishes out of the oven with ease. True Convection features a third element and a single fan to distribute heat throughout the oven for faster and more even multi-rack baking.",
+       "swatchColors" : [ "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/StainlessSteel.jpg", "https://na2.electroluxmedia.com/Thumbnail/Electrolux/Electrolux%20Assets/Images/Chips/Black.jpg" ],
+       "url" : "/c//p/FGEW276SPF",
+       "volumePricesFlag" : false
+    } ],
+    "productsCount" : 12,
+    "sorts" : [ {
+       "code" : "relevance",
+       "name" : "Featured",
+       "selected" : true
+    }, {
+       "code" : "price-desc",
+       "name" : "Price (high to low)",
+       "selected" : false
+    }, {
+       "code" : "price-asc",
+       "name" : "Price (low to high)",
+       "selected" : false
+    }, {
+       "code" : "biggestSavings",
+       "name" : "Biggest Savings",
+       "selected" : false
+    } ],
+    "spellingSuggestion" : {
+       "query" : "ovens:relevance",
+       "suggestion" : "ovens"
+    },
+    "totalSearchProductCount" : 256
+ }

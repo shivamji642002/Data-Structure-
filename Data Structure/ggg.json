@@ -1,0 +1,2022 @@
+{
+    "Limit": 8,
+    "Offset": 0,
+    "TotalResults": 129,
+    "Locale": "en_US",
+    "Results": [
+        {
+            "Id": "239457102",
+            "CID": "624ef555-2f31-585f-81d6-ceb524e2d7b7",
+            "SourceClient": "frigidaire",
+            "Badges": {
+                "SweepstakesEntryYes": {
+                    "ContentType": "REVIEW",
+                    "Id": "SweepstakesEntryYes",
+                    "BadgeType": "Custom"
+                }
+            },
+            "BadgesOrder": [
+                "SweepstakesEntryYes"
+            ],
+            "LastModeratedTime": "2025-01-31T14:00:08.000+00:00",
+            "LastModificationTime": "2025-01-31T14:00:08.000+00:00",
+            "ProductId": "FCWM3027AS",
+            "OriginalProductName": "30\" Electric Wall Oven and Microwave Combination",
+            "ContextDataValuesOrder": [
+                "AgreeToRules",
+                "SweepstakesEntry"
+            ],
+            "AuthorId": "q9448zk1w6h7u3x0eqzfumdhm",
+            "ContentLocale": "en_US",
+            "IsFeatured": false,
+            "TotalInappropriateFeedbackCount": 0,
+            "TotalClientResponseCount": 0,
+            "TotalCommentCount": 0,
+            "Rating": 5,
+            "IsRatingsOnly": false,
+            "TotalFeedbackCount": 0,
+            "TotalNegativeFeedbackCount": 0,
+            "TotalPositiveFeedbackCount": 0,
+            "ModerationStatus": "APPROVED",
+            "SubmissionId": "r19006-en__17383308yrJaRubcLn",
+            "SubmissionTime": "2025-01-31T13:41:04.000+00:00",
+            "ReviewText": "Everything from the design of this sleek unit to its function is superior, yet easy to operate and efficient.",
+            "Title": "Sleek Modern Design meets High Quality Efficiency",
+            "UserNickname": "Brucer2608",
+            "ContextDataValues": {
+                "SweepstakesEntry": {
+                    "Value": "Yes",
+                    "Id": "SweepstakesEntry"
+                },
+                "AgreeToRules": {
+                    "Value": "Yes",
+                    "Id": "AgreeToRules"
+                }
+            },
+            "AdditionalFieldsOrder": [],
+            "Cons": null,
+            "TagDimensionsOrder": [],
+            "IsRecommended": null,
+            "SecondaryRatings": {},
+            "CommentIds": [],
+            "Videos": [],
+            "Pros": null,
+            "InappropriateFeedbackList": [],
+            "ClientResponses": [],
+            "SecondaryRatingsOrder": [],
+            "Photos": [],
+            "UserLocation": null,
+            "ProductRecommendationIds": [],
+            "Helpfulness": null,
+            "IsSyndicated": false,
+            "RatingRange": 5,
+            "AdditionalFields": {},
+            "CampaignId": null,
+            "TagDimensions": {}
+        },
+        {
+            "Id": "239253611",
+            "CID": "eff905da-4aaf-5c0e-971d-2664188c6ca4",
+            "SourceClient": "frigidaire",
+            "Badges": {
+                "SweepstakesEntryYes": {
+                    "ContentType": "REVIEW",
+                    "Id": "SweepstakesEntryYes",
+                    "BadgeType": "Custom"
+                }
+            },
+            "BadgesOrder": [
+                "SweepstakesEntryYes"
+            ],
+            "LastModeratedTime": "2025-01-21T22:15:14.000+00:00",
+            "LastModificationTime": "2025-01-21T22:15:14.000+00:00",
+            "ProductId": "FCWM3027AS",
+            "OriginalProductName": "30\" Electric Wall Oven and Microwave Combination",
+            "ContextDataValuesOrder": [
+                "AgreeToRules",
+                "SweepstakesEntry"
+            ],
+            "AuthorId": "pffxkx6thmq1vq1btrtz376ug",
+            "ContentLocale": "en_US",
+            "IsFeatured": false,
+            "TotalInappropriateFeedbackCount": 0,
+            "TotalClientResponseCount": 0,
+            "TotalCommentCount": 0,
+            "Rating": 5,
+            "IsRatingsOnly": false,
+            "TotalFeedbackCount": 0,
+            "TotalNegativeFeedbackCount": 0,
+            "TotalPositiveFeedbackCount": 0,
+            "ModerationStatus": "APPROVED",
+            "SubmissionId": "r19006-en__17374964MnmRcnWe5M",
+            "SubmissionTime": "2025-01-21T21:53:45.000+00:00",
+            "ReviewText": "This unit that replaced a 4 yr old Whirlpool wall unit is far superior to the Whirlpool junk that was installed in my new home .\r\nControls,operation - everything is far superior to the Whirlpool junk no one could repair - wanted over $1500 for boards ,panel and still not working - so installed this wall unit \r\nWAY BETTER! In every way",
+            "Title": "Great Wall unit!",
+            "UserNickname": "Benny bats",
+            "ContextDataValues": {
+                "SweepstakesEntry": {
+                    "Value": "Yes",
+                    "Id": "SweepstakesEntry"
+                },
+                "AgreeToRules": {
+                    "Value": "Yes",
+                    "Id": "AgreeToRules"
+                }
+            },
+            "AdditionalFieldsOrder": [],
+            "Cons": null,
+            "TagDimensionsOrder": [],
+            "IsRecommended": null,
+            "SecondaryRatings": {},
+            "CommentIds": [],
+            "Videos": [],
+            "Pros": null,
+            "InappropriateFeedbackList": [],
+            "ClientResponses": [],
+            "SecondaryRatingsOrder": [],
+            "Photos": [],
+            "UserLocation": null,
+            "ProductRecommendationIds": [],
+            "Helpfulness": null,
+            "IsSyndicated": false,
+            "RatingRange": 5,
+            "AdditionalFields": {},
+            "CampaignId": null,
+            "TagDimensions": {}
+        },
+        {
+            "Id": "239241534",
+            "CID": "26041fb0-3507-5b01-ad38-61d195c3bb06",
+            "SourceClient": "frigidaire",
+            "Badges": {
+                "SweepstakesEntryYes": {
+                    "ContentType": "REVIEW",
+                    "Id": "SweepstakesEntryYes",
+                    "BadgeType": "Custom"
+                }
+            },
+            "BadgesOrder": [
+                "SweepstakesEntryYes"
+            ],
+            "LastModeratedTime": "2025-01-21T15:00:14.000+00:00",
+            "LastModificationTime": "2025-01-21T15:00:14.000+00:00",
+            "ProductId": "FCWM3027AD",
+            "OriginalProductName": "30\" Electric Wall Oven and Microwave Combination",
+            "ContextDataValuesOrder": [
+                "AgreeToRules",
+                "SweepstakesEntry"
+            ],
+            "AuthorId": "pz3jiwz0w3a73xwuz2jsturxj",
+            "ContentLocale": "en_US",
+            "IsFeatured": false,
+            "TotalInappropriateFeedbackCount": 0,
+            "TotalClientResponseCount": 0,
+            "TotalCommentCount": 0,
+            "Rating": 5,
+            "IsRatingsOnly": false,
+            "TotalFeedbackCount": 0,
+            "TotalNegativeFeedbackCount": 0,
+            "TotalPositiveFeedbackCount": 0,
+            "ModerationStatus": "APPROVED",
+            "SubmissionId": "r19006-en__173747061sDZ8gCtGJ",
+            "SubmissionTime": "2025-01-21T14:44:15.000+00:00",
+            "ReviewText": "Has been working well",
+            "UserNickname": "church hill",
+            "ContextDataValues": {
+                "SweepstakesEntry": {
+                    "Value": "Yes",
+                    "Id": "SweepstakesEntry"
+                },
+                "AgreeToRules": {
+                    "Value": "Yes",
+                    "Id": "AgreeToRules"
+                }
+            },
+            "AdditionalFieldsOrder": [],
+            "Cons": null,
+            "TagDimensionsOrder": [],
+            "IsRecommended": null,
+            "SecondaryRatings": {},
+            "CommentIds": [],
+            "Videos": [],
+            "Pros": null,
+            "InappropriateFeedbackList": [],
+            "ClientResponses": [],
+            "SecondaryRatingsOrder": [],
+            "Photos": [],
+            "UserLocation": null,
+            "Title": null,
+            "ProductRecommendationIds": [],
+            "Helpfulness": null,
+            "IsSyndicated": false,
+            "RatingRange": 5,
+            "AdditionalFields": {},
+            "CampaignId": null,
+            "TagDimensions": {}
+        },
+        {
+            "Id": "238905300",
+            "CID": "05adcbcb-b06a-531e-b72f-2dec47ec2ab7",
+            "SourceClient": "frigidaire",
+            "Badges": {
+                "SweepstakesEntryYes": {
+                    "ContentType": "REVIEW",
+                    "Id": "SweepstakesEntryYes",
+                    "BadgeType": "Custom"
+                }
+            },
+            "BadgesOrder": [
+                "SweepstakesEntryYes"
+            ],
+            "LastModeratedTime": "2025-01-09T15:45:10.000+00:00",
+            "LastModificationTime": "2025-01-09T15:45:10.000+00:00",
+            "ProductId": "FCWM3027AS",
+            "OriginalProductName": "30\" Electric Wall Oven and Microwave Combination",
+            "ContextDataValuesOrder": [
+                "AgreeToRules",
+                "SweepstakesEntry"
+            ],
+            "AuthorId": "itfownp2ci7vzhbqvon9meqxj",
+            "ContentLocale": "en_US",
+            "IsFeatured": false,
+            "TotalInappropriateFeedbackCount": 0,
+            "TotalClientResponseCount": 0,
+            "TotalCommentCount": 0,
+            "Rating": 5,
+            "IsRatingsOnly": false,
+            "TotalFeedbackCount": 0,
+            "TotalNegativeFeedbackCount": 0,
+            "TotalPositiveFeedbackCount": 0,
+            "ModerationStatus": "APPROVED",
+            "SubmissionId": "r19006-en__17363385kEnnwtO5Gq",
+            "SubmissionTime": "2025-01-08T12:15:26.000+00:00",
+            "ReviewText": "So far, great, love it, first time ever having a wall oven, best decision I've made.",
+            "Title": "Wall Oven Frigidaire",
+            "UserNickname": "KHll",
+            "ContextDataValues": {
+                "SweepstakesEntry": {
+                    "Value": "Yes",
+                    "Id": "SweepstakesEntry"
+                },
+                "AgreeToRules": {
+                    "Value": "Yes",
+                    "Id": "AgreeToRules"
+                }
+            },
+            "AdditionalFieldsOrder": [],
+            "Cons": null,
+            "TagDimensionsOrder": [],
+            "IsRecommended": null,
+            "SecondaryRatings": {},
+            "CommentIds": [],
+            "Videos": [],
+            "Pros": null,
+            "InappropriateFeedbackList": [],
+            "ClientResponses": [],
+            "SecondaryRatingsOrder": [],
+            "Photos": [],
+            "UserLocation": null,
+            "ProductRecommendationIds": [],
+            "Helpfulness": null,
+            "IsSyndicated": false,
+            "RatingRange": 5,
+            "AdditionalFields": {},
+            "CampaignId": null,
+            "TagDimensions": {}
+        },
+        {
+            "Id": "236705478",
+            "CID": "1c017e83-f66f-5b72-9d32-821f66225ee7",
+            "SourceClient": "frigidaire",
+            "Badges": {
+                "SweepstakesEntryYes": {
+                    "ContentType": "REVIEW",
+                    "Id": "SweepstakesEntryYes",
+                    "BadgeType": "Custom"
+                }
+            },
+            "BadgesOrder": [
+                "SweepstakesEntryYes"
+            ],
+            "LastModeratedTime": "2024-10-11T02:45:04.000+00:00",
+            "LastModificationTime": "2024-10-11T02:45:04.000+00:00",
+            "ProductId": "FCWM3027AB",
+            "OriginalProductName": "30\" Electric Wall Oven and Microwave Combination",
+            "ContextDataValuesOrder": [
+                "AgreeToRules",
+                "SweepstakesEntry"
+            ],
+            "AuthorId": "iubopduu2xpmo7zjhvbipr4ei",
+            "ContentLocale": "en_US",
+            "IsFeatured": false,
+            "TotalInappropriateFeedbackCount": 0,
+            "TotalClientResponseCount": 0,
+            "TotalCommentCount": 0,
+            "Rating": 5,
+            "IsRatingsOnly": false,
+            "TotalFeedbackCount": 0,
+            "TotalNegativeFeedbackCount": 0,
+            "TotalPositiveFeedbackCount": 0,
+            "ModerationStatus": "APPROVED",
+            "SubmissionId": "r19006-en__172861362QNIY9mkh1",
+            "SubmissionTime": "2024-10-11T02:27:46.000+00:00",
+            "ReviewText": "Love the size, very quiet . Would buy it again. The delivery people were very nice and helpful.",
+            "UserNickname": "Turkey 59",
+            "ContextDataValues": {
+                "SweepstakesEntry": {
+                    "Value": "Yes",
+                    "Id": "SweepstakesEntry"
+                },
+                "AgreeToRules": {
+                    "Value": "Yes",
+                    "Id": "AgreeToRules"
+                }
+            },
+            "AdditionalFieldsOrder": [],
+            "Cons": null,
+            "TagDimensionsOrder": [],
+            "IsRecommended": null,
+            "SecondaryRatings": {},
+            "CommentIds": [],
+            "Videos": [],
+            "Pros": null,
+            "InappropriateFeedbackList": [],
+            "ClientResponses": [],
+            "SecondaryRatingsOrder": [],
+            "Photos": [],
+            "UserLocation": null,
+            "Title": null,
+            "ProductRecommendationIds": [],
+            "Helpfulness": null,
+            "IsSyndicated": false,
+            "RatingRange": 5,
+            "AdditionalFields": {},
+            "CampaignId": null,
+            "TagDimensions": {}
+        },
+        {
+            "Id": "235322446",
+            "CID": "6ce7a87a-7793-5d8a-ab0a-020d94c84273",
+            "SourceClient": "frigidaire",
+            "Badges": {
+                "SweepstakesEntryYes": {
+                    "ContentType": "REVIEW",
+                    "Id": "SweepstakesEntryYes",
+                    "BadgeType": "Custom"
+                }
+            },
+            "BadgesOrder": [
+                "SweepstakesEntryYes"
+            ],
+            "LastModeratedTime": "2024-08-05T16:45:22.000+00:00",
+            "LastModificationTime": "2024-08-05T16:45:22.000+00:00",
+            "ProductId": "FCWM3027AB",
+            "OriginalProductName": "30\" Electric Wall Oven and Microwave Combination",
+            "ContextDataValuesOrder": [
+                "AgreeToRules",
+                "SweepstakesEntry"
+            ],
+            "AuthorId": "srp8x9kh1k39d5hphyymj701s",
+            "ContentLocale": "en_US",
+            "IsFeatured": false,
+            "TotalInappropriateFeedbackCount": 0,
+            "TotalClientResponseCount": 0,
+            "TotalCommentCount": 0,
+            "Rating": 5,
+            "IsRatingsOnly": false,
+            "TotalFeedbackCount": 0,
+            "TotalNegativeFeedbackCount": 0,
+            "TotalPositiveFeedbackCount": 0,
+            "ModerationStatus": "APPROVED",
+            "SubmissionId": "r19006-en__17226921M9gbLTEIBU",
+            "SubmissionTime": "2024-08-03T13:36:23.000+00:00",
+            "ReviewText": "Looks beautiful inside and out.  Heats up quickly. The timers for heating are nice to have.  Maintains heat well after opening door",
+            "UserNickname": "Bahia82",
+            "ContextDataValues": {
+                "SweepstakesEntry": {
+                    "Value": "Yes",
+                    "Id": "SweepstakesEntry"
+                },
+                "AgreeToRules": {
+                    "Value": "Yes",
+                    "Id": "AgreeToRules"
+                }
+            },
+            "AdditionalFieldsOrder": [],
+            "Cons": null,
+            "TagDimensionsOrder": [],
+            "IsRecommended": null,
+            "SecondaryRatings": {},
+            "CommentIds": [],
+            "Videos": [],
+            "Pros": null,
+            "InappropriateFeedbackList": [],
+            "ClientResponses": [],
+            "SecondaryRatingsOrder": [],
+            "Photos": [],
+            "UserLocation": null,
+            "Title": null,
+            "ProductRecommendationIds": [],
+            "Helpfulness": null,
+            "IsSyndicated": false,
+            "RatingRange": 5,
+            "AdditionalFields": {},
+            "CampaignId": null,
+            "TagDimensions": {}
+        },
+        {
+            "Id": "235046673",
+            "CID": "a6de11c5-f5e5-5267-8738-25e3dcd8bb40",
+            "SourceClient": "frigidaire",
+            "Badges": {
+                "SweepstakesEntryYes": {
+                    "ContentType": "REVIEW",
+                    "Id": "SweepstakesEntryYes",
+                    "BadgeType": "Custom"
+                }
+            },
+            "BadgesOrder": [
+                "SweepstakesEntryYes"
+            ],
+            "LastModeratedTime": "2024-07-21T16:30:11.000+00:00",
+            "LastModificationTime": "2024-07-21T16:30:11.000+00:00",
+            "ProductId": "FCWM3027AB",
+            "OriginalProductName": "30\" Electric Wall Oven and Microwave Combination",
+            "ContextDataValuesOrder": [
+                "AgreeToRules",
+                "SweepstakesEntry"
+            ],
+            "AuthorId": "aa584rajuxuu07xlxaxh23wrj",
+            "ContentLocale": "en_US",
+            "IsFeatured": false,
+            "TotalInappropriateFeedbackCount": 0,
+            "TotalClientResponseCount": 0,
+            "TotalCommentCount": 0,
+            "Rating": 5,
+            "IsRatingsOnly": false,
+            "TotalFeedbackCount": 0,
+            "TotalNegativeFeedbackCount": 0,
+            "TotalPositiveFeedbackCount": 0,
+            "ModerationStatus": "APPROVED",
+            "SubmissionId": "r19006-en__17215777GViRq02kF0",
+            "SubmissionTime": "2024-07-21T16:02:29.000+00:00",
+            "ReviewText": "WORKS VERY WELL",
+            "UserNickname": "ED Kellogg",
+            "ContextDataValues": {
+                "SweepstakesEntry": {
+                    "Value": "Yes",
+                    "Id": "SweepstakesEntry"
+                },
+                "AgreeToRules": {
+                    "Value": "Yes",
+                    "Id": "AgreeToRules"
+                }
+            },
+            "AdditionalFieldsOrder": [],
+            "Cons": null,
+            "TagDimensionsOrder": [],
+            "IsRecommended": null,
+            "SecondaryRatings": {},
+            "CommentIds": [],
+            "Videos": [],
+            "Pros": null,
+            "InappropriateFeedbackList": [],
+            "ClientResponses": [],
+            "SecondaryRatingsOrder": [],
+            "Photos": [],
+            "UserLocation": null,
+            "Title": null,
+            "ProductRecommendationIds": [],
+            "Helpfulness": null,
+            "IsSyndicated": false,
+            "RatingRange": 5,
+            "AdditionalFields": {},
+            "CampaignId": null,
+            "TagDimensions": {}
+        },
+        {
+            "Id": "234985548",
+            "CID": "e6bd4fcd-6a83-5a15-9d3b-91abe192d897",
+            "SourceClient": "frigidaire",
+            "Badges": {
+                "SweepstakesEntryYes": {
+                    "ContentType": "REVIEW",
+                    "Id": "SweepstakesEntryYes",
+                    "BadgeType": "Custom"
+                }
+            },
+            "BadgesOrder": [
+                "SweepstakesEntryYes"
+            ],
+            "LastModeratedTime": "2024-07-18T17:30:12.000+00:00",
+            "LastModificationTime": "2024-07-18T17:30:12.000+00:00",
+            "ProductId": "FCWM3027AD",
+            "OriginalProductName": "30\" Electric Wall Oven and Microwave Combination",
+            "ContextDataValuesOrder": [
+                "AgreeToRules",
+                "SweepstakesEntry"
+            ],
+            "AuthorId": "m6hctx757le6jc9dzzry91m8k",
+            "ContentLocale": "en_US",
+            "IsFeatured": false,
+            "TotalInappropriateFeedbackCount": 0,
+            "TotalClientResponseCount": 0,
+            "TotalCommentCount": 0,
+            "Rating": 5,
+            "IsRatingsOnly": false,
+            "TotalFeedbackCount": 0,
+            "TotalNegativeFeedbackCount": 0,
+            "TotalPositiveFeedbackCount": 0,
+            "ModerationStatus": "APPROVED",
+            "SubmissionId": "r19006-en__17213176ITGLJuTfnu",
+            "SubmissionTime": "2024-07-18T15:47:34.000+00:00",
+            "ReviewText": "works very well microwave at a height my wife can see into\r\nand quiet",
+            "UserNickname": "dinnerdixie",
+            "ContextDataValues": {
+                "SweepstakesEntry": {
+                    "Value": "Yes",
+                    "Id": "SweepstakesEntry"
+                },
+                "AgreeToRules": {
+                    "Value": "Yes",
+                    "Id": "AgreeToRules"
+                }
+            },
+            "AdditionalFieldsOrder": [],
+            "Cons": null,
+            "TagDimensionsOrder": [],
+            "IsRecommended": null,
+            "SecondaryRatings": {},
+            "CommentIds": [],
+            "Videos": [],
+            "Pros": null,
+            "InappropriateFeedbackList": [],
+            "pClientResonses": [],
+            "SecondaryRatingsOrder": [],
+            "Photos": [],
+            "UserLocation": null,
+            "Title": null,
+            "ProductRecommendationIds": [],
+            "Helpfulness": null,
+            "IsSyndicated": false,
+            "RatingRange": 5,
+            "AdditionalFields": {},
+            "CampaignId": null,
+            "TagDimensions": {}
+        }
+    ],
+    "Includes": {
+        "Products": {
+            "FCWM3027AS": {
+                "FamilyIds": [
+                    "FCWM3027A"
+                ],
+                "UPCs": [
+                    "012505514944",
+                    "012505514951",
+                    "012505515644"
+                ],
+                "Name": "30\" Electric Wall Oven and Microwave Combination",
+                "ModelNumbers": [
+                    "FCWM3027A"
+                ],
+                "AttributesOrder": [
+                    "AVAILABILITY",
+                    "ProductManagementGroupId",
+                    "BV_FE_EXPAND",
+                    "BV_FE_FAMILY"
+                ],
+                "Attributes": {
+                    "AVAILABILITY": {
+                        "Id": "AVAILABILITY",
+                        "Values": [
+                            {
+                                "Value": "True",
+                                "Locale": null
+                            }
+                        ]
+                    },
+                    "ProductManagementGroupId": {
+                        "Id": "ProductManagementGroupId",
+                        "Values": [
+                            {
+                                "Value": "FCWM3027AS",
+                                "Locale": null
+                            }
+                        ]
+                    },
+                    "BV_FE_EXPAND": {
+                        "Id": "BV_FE_EXPAND",
+                        "Values": [
+                            {
+                                "Value": "BV_FE_FAMILY:FCWM3027A",
+                                "Locale": null
+                            }
+                        ]
+                    },
+                    "BV_FE_FAMILY": {
+                        "Id": "BV_FE_FAMILY",
+                        "Values": [
+                            {
+                                "Value": "FCWM3027A",
+                                "Locale": null
+                            }
+                        ]
+                    }
+                },
+                "ManufacturerPartNumbers": [
+                    "FCWM3027AS"
+                ],
+                "ImageUrl": "https://na2.electroluxmedia.com/Large/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWM3027AS-HOVb.jpg",
+                "Description": "The Frigidaire 30\" Microwave Combination Oven with Fan Convection allows you to achieve faster, more even multi-rack baking results, all in an extra large, 5.3 cu.ft. oven cavity!   It also features a premium touch screen digital control panel for the oven and the microwave offers convenient Sensor Cook and Auto Cook options.",
+                "Id": "FCWM3027AS",
+                "CategoryId": "Microwave Wall Oven Combination",
+                "BrandExternalId": "Frigidaire",
+                "Brand": {
+                    "Id": "Frigidaire",
+                    "Name": "Frigidaire"
+                },
+                "Active": true,
+                "ProductPageUrl": "https://www.frigidaire.com/en/p/kitchen/wall-ovens/microwave-combination-ovens/FCWM3027AS",
+                "Disabled": false,
+                "ReviewIds": [],
+                "EANs": [],
+                "StoryIds": [],
+                "ISBNs": [],
+                "QuestionIds": [],
+                "ReviewStatistics": {
+                    "RecommendedCount": 0,
+                    "AverageOverallRating": 4.45679012345679,
+                    "ContextDataDistributionOrder": [
+                        "AgreeToRules",
+                        "SweepstakesEntry"
+                    ],
+                    "ContextDataDistribution": {
+                        "AgreeToRules": {
+                            "Id": "AgreeToRules",
+                            "Values": [
+                                {
+                                    "Count": 160,
+                                    "Value": "Yes"
+                                }
+                            ]
+                        },
+                        "SweepstakesEntry": {
+                            "Id": "SweepstakesEntry",
+                            "Values": [
+                                {
+                                    "Count": 154,
+                                    "Value": "Yes"
+                                },
+                                {
+                                    "Count": 8,
+                                    "Value": "No"
+                                }
+                            ]
+                        }
+                    },
+                    "HelpfulVoteCount": 71,
+                    "FeaturedReviewCount": 0,
+                    "TotalReviewCount": 162,
+                    "RatingsOnlyReviewCount": 33,
+                    "NotHelpfulVoteCount": 17,
+                    "NotRecommendedCount": 0,
+                    "FirstSubmissionTime": "2022-04-26T12:20:12.000+00:00",
+                    "LastSubmissionTime": "2025-02-21T12:58:18.000+00:00",
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 111
+                        },
+                        {
+                            "RatingValue": 4,
+                            "Count": 34
+                        },
+                        {
+                            "RatingValue": 1,
+                            "Count": 7
+                        },
+                        {
+                            "RatingValue": 2,
+                            "Count": 6
+                        },
+                        {
+                            "RatingValue": 3,
+                            "Count": 4
+                        }
+                    ],
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                },
+                "TotalReviewCount": 162,
+                "FilteredReviewStatistics": {
+                    "RecommendedCount": 0,
+                    "AverageOverallRating": 4.410852713178294,
+                    "ContextDataDistributionOrder": [
+                        "AgreeToRules",
+                        "SweepstakesEntry"
+                    ],
+                    "ContextDataDistribution": {
+                        "AgreeToRules": {
+                            "Id": "AgreeToRules",
+                            "Values": [
+                                {
+                                    "Count": 129,
+                                    "Value": "Yes"
+                                }
+                            ]
+                        },
+                        "SweepstakesEntry": {
+                            "Id": "SweepstakesEntry",
+                            "Values": [
+                                {
+                                    "Count": 122,
+                                    "Value": "Yes"
+                                },
+                                {
+                                    "Count": 7,
+                                    "Value": "No"
+                                }
+                            ]
+                        }
+                    },
+                    "HelpfulVoteCount": 71,
+                    "FeaturedReviewCount": 0,
+                    "TotalReviewCount": 129,
+                    "RatingsOnlyReviewCount": 0,
+                    "NotHelpfulVoteCount": 17,
+                    "NotRecommendedCount": 0,
+                    "FirstSubmissionTime": "2022-04-26T12:20:12.000+00:00",
+                    "LastSubmissionTime": "2025-01-31T13:41:04.000+00:00",
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 89
+                        },
+                        {
+                            "RatingValue": 4,
+                            "Count": 24
+                        },
+                        {
+                            "RatingValue": 1,
+                            "Count": 7
+                        },
+                        {
+                            "RatingValue": 2,
+                            "Count": 6
+                        },
+                        {
+                            "RatingValue": 3,
+                            "Count": 3
+                        }
+                    ],
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                }
+            },
+            "FCWM3027AD": {
+                "FamilyIds": [
+                    "FCWM3027A"
+                ],
+                "UPCs": [
+                    "012505514944",
+                    "012505514951",
+                    "012505515644"
+                ],
+                "Name": "30\" Electric Wall Oven and Microwave Combination",
+                "ModelNumbers": [
+                    "FCWM3027A"
+                ],
+                "AttributesOrder": [
+                    "AVAILABILITY",
+                    "ProductManagementGroupId",
+                    "BV_FE_EXPAND",
+                    "BV_FE_FAMILY"
+                ],
+                "Attributes": {
+                    "AVAILABILITY": {
+                        "Id": "AVAILABILITY",
+                        "Values": [
+                            {
+                                "Value": "True",
+                                "Locale": null
+                            }
+                        ]
+                    },
+                    "ProductManagementGroupId": {
+                        "Id": "ProductManagementGroupId",
+                        "Values": [
+                            {
+                                "Value": "FCWM3027AS",
+                                "Locale": null
+                            }
+                        ]
+                    },
+                    "BV_FE_EXPAND": {
+                        "Id": "BV_FE_EXPAND",
+                        "Values": [
+                            {
+                                "Value": "BV_FE_FAMILY:FCWM3027A",
+                                "Locale": null
+                            }
+                        ]
+                    },
+                    "BV_FE_FAMILY": {
+                        "Id": "BV_FE_FAMILY",
+                        "Values": [
+                            {
+                                "Value": "FCWM3027A",
+                                "Locale": null
+                            }
+                        ]
+                    }
+                },
+                "ManufacturerPartNumbers": [
+                    "FCWM3027AD"
+                ],
+                "ImageUrl": "https://na2.electroluxmedia.com/Large/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWM3027AD-HOVb.jpg",
+                "Description": "The Frigidaire 30\" Microwave Combination Oven with Fan Convection allows you to achieve faster, more even multi-rack baking results, all in an extra large, 5.3 cu.ft. oven cavity!   It also features a premium touch screen digital control panel for the oven and the microwave offers convenient Sensor Cook and Auto Cook options.",
+                "Id": "FCWM3027AD",
+                "CategoryId": "Microwave Wall Oven Combination",
+                "BrandExternalId": "Frigidaire",
+                "Brand": {
+                    "Id": "Frigidaire",
+                    "Name": "Frigidaire"
+                },
+                "Active": true,
+                "ProductPageUrl": "https://www.frigidaire.com/en/p/kitchen/wall-ovens/microwave-combination-ovens/FCWM3027AD",
+                "Disabled": false,
+                "ReviewIds": [],
+                "EANs": [],
+                "StoryIds": [],
+                "ISBNs": [],
+                "QuestionIds": [],
+                "ReviewStatistics": {
+                    "NotRecommendedCount": 0,
+                    "HelpfulVoteCount": 71,
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 111
+                        },
+                        {
+                            "RatingValue": 4,
+                            "Count": 34
+                        },
+                        {
+                            "RatingValue": 1,
+                            "Count": 7
+                        },
+                        {
+                            "RatingValue": 2,
+                            "Count": 6
+                        },
+                        {
+                            "RatingValue": 3,
+                            "Count": 4
+                        }
+                    ],
+                    "FeaturedReviewCount": 0,
+                    "RatingsOnlyReviewCount": 33,
+                    "NotHelpfulVoteCount": 17,
+                    "AverageOverallRating": 4.45679012345679,
+                    "ContextDataDistributionOrder": [
+                        "AgreeToRules",
+                        "SweepstakesEntry"
+                    ],
+                    "ContextDataDistribution": {
+                        "AgreeToRules": {
+                            "Id": "AgreeToRules",
+                            "Values": [
+                                {
+                                    "Count": 160,
+                                    "Value": "Yes"
+                                }
+                            ]
+                        },
+                        "SweepstakesEntry": {
+                            "Id": "SweepstakesEntry",
+                            "Values": [
+                                {
+                                    "Count": 154,
+                                    "Value": "Yes"
+                                },
+                                {
+                                    "Count": 8,
+                                    "Value": "No"
+                                }
+                            ]
+                        }
+                    },
+                    "TotalReviewCount": 162,
+                    "FirstSubmissionTime": "2022-04-26T12:20:12.000+00:00",
+                    "LastSubmissionTime": "2025-02-21T12:58:18.000+00:00",
+                    "RecommendedCount": 0,
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                },
+                "TotalReviewCount": 162,
+                "FilteredReviewStatistics": {
+                    "NotRecommendedCount": 0,
+                    "HelpfulVoteCount": 71,
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 89
+                        },
+                        {
+                            "RatingValue": 4,
+                            "Count": 24
+                        },
+                        {
+                            "RatingValue": 1,
+                            "Count": 7
+                        },
+                        {
+                            "RatingValue": 2,
+                            "Count": 6
+                        },
+                        {
+                            "RatingValue": 3,
+                            "Count": 3
+                        }
+                    ],
+                    "FeaturedReviewCount": 0,
+                    "RatingsOnlyReviewCount": 0,
+                    "NotHelpfulVoteCount": 17,
+                    "AverageOverallRating": 4.410852713178294,
+                    "ContextDataDistributionOrder": [
+                        "AgreeToRules",
+                        "SweepstakesEntry"
+                    ],
+                    "ContextDataDistribution": {
+                        "AgreeToRules": {
+                            "Id": "AgreeToRules",
+                            "Values": [
+                                {
+                                    "Count": 129,
+                                    "Value": "Yes"
+                                }
+                            ]
+                        },
+                        "SweepstakesEntry": {
+                            "Id": "SweepstakesEntry",
+                            "Values": [
+                                {
+                                    "Count": 122,
+                                    "Value": "Yes"
+                                },
+                                {
+                                    "Count": 7,
+                                    "Value": "No"
+                                }
+                            ]
+                        }
+                    },
+                    "TotalReviewCount": 129,
+                    "FirstSubmissionTime": "2022-04-26T12:20:12.000+00:00",
+                    "LastSubmissionTime": "2025-01-31T13:41:04.000+00:00",
+                    "RecommendedCount": 0,
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                }
+            },
+            "FCWM3027AB": {
+                "FamilyIds": [
+                    "FCWM3027A"
+                ],
+                "UPCs": [
+                    "012505514944",
+                    "012505514951",
+                    "012505515644"
+                ],
+                "Name": "30\" Electric Wall Oven and Microwave Combination",
+                "ModelNumbers": [
+                    "FCWM3027A"
+                ],
+                "AttributesOrder": [
+                    "AVAILABILITY",
+                    "ProductManagementGroupId",
+                    "BV_FE_EXPAND",
+                    "BV_FE_FAMILY"
+                ],
+                "Attributes": {
+                    "AVAILABILITY": {
+                        "Id": "AVAILABILITY",
+                        "Values": [
+                            {
+                                "Value": "True",
+                                "Locale": null
+                            }
+                        ]
+                    },
+                    "ProductManagementGroupId": {
+                        "Id": "ProductManagementGroupId",
+                        "Values": [
+                            {
+                                "Value": "FCWM3027AS",
+                                "Locale": null
+                            }
+                        ]
+                    },
+                    "BV_FE_EXPAND": {
+                        "Id": "BV_FE_EXPAND",
+                        "Values": [
+                            {
+                                "Value": "BV_FE_FAMILY:FCWM3027A",
+                                "Locale": null
+                            }
+                        ]
+                    },
+                    "BV_FE_FAMILY": {
+                        "Id": "BV_FE_FAMILY",
+                        "Values": [
+                            {
+                                "Value": "FCWM3027A",
+                                "Locale": null
+                            }
+                        ]
+                    }
+                },
+                "ManufacturerPartNumbers": [
+                    "FCWM3027AB"
+                ],
+                "ImageUrl": "https://na2.electroluxmedia.com/Large/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FCWM3027AB-HOVb.jpg",
+                "Description": "The Frigidaire 30\" Microwave Combination Oven with Fan Convection allows you to achieve faster, more even multi-rack baking results, all in an extra large, 5.3 cu.ft. oven cavity!   It also features a premium touch screen digital control panel for the oven and the microwave offers convenient Sensor Cook and Auto Cook options.",
+                "Id": "FCWM3027AB",
+                "CategoryId": "Microwave Wall Oven Combination",
+                "BrandExternalId": "Frigidaire",
+                "Brand": {
+                    "Id": "Frigidaire",
+                    "Name": "Frigidaire"
+                },
+                "Active": true,
+                "ProductPageUrl": "https://www.frigidaire.com/en/p/kitchen/wall-ovens/microwave-combination-ovens/FCWM3027AB",
+                "Disabled": false,
+                "ReviewIds": [],
+                "EANs": [],
+                "StoryIds": [],
+                "ISBNs": [],
+                "QuestionIds": [],
+                "ReviewStatistics": {
+                    "AverageOverallRating": 4.45679012345679,
+                    "RatingsOnlyReviewCount": 33,
+                    "HelpfulVoteCount": 71,
+                    "FirstSubmissionTime": "2022-04-26T12:20:12.000+00:00",
+                    "LastSubmissionTime": "2025-02-21T12:58:18.000+00:00",
+                    "NotRecommendedCount": 0,
+                    "ContextDataDistributionOrder": [
+                        "AgreeToRules",
+                        "SweepstakesEntry"
+                    ],
+                    "ContextDataDistribution": {
+                        "AgreeToRules": {
+                            "Id": "AgreeToRules",
+                            "Values": [
+                                {
+                                    "Count": 160,
+                                    "Value": "Yes"
+                                }
+                            ]
+                        },
+                        "SweepstakesEntry": {
+                            "Id": "SweepstakesEntry",
+                            "Values": [
+                                {
+                                    "Count": 154,
+                                    "Value": "Yes"
+                                },
+                                {
+                                    "Count": 8,
+                                    "Value": "No"
+                                }
+                            ]
+                        }
+                    },
+                    "NotHelpfulVoteCount": 17,
+                    "RecommendedCount": 0,
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 111
+                        },
+                        {
+                            "RatingValue": 4,
+                            "Count": 34
+                        },
+                        {
+                            "RatingValue": 1,
+                            "Count": 7
+                        },
+                        {
+                            "RatingValue": 2,
+                            "Count": 6
+                        },
+                        {
+                            "RatingValue": 3,
+                            "Count": 4
+                        }
+                    ],
+                    "TotalReviewCount": 162,
+                    "FeaturedReviewCount": 0,
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                },
+                "TotalReviewCount": 162,
+                "FilteredReviewStatistics": {
+                    "AverageOverallRating": 4.410852713178294,
+                    "RatingsOnlyReviewCount": 0,
+                    "HelpfulVoteCount": 71,
+                    "FirstSubmissionTime": "2022-04-26T12:20:12.000+00:00",
+                    "LastSubmissionTime": "2025-01-31T13:41:04.000+00:00",
+                    "NotRecommendedCount": 0,
+                    "ContextDataDistributionOrder": [
+                        "AgreeToRules",
+                        "SweepstakesEntry"
+                    ],
+                    "ContextDataDistribution": {
+                        "AgreeToRules": {
+                            "Id": "AgreeToRules",
+                            "Values": [
+                                {
+                                    "Count": 129,
+                                    "Value": "Yes"
+                                }
+                            ]
+                        },
+                        "SweepstakesEntry": {
+                            "Id": "SweepstakesEntry",
+                            "Values": [
+                                {
+                                    "Count": 122,
+                                    "Value": "Yes"
+                                },
+                                {
+                                    "Count": 7,
+                                    "Value": "No"
+                                }
+                            ]
+                        }
+                    },
+                    "NotHelpfulVoteCount": 17,
+                    "RecommendedCount": 0,
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 89
+                        },
+                        {
+                            "RatingValue": 4,
+                            "Count": 24
+                        },
+                        {
+                            "RatingValue": 1,
+                            "Count": 7
+                        },
+                        {
+                            "RatingValue": 2,
+                            "Count": 6
+                        },
+                        {
+                            "RatingValue": 3,
+                            "Count": 3
+                        }
+                    ],
+                    "TotalReviewCount": 129,
+                    "FeaturedReviewCount": 0,
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                }
+            }
+        },
+        "Authors": {
+            "q9448zk1w6h7u3x0eqzfumdhm": {
+                "Id": "q9448zk1w6h7u3x0eqzfumdhm",
+                "Badges": {
+                    "SweepstakesEntryYes": {
+                        "ContentType": "REVIEWER",
+                        "Id": "SweepstakesEntryYes",
+                        "BadgeType": "Custom"
+                    }
+                },
+                "BadgesOrder": [
+                    "SweepstakesEntryYes"
+                ],
+                "ContextDataValuesOrder": [
+                    "AgreeToRules",
+                    "SweepstakesEntry"
+                ],
+                "ContributorRank": "NONE",
+                "UserNickname": "Brucer2608",
+                "LastModeratedTime": "2025-01-31T15:15:09.000+00:00",
+                "ModerationStatus": "APPROVED",
+                "SubmissionTime": "2025-01-31T13:41:04.000+00:00",
+                "ThirdPartyIds": [],
+                "ContextDataValues": {
+                    "SweepstakesEntry": {
+                        "Value": "Yes",
+                        "Id": "SweepstakesEntry"
+                    },
+                    "AgreeToRules": {
+                        "Value": "Yes",
+                        "Id": "AgreeToRules"
+                    }
+                },
+                "ProductRecommendationIds": [],
+                "Videos": [],
+                "SecondaryRatings": {},
+                "StoryIds": [],
+                "QuestionIds": [],
+                "CommentIds": [],
+                "AdditionalFieldsOrder": [],
+                "Location": null,
+                "ReviewIds": [],
+                "AnswerIds": [],
+                "SecondaryRatingsOrder": [],
+                "AdditionalFields": {},
+                "Avatar": {},
+                "SubmissionId": null,
+                "Photos": [],
+                "ReviewStatistics": {
+                    "FirstSubmissionTime": "2025-01-31T13:41:04.000+00:00",
+                    "LastSubmissionTime": "2025-01-31T13:41:04.000+00:00",
+                    "TotalReviewCount": 1,
+                    "RatingsOnlyReviewCount": 0,
+                    "AverageOverallRating": 5.0,
+                    "FeaturedReviewCount": 0,
+                    "HelpfulVoteCount": 0,
+                    "RecommendedCount": 0,
+                    "NotHelpfulVoteCount": 0,
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 1
+                        }
+                    ],
+                    "NotRecommendedCount": 0,
+                    "ContextDataDistribution": {},
+                    "ContextDataDistributionOrder": [],
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                },
+                "TotalReviewCount": 1,
+                "FilteredReviewStatistics": {
+                    "FirstSubmissionTime": "2025-01-31T13:41:04.000+00:00",
+                    "LastSubmissionTime": "2025-01-31T13:41:04.000+00:00",
+                    "TotalReviewCount": 1,
+                    "RatingsOnlyReviewCount": 0,
+                    "AverageOverallRating": 5.0,
+                    "FeaturedReviewCount": 0,
+                    "HelpfulVoteCount": 0,
+                    "RecommendedCount": 0,
+                    "NotHelpfulVoteCount": 0,
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 1
+                        }
+                    ],
+                    "NotRecommendedCount": 0,
+                    "ContextDataDistribution": {},
+                    "ContextDataDistributionOrder": [],
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                }
+            },
+            "pffxkx6thmq1vq1btrtz376ug": {
+                "Id": "pffxkx6thmq1vq1btrtz376ug",
+                "Badges": {
+                    "SweepstakesEntryYes": {
+                        "ContentType": "REVIEWER",
+                        "Id": "SweepstakesEntryYes",
+                        "BadgeType": "Custom"
+                    }
+                },
+                "BadgesOrder": [
+                    "SweepstakesEntryYes"
+                ],
+                "ContextDataValuesOrder": [
+                    "AgreeToRules",
+                    "SweepstakesEntry"
+                ],
+                "ContributorRank": "NONE",
+                "UserNickname": "Benny bats",
+                "LastModeratedTime": "2025-01-24T14:45:11.000+00:00",
+                "ModerationStatus": "APPROVED",
+                "SubmissionTime": "2025-01-21T21:53:45.000+00:00",
+                "ThirdPartyIds": [],
+                "ContextDataValues": {
+                    "SweepstakesEntry": {
+                        "Value": "Yes",
+                        "Id": "SweepstakesEntry"
+                    },
+                    "AgreeToRules": {
+                        "Value": "Yes",
+                        "Id": "AgreeToRules"
+                    }
+                },
+                "ProductRecommendationIds": [],
+                "Videos": [],
+                "SecondaryRatings": {},
+                "StoryIds": [],
+                "QuestionIds": [],
+                "CommentIds": [],
+                "AdditionalFieldsOrder": [],
+                "Location": null,
+                "ReviewIds": [],
+                "AnswerIds": [],
+                "SecondaryRatingsOrder": [],
+                "AdditionalFields": {},
+                "Avatar": {},
+                "SubmissionId": null,
+                "Photos": [],
+                "ReviewStatistics": {
+                    "TotalReviewCount": 1,
+                    "HelpfulVoteCount": 0,
+                    "FirstSubmissionTime": "2025-01-21T21:53:45.000+00:00",
+                    "LastSubmissionTime": "2025-01-21T21:53:45.000+00:00",
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 1
+                        }
+                    ],
+                    "NotRecommendedCount": 0,
+                    "FeaturedReviewCount": 0,
+                    "RatingsOnlyReviewCount": 0,
+                    "AverageOverallRating": 5.0,
+                    "NotHelpfulVoteCount": 0,
+                    "RecommendedCount": 0,
+                    "ContextDataDistribution": {},
+                    "ContextDataDistributionOrder": [],
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                },
+                "TotalReviewCount": 1,
+                "FilteredReviewStatistics": {
+                    "TotalReviewCount": 1,
+                    "HelpfulVoteCount": 0,
+                    "FirstSubmissionTime": "2025-01-21T21:53:45.000+00:00",
+                    "LastSubmissionTime": "2025-01-21T21:53:45.000+00:00",
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 1
+                        }
+                    ],
+                    "NotRecommendedCount": 0,
+                    "FeaturedReviewCount": 0,
+                    "RatingsOnlyReviewCount": 0,
+                    "AverageOverallRating": 5.0,
+                    "NotHelpfulVoteCount": 0,
+                    "RecommendedCount": 0,
+                    "ContextDataDistribution": {},
+                    "ContextDataDistributionOrder": [],
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                }
+            },
+            "pz3jiwz0w3a73xwuz2jsturxj": {
+                "Id": "pz3jiwz0w3a73xwuz2jsturxj",
+                "Badges": {
+                    "SweepstakesEntryYes": {
+                        "ContentType": "REVIEWER",
+                        "Id": "SweepstakesEntryYes",
+                        "BadgeType": "Custom"
+                    }
+                },
+                "BadgesOrder": [
+                    "SweepstakesEntryYes"
+                ],
+                "ContextDataValuesOrder": [
+                    "AgreeToRules",
+                    "SweepstakesEntry"
+                ],
+                "ContributorRank": "NONE",
+                "UserNickname": "church hill",
+                "LastModeratedTime": "2025-01-21T16:30:12.000+00:00",
+                "ModerationStatus": "APPROVED",
+                "SubmissionTime": "2025-01-21T14:44:16.000+00:00",
+                "ThirdPartyIds": [],
+                "ContextDataValues": {
+                    "SweepstakesEntry": {
+                        "Value": "Yes",
+                        "Id": "SweepstakesEntry"
+                    },
+                    "AgreeToRules": {
+                        "Value": "Yes",
+                        "Id": "AgreeToRules"
+                    }
+                },
+                "ProductRecommendationIds": [],
+                "Videos": [],
+                "SecondaryRatings": {},
+                "StoryIds": [],
+                "QuestionIds": [],
+                "CommentIds": [],
+                "AdditionalFieldsOrder": [],
+                "Location": null,
+                "ReviewIds": [],
+                "AnswerIds": [],
+                "SecondaryRatingsOrder": [],
+                "AdditionalFields": {},
+                "Avatar": {},
+                "SubmissionId": null,
+                "Photos": [],
+                "ReviewStatistics": {
+                    "RatingsOnlyReviewCount": 0,
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 1
+                        }
+                    ],
+                    "TotalReviewCount": 1,
+                    "FeaturedReviewCount": 0,
+                    "HelpfulVoteCount": 0,
+                    "FirstSubmissionTime": "2025-01-21T14:44:15.000+00:00",
+                    "LastSubmissionTime": "2025-01-21T14:44:15.000+00:00",
+                    "RecommendedCount": 0,
+                    "AverageOverallRating": 5.0,
+                    "NotRecommendedCount": 0,
+                    "NotHelpfulVoteCount": 0,
+                    "ContextDataDistribution": {},
+                    "ContextDataDistributionOrder": [],
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                },
+                "TotalReviewCount": 1,
+                "FilteredReviewStatistics": {
+                    "RatingsOnlyReviewCount": 0,
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 1
+                        }
+                    ],
+                    "TotalReviewCount": 1,
+                    "FeaturedReviewCount": 0,
+                    "HelpfulVoteCount": 0,
+                    "FirstSubmissionTime": "2025-01-21T14:44:15.000+00:00",
+                    "LastSubmissionTime": "2025-01-21T14:44:15.000+00:00",
+                    "RecommendedCount": 0,
+                    "AverageOverallRating": 5.0,
+                    "NotRecommendedCount": 0,
+                    "NotHelpfulVoteCount": 0,
+                    "ContextDataDistribution": {},
+                    "ContextDataDistributionOrder": [],
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                }
+            },
+            "itfownp2ci7vzhbqvon9meqxj": {
+                "Id": "itfownp2ci7vzhbqvon9meqxj",
+                "Badges": {
+                    "SweepstakesEntryYes": {
+                        "ContentType": "REVIEWER",
+                        "Id": "SweepstakesEntryYes",
+                        "BadgeType": "Custom"
+                    }
+                },
+                "BadgesOrder": [
+                    "SweepstakesEntryYes"
+                ],
+                "ContextDataValuesOrder": [
+                    "AgreeToRules",
+                    "SweepstakesEntry"
+                ],
+                "ContributorRank": "NONE",
+                "UserNickname": "KHll",
+                "LastModeratedTime": "2025-01-08T14:00:10.000+00:00",
+                "ModerationStatus": "APPROVED",
+                "SubmissionTime": "2025-01-08T12:15:26.000+00:00",
+                "ThirdPartyIds": [],
+                "ContextDataValues": {
+                    "SweepstakesEntry": {
+                        "Value": "Yes",
+                        "Id": "SweepstakesEntry"
+                    },
+                    "AgreeToRules": {
+                        "Value": "Yes",
+                        "Id": "AgreeToRules"
+                    }
+                },
+                "ProductRecommendationIds": [],
+                "Videos": [],
+                "SecondaryRatings": {},
+                "StoryIds": [],
+                "QuestionIds": [],
+                "CommentIds": [],
+                "AdditionalFieldsOrder": [],
+                "Location": null,
+                "ReviewIds": [],
+                "AnswerIds": [],
+                "SecondaryRatingsOrder": [],
+                "AdditionalFields": {},
+                "Avatar": {},
+                "SubmissionId": null,
+                "Photos": [],
+                "ReviewStatistics": {
+                    "HelpfulVoteCount": 0,
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 1
+                        }
+                    ],
+                    "RatingsOnlyReviewCount": 0,
+                    "NotHelpfulVoteCount": 0,
+                    "AverageOverallRating": 5.0,
+                    "FirstSubmissionTime": "2025-01-08T12:15:26.000+00:00",
+                    "LastSubmissionTime": "2025-01-08T12:15:26.000+00:00",
+                    "FeaturedReviewCount": 0,
+                    "NotRecommendedCount": 0,
+                    "TotalReviewCount": 1,
+                    "RecommendedCount": 0,
+                    "ContextDataDistribution": {},
+                    "ContextDataDistributionOrder": [],
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                },
+                "TotalReviewCount": 1,
+                "FilteredReviewStatistics": {
+                    "HelpfulVoteCount": 0,
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 1
+                        }
+                    ],
+                    "RatingsOnlyReviewCount": 0,
+                    "NotHelpfulVoteCount": 0,
+                    "AverageOverallRating": 5.0,
+                    "FirstSubmissionTime": "2025-01-08T12:15:26.000+00:00",
+                    "LastSubmissionTime": "2025-01-08T12:15:26.000+00:00",
+                    "FeaturedReviewCount": 0,
+                    "NotRecommendedCount": 0,
+                    "TotalReviewCount": 1,
+                    "RecommendedCount": 0,
+                    "ContextDataDistribution": {},
+                    "ContextDataDistributionOrder": [],
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                }
+            },
+            "iubopduu2xpmo7zjhvbipr4ei": {
+                "Id": "iubopduu2xpmo7zjhvbipr4ei",
+                "Badges": {
+                    "SweepstakesEntryYes": {
+                        "ContentType": "REVIEWER",
+                        "Id": "SweepstakesEntryYes",
+                        "BadgeType": "Custom"
+                    }
+                },
+                "BadgesOrder": [
+                    "SweepstakesEntryYes"
+                ],
+                "ContextDataValuesOrder": [
+                    "AgreeToRules",
+                    "SweepstakesEntry"
+                ],
+                "ContributorRank": "NONE",
+                "UserNickname": "Turkey 59",
+                "LastModeratedTime": "2024-10-11T11:00:06.000+00:00",
+                "ModerationStatus": "APPROVED",
+                "SubmissionTime": "2024-10-11T02:27:47.000+00:00",
+                "ThirdPartyIds": [],
+                "ContextDataValues": {
+                    "SweepstakesEntry": {
+                        "Value": "Yes",
+                        "Id": "SweepstakesEntry"
+                    },
+                    "AgreeToRules": {
+                        "Value": "Yes",
+                        "Id": "AgreeToRules"
+                    }
+                },
+                "ProductRecommendationIds": [],
+                "Videos": [],
+                "SecondaryRatings": {},
+                "StoryIds": [],
+                "QuestionIds": [],
+                "CommentIds": [],
+                "AdditionalFieldsOrder": [],
+                "Location": null,
+                "ReviewIds": [],
+                "AnswerIds": [],
+                "SecondaryRatingsOrder": [],
+                "AdditionalFields": {},
+                "Avatar": {},
+                "SubmissionId": null,
+                "Photos": [],
+                "ReviewStatistics": {
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 1
+                        }
+                    ],
+                    "RatingsOnlyReviewCount": 0,
+                    "HelpfulVoteCount": 0,
+                    "AverageOverallRating": 5.0,
+                    "FirstSubmissionTime": "2024-10-11T02:27:46.000+00:00",
+                    "LastSubmissionTime": "2024-10-11T02:27:46.000+00:00",
+                    "NotRecommendedCount": 0,
+                    "TotalReviewCount": 1,
+                    "RecommendedCount": 0,
+                    "FeaturedReviewCount": 0,
+                    "NotHelpfulVoteCount": 0,
+                    "ContextDataDistribution": {},
+                    "ContextDataDistributionOrder": [],
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                },
+                "TotalReviewCount": 1,
+                "FilteredReviewStatistics": {
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 1
+                        }
+                    ],
+                    "RatingsOnlyReviewCount": 0,
+                    "HelpfulVoteCount": 0,
+                    "AverageOverallRating": 5.0,
+                    "FirstSubmissionTime": "2024-10-11T02:27:46.000+00:00",
+                    "LastSubmissionTime": "2024-10-11T02:27:46.000+00:00",
+                    "NotRecommendedCount": 0,
+                    "TotalReviewCount": 1,
+                    "RecommendedCount": 0,
+                    "FeaturedReviewCount": 0,
+                    "NotHelpfulVoteCount": 0,
+                    "ContextDataDistribution": {},
+                    "ContextDataDistributionOrder": [],
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                }
+            },
+            "srp8x9kh1k39d5hphyymj701s": {
+                "Id": "srp8x9kh1k39d5hphyymj701s",
+                "Badges": {
+                    "SweepstakesEntryYes": {
+                        "ContentType": "REVIEWER",
+                        "Id": "SweepstakesEntryYes",
+                        "BadgeType": "Custom"
+                    }
+                },
+                "BadgesOrder": [
+                    "SweepstakesEntryYes"
+                ],
+                "ContextDataValuesOrder": [
+                    "AgreeToRules",
+                    "SweepstakesEntry"
+                ],
+                "ContributorRank": "NONE",
+                "UserNickname": "Bahia82",
+                "LastModeratedTime": "2024-08-03T15:02:25.000+00:00",
+                "ModerationStatus": "APPROVED",
+                "SubmissionTime": "2024-08-03T13:36:24.000+00:00",
+                "ThirdPartyIds": [],
+                "ContextDataValues": {
+                    "SweepstakesEntry": {
+                        "Value": "Yes",
+                        "Id": "SweepstakesEntry"
+                    },
+                    "AgreeToRules": {
+                        "Value": "Yes",
+                        "Id": "AgreeToRules"
+                    }
+                },
+                "ProductRecommendationIds": [],
+                "Videos": [],
+                "SecondaryRatings": {},
+                "StoryIds": [],
+                "QuestionIds": [],
+                "CommentIds": [],
+                "AdditionalFieldsOrder": [],
+                "Location": null,
+                "ReviewIds": [],
+                "AnswerIds": [],
+                "SecondaryRatingsOrder": [],
+                "AdditionalFields": {},
+                "Avatar": {},
+                "SubmissionId": null,
+                "Photos": [],
+                "ReviewStatistics": {
+                    "AverageOverallRating": 5.0,
+                    "FeaturedReviewCount": 0,
+                    "RatingsOnlyReviewCount": 0,
+                    "FirstSubmissionTime": "2024-08-03T13:36:23.000+00:00",
+                    "LastSubmissionTime": "2024-08-03T13:36:23.000+00:00",
+                    "TotalReviewCount": 1,
+                    "HelpfulVoteCount": 0,
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 1
+                        }
+                    ],
+                    "RecommendedCount": 0,
+                    "NotHelpfulVoteCount": 0,
+                    "NotRecommendedCount": 0,
+                    "ContextDataDistribution": {},
+                    "ContextDataDistributionOrder": [],
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                },
+                "TotalReviewCount": 1,
+                "FilteredReviewStatistics": {
+                    "AverageOverallRating": 5.0,
+                    "FeaturedReviewCount": 0,
+                    "RatingsOnlyReviewCount": 0,
+                    "FirstSubmissionTime": "2024-08-03T13:36:23.000+00:00",
+                    "LastSubmissionTime": "2024-08-03T13:36:23.000+00:00",
+                    "TotalReviewCount": 1,
+                    "HelpfulVoteCount": 0,
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 1
+                        }
+                    ],
+                    "RecommendedCount": 0,
+                    "NotHelpfulVoteCount": 0,
+                    "NotRecommendedCount": 0,
+                    "ContextDataDistribution": {},
+                    "ContextDataDistributionOrder": [],
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                }
+            },
+            "aa584rajuxuu07xlxaxh23wrj": {
+                "Id": "aa584rajuxuu07xlxaxh23wrj",
+                "Badges": {
+                    "SweepstakesEntryYes": {
+                        "ContentType": "REVIEWER",
+                        "Id": "SweepstakesEntryYes",
+                        "BadgeType": "Custom"
+                    }
+                },
+                "BadgesOrder": [
+                    "SweepstakesEntryYes"
+                ],
+                "ContextDataValuesOrder": [
+                    "AgreeToRules",
+                    "SweepstakesEntry"
+                ],
+                "ContributorRank": "NONE",
+                "UserNickname": "ED Kellogg",
+                "LastModeratedTime": "2024-07-21T17:45:12.000+00:00",
+                "ModerationStatus": "APPROVED",
+                "SubmissionTime": "2024-07-21T16:02:29.000+00:00",
+                "ThirdPartyIds": [],
+                "ContextDataValues": {
+                    "SweepstakesEntry": {
+                        "Value": "Yes",
+                        "Id": "SweepstakesEntry"
+                    },
+                    "AgreeToRules": {
+                        "Value": "Yes",
+                        "Id": "AgreeToRules"
+                    }
+                },
+                "ProductRecommendationIds": [],
+                "Videos": [],
+                "SecondaryRatings": {},
+                "StoryIds": [],
+                "QuestionIds": [],
+                "CommentIds": [],
+                "AdditionalFieldsOrder": [],
+                "Location": null,
+                "ReviewIds": [],
+                "AnswerIds": [],
+                "SecondaryRatingsOrder": [],
+                "AdditionalFields": {},
+                "Avatar": {},
+                "SubmissionId": null,
+                "Photos": [],
+                "ReviewStatistics": {
+                    "RecommendedCount": 0,
+                    "HelpfulVoteCount": 0,
+                    "FirstSubmissionTime": "2024-07-21T16:02:29.000+00:00",
+                    "LastSubmissionTime": "2024-07-21T16:02:29.000+00:00",
+                    "NotRecommendedCount": 0,
+                    "FeaturedReviewCount": 0,
+                    "NotHelpfulVoteCount": 0,
+                    "RatingsOnlyReviewCount": 0,
+                    "AverageOverallRating": 5.0,
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 1
+                        }
+                    ],
+                    "TotalReviewCount": 1,
+                    "ContextDataDistribution": {},
+                    "ContextDataDistributionOrder": [],
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                },
+                "TotalReviewCount": 1,
+                "FilteredReviewStatistics": {
+                    "RecommendedCount": 0,
+                    "HelpfulVoteCount": 0,
+                    "FirstSubmissionTime": "2024-07-21T16:02:29.000+00:00",
+                    "LastSubmissionTime": "2024-07-21T16:02:29.000+00:00",
+                    "NotRecommendedCount": 0,
+                    "FeaturedReviewCount": 0,
+                    "NotHelpfulVoteCount": 0,
+                    "RatingsOnlyReviewCount": 0,
+                    "AverageOverallRating": 5.0,
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 1
+                        }
+                    ],
+                    "TotalReviewCount": 1,
+                    "ContextDataDistribution": {},
+                    "ContextDataDistributionOrder": [],
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                }
+            },
+            "m6hctx757le6jc9dzzry91m8k": {
+                "Id": "m6hctx757le6jc9dzzry91m8k",
+                "Badges": {
+                    "SweepstakesEntryYes": {
+                        "ContentType": "REVIEWER",
+                        "Id": "SweepstakesEntryYes",
+                        "BadgeType": "Custom"
+                    }
+                },
+                "BadgesOrder": [
+                    "SweepstakesEntryYes"
+                ],
+                "ContextDataValuesOrder": [
+                    "AgreeToRules",
+                    "SweepstakesEntry"
+                ],
+                "ContributorRank": "NONE",
+                "UserNickname": "dinnerdixie",
+                "LastModeratedTime": "2024-07-18T17:00:10.000+00:00",
+                "ModerationStatus": "APPROVED",
+                "SubmissionTime": "2024-07-18T15:47:34.000+00:00",
+                "ThirdPartyIds": [],
+                "ContextDataValues": {
+                    "SweepstakesEntry": {
+                        "Value": "Yes",
+                        "Id": "SweepstakesEntry"
+                    },
+                    "AgreeToRules": {
+                        "Value": "Yes",
+                        "Id": "AgreeToRules"
+                    }
+                },
+                "ProductRecommendationIds": [],
+                "Videos": [],
+                "SecondaryRatings": {},
+                "StoryIds": [],
+                "QuestionIds": [],
+                "CommentIds": [],
+                "AdditionalFieldsOrder": [],
+                "Location": null,
+                "ReviewIds": [],
+                "AnswerIds": [],
+                "SecondaryRatingsOrder": [],
+                "AdditionalFields": {},
+                "Avatar": {},
+                "SubmissionId": null,
+                "Photos": [],
+                "ReviewStatistics": {
+                    "NotRecommendedCount": 0,
+                    "FirstSubmissionTime": "2024-07-18T15:47:34.000+00:00",
+                    "LastSubmissionTime": "2024-07-18T15:47:34.000+00:00",
+                    "AverageOverallRating": 5.0,
+                    "RatingsOnlyReviewCount": 0,
+                    "NotHelpfulVoteCount": 0,
+                    "TotalReviewCount": 1,
+                    "HelpfulVoteCount": 0,
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 1
+                        }
+                    ],
+                    "FeaturedReviewCount": 0,
+                    "RecommendedCount": 0,
+                    "ContextDataDistribution": {},
+                    "ContextDataDistributionOrder": [],
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                },
+                "TotalReviewCount": 1,
+                "FilteredReviewStatistics": {
+                    "NotRecommendedCount": 0,
+                    "FirstSubmissionTime": "2024-07-18T15:47:34.000+00:00",
+                    "LastSubmissionTime": "2024-07-18T15:47:34.000+00:00",
+                    "AverageOverallRating": 5.0,
+                    "RatingsOnlyReviewCount": 0,
+                    "NotHelpfulVoteCount": 0,
+                    "TotalReviewCount": 1,
+                    "HelpfulVoteCount": 0,
+                    "RatingDistribution": [
+                        {
+                            "RatingValue": 5,
+                            "Count": 1
+                        }
+                    ],
+                    "FeaturedReviewCount": 0,
+                    "RecommendedCount": 0,
+                    "ContextDataDistribution": {},
+                    "ContextDataDistributionOrder": [],
+                    "SecondaryRatingsAveragesOrder": [],
+                    "TagDistribution": {},
+                    "SecondaryRatingsAverages": {},
+                    "OverallRatingRange": 5,
+                    "TagDistributionOrder": []
+                }
+            }
+        },
+        "ProductsOrder": [
+            "FCWM3027AS",
+            "FCWM3027AD",
+            "FCWM3027AB"
+        ],
+        "AuthorsOrder": [
+            "q9448zk1w6h7u3x0eqzfumdhm",
+            "pffxkx6thmq1vq1btrtz376ug",
+            "pz3jiwz0w3a73xwuz2jsturxj",
+            "itfownp2ci7vzhbqvon9meqxj",
+            "iubopduu2xpmo7zjhvbipr4ei",
+            "srp8x9kh1k39d5hphyymj701s",
+            "aa584rajuxuu07xlxaxh23wrj",
+            "m6hctx757le6jc9dzzry91m8k"
+        ]
+    },
+    "HasErrors": false,
+    "Errors": []
+}

@@ -1,0 +1,621 @@
+{
+    "Limit": 8,
+    "Offset": 0,
+    "TotalResults": 129,
+    "Locale": "en_US",
+    "Results": [
+      {
+        "Id": "239457102",
+        "CID": "624ef555-2f31-585f-81d6-ceb524e2d7b7",
+        "SourceClient": "frigidaire",
+        "Badges": {
+          "SweepstakesEntryYes": {
+            "ContentType": "REVIEW",
+            "Id": "SweepstakesEntryYes",
+            "BadgeType": "Custom"
+          }
+        },
+        "BadgesOrder": [
+          "SweepstakesEntryYes"
+        ],
+        "LastModeratedTime": "2025-01-31T14:00:08.000+00:00",
+        "LastModificationTime": "2025-01-31T14:00:08.000+00:00",
+        "ProductId": "FCWM3027AS",
+        "OriginalProductName": "30\" Electric Wall Oven and Microwave Combination",
+        "ContextDataValuesOrder": [
+          "AgreeToRules",
+          "SweepstakesEntry"
+        ],
+        "AuthorId": "q9448zk1w6h7u3x0eqzfumdhm",
+        "ContentLocale": "en_US",
+        "IsFeatured": false,
+        "TotalInappropriateFeedbackCount": 0,
+        "TotalClientResponseCount": 0,
+        "TotalCommentCount": 0,
+        "Rating": 5,
+        "IsRatingsOnly": false,
+        "TotalFeedbackCount": 0,
+        "TotalNegativeFeedbackCount": 0,
+        "TotalPositiveFeedbackCount": 0,
+        "ModerationStatus": "APPROVED",
+        "SubmissionId": "r19006-en__17383308yrJaRubcLn",
+        "SubmissionTime": "2025-01-31T13:41:04.000+00:00",
+        "ReviewText": "Everything from the design of this sleek unit to its function is superior, yet easy to operate and efficient.",
+        "Title": "Sleek Modern Design meets High Quality Efficiency",
+        "UserNickname": "Brucer2608",
+        "ContextDataValues": {
+          "SweepstakesEntry": {
+            "Value": "Yes",
+            "Id": "SweepstakesEntry"
+          },
+          "AgreeToRules": {
+            "Value": "Yes",
+            "Id": "AgreeToRules"
+          }
+        },
+        "SecondaryRatings": {
+  
+        },
+        "CommentIds": [],
+        "Videos": [],
+        "Pros": null,
+        "ClientResponses": [],
+        "SecondaryRatingsOrder": [],
+        "InappropriateFeedbackList": [],
+        "Photos": [],
+        "UserLocation": null,
+        "ProductRecommendationIds": [],
+        "Helpfulness": null,
+        "IsSyndicated": false,
+        "RatingRange": 5,
+        "AdditionalFields": {
+  
+        },
+        "CampaignId": null,
+        "TagDimensions": {
+  
+        },
+        "Cons": null,
+        "TagDimensionsOrder": [],
+        "AdditionalFieldsOrder": [],
+        "IsRecommended": null
+      },
+      {
+        "Id": "239253611",
+        "CID": "eff905da-4aaf-5c0e-971d-2664188c6ca4",
+        "SourceClient": "frigidaire",
+        "Badges": {
+          "SweepstakesEntryYes": {
+            "ContentType": "REVIEW",
+            "Id": "SweepstakesEntryYes",
+            "BadgeType": "Custom"
+          }
+        },
+        "BadgesOrder": [
+          "SweepstakesEntryYes"
+        ],
+        "LastModeratedTime": "2025-01-21T22:15:14.000+00:00",
+        "LastModificationTime": "2025-01-21T22:15:14.000+00:00",
+        "ProductId": "FCWM3027AS",
+        "OriginalProductName": "30\" Electric Wall Oven and Microwave Combination",
+        "ContextDataValuesOrder": [
+          "AgreeToRules",
+          "SweepstakesEntry"
+        ],
+        "AuthorId": "pffxkx6thmq1vq1btrtz376ug",
+        "ContentLocale": "en_US",
+        "IsFeatured": false,
+        "TotalInappropriateFeedbackCount": 0,
+        "TotalClientResponseCount": 0,
+        "TotalCommentCount": 0,
+        "Rating": 5,
+        "IsRatingsOnly": false,
+        "TotalFeedbackCount": 0,
+        "TotalNegativeFeedbackCount": 0,
+        "TotalPositiveFeedbackCount": 0,
+        "ModerationStatus": "APPROVED",
+        "SubmissionId": "r19006-en__17374964MnmRcnWe5M",
+        "SubmissionTime": "2025-01-21T21:53:45.000+00:00",
+        "ReviewText": "This unit that replaced a 4 yr old Whirlpool wall unit is far superior to the Whirlpool junk that was installed in my new home .\r\nControls,operation - everything is far superior to the Whirlpool junk no one could repair - wanted over $1500 for boards ,panel and still not working - so installed this wall unit \r\nWAY BETTER! In every way",
+        "Title": "Great Wall unit!",
+        "UserNickname": "Benny bats",
+        "ContextDataValues": {
+          "SweepstakesEntry": {
+            "Value": "Yes",
+            "Id": "SweepstakesEntry"
+          },
+          "AgreeToRules": {
+            "Value": "Yes",
+            "Id": "AgreeToRules"
+          }
+        },
+        "SecondaryRatings": {
+  
+        },
+        "CommentIds": [],
+        "Videos": [],
+        "Pros": null,
+        "ClientResponses": [],
+        "SecondaryRatingsOrder": [],
+        "InappropriateFeedbackList": [],
+        "Photos": [],
+        "UserLocation": null,
+        "ProductRecommendationIds": [],
+        "Helpfulness": null,
+        "IsSyndicated": false,
+        "RatingRange": 5,
+        "AdditionalFields": {
+  
+        },
+        "CampaignId": null,
+        "TagDimensions": {
+  
+        },
+        "Cons": null,
+        "TagDimensionsOrder": [],
+        "AdditionalFieldsOrder": [],
+        "IsRecommended": null
+      },
+      {
+        "Id": "239241534",
+        "CID": "26041fb0-3507-5b01-ad38-61d195c3bb06",
+        "SourceClient": "frigidaire",
+        "Badges": {
+          "SweepstakesEntryYes": {
+            "ContentType": "REVIEW",
+            "Id": "SweepstakesEntryYes",
+            "BadgeType": "Custom"
+          }
+        },
+        "BadgesOrder": [
+          "SweepstakesEntryYes"
+        ],
+        "LastModeratedTime": "2025-01-21T15:00:14.000+00:00",
+        "LastModificationTime": "2025-01-21T15:00:14.000+00:00",
+        "ProductId": "FCWM3027AD",
+        "OriginalProductName": "30\" Electric Wall Oven and Microwave Combination",
+        "ContextDataValuesOrder": [
+          "AgreeToRules",
+          "SweepstakesEntry"
+        ],
+        "AuthorId": "pz3jiwz0w3a73xwuz2jsturxj",
+        "ContentLocale": "en_US",
+        "IsFeatured": false,
+        "TotalInappropriateFeedbackCount": 0,
+        "TotalClientResponseCount": 0,
+        "TotalCommentCount": 0,
+        "Rating": 5,
+        "IsRatingsOnly": false,
+        "TotalFeedbackCount": 0,
+        "TotalNegativeFeedbackCount": 0,
+        "TotalPositiveFeedbackCount": 0,
+        "ModerationStatus": "APPROVED",
+        "SubmissionId": "r19006-en__173747061sDZ8gCtGJ",
+        "SubmissionTime": "2025-01-21T14:44:15.000+00:00",
+        "ReviewText": "Has been working well",
+        "UserNickname": "church hill",
+        "ContextDataValues": {
+          "SweepstakesEntry": {
+            "Value": "Yes",
+            "Id": "SweepstakesEntry"
+          },
+          "AgreeToRules": {
+            "Value": "Yes",
+            "Id": "AgreeToRules"
+          }
+        },
+        "SecondaryRatings": {
+  
+        },
+        "CommentIds": [],
+        "Videos": [],
+        "Pros": null,
+        "ClientResponses": [],
+        "SecondaryRatingsOrder": [],
+        "InappropriateFeedbackList": [],
+        "Photos": [],
+        "UserLocation": null,
+        "Title": null,
+        "ProductRecommendationIds": [],
+        "Helpfulness": null,
+        "IsSyndicated": false,
+        "RatingRange": 5,
+        "AdditionalFields": {
+  
+        },
+        "CampaignId": null,
+        "TagDimensions": {
+  
+        },
+        "Cons": null,
+        "TagDimensionsOrder": [],
+        "AdditionalFieldsOrder": [],
+        "IsRecommended": null
+      },
+      {
+        "Id": "238905300",
+        "CID": "05adcbcb-b06a-531e-b72f-2dec47ec2ab7",
+        "SourceClient": "frigidaire",
+        "Badges": {
+          "SweepstakesEntryYes": {
+            "ContentType": "REVIEW",
+            "Id": "SweepstakesEntryYes",
+            "BadgeType": "Custom"
+          }
+        },
+        "BadgesOrder": [
+          "SweepstakesEntryYes"
+        ],
+        "LastModeratedTime": "2025-01-09T15:45:10.000+00:00",
+        "LastModificationTime": "2025-01-09T15:45:10.000+00:00",
+        "ProductId": "FCWM3027AS",
+        "OriginalProductName": "30\" Electric Wall Oven and Microwave Combination",
+        "ContextDataValuesOrder": [
+          "AgreeToRules",
+          "SweepstakesEntry"
+        ],
+        "AuthorId": "itfownp2ci7vzhbqvon9meqxj",
+        "ContentLocale": "en_US",
+        "IsFeatured": false,
+        "TotalInappropriateFeedbackCount": 0,
+        "TotalClientResponseCount": 0,
+        "TotalCommentCount": 0,
+        "Rating": 5,
+        "IsRatingsOnly": false,
+        "TotalFeedbackCount": 0,
+        "TotalNegativeFeedbackCount": 0,
+        "TotalPositiveFeedbackCount": 0,
+        "ModerationStatus": "APPROVED",
+        "SubmissionId": "r19006-en__17363385kEnnwtO5Gq",
+        "SubmissionTime": "2025-01-08T12:15:26.000+00:00",
+        "ReviewText": "So far, great, love it, first time ever having a wall oven, best decision I've made.",
+        "Title": "Wall Oven Frigidaire",
+        "UserNickname": "KHll",
+        "ContextDataValues": {
+          "SweepstakesEntry": {
+            "Value": "Yes",
+            "Id": "SweepstakesEntry"
+          },
+          "AgreeToRules": {
+            "Value": "Yes",
+            "Id": "AgreeToRules"
+          }
+        },
+        "SecondaryRatings": {
+  
+        },
+        "CommentIds": [],
+        "Videos": [],
+        "Pros": null,
+        "ClientResponses": [],
+        "SecondaryRatingsOrder": [],
+        "InappropriateFeedbackList": [],
+        "Photos": [],
+        "UserLocation": null,
+        "ProductRecommendationIds": [],
+        "Helpfulness": null,
+        "IsSyndicated": false,
+        "RatingRange": 5,
+        "AdditionalFields": {
+  
+        },
+        "CampaignId": null,
+        "TagDimensions": {
+  
+        },
+        "Cons": null,
+        "TagDimensionsOrder": [],
+        "AdditionalFieldsOrder": [],
+        "IsRecommended": null
+      },
+      {
+        "Id": "237354359",
+        "CID": "53044c03-e9a2-5155-b85d-669c34caf4ce",
+        "SourceClient": "frigidaire",
+        "Badges": {
+          "SweepstakesEntryYes": {
+            "ContentType": "REVIEW",
+            "Id": "SweepstakesEntryYes",
+            "BadgeType": "Custom"
+          }
+        },
+        "BadgesOrder": [
+          "SweepstakesEntryYes"
+        ],
+        "LastModeratedTime": "2024-11-10T14:00:10.000+00:00",
+        "LastModificationTime": "2024-11-10T14:00:10.000+00:00",
+        "ProductId": "FCWM3027AS",
+        "OriginalProductName": "30\" Electric Wall Oven and Microwave Combination",
+        "ContextDataValuesOrder": [
+          "AgreeToRules",
+          "SweepstakesEntry"
+        ],
+        "AuthorId": "aq2l76mk48wt4d9yf2n503nf8",
+        "ContentLocale": "en_US",
+        "IsFeatured": false,
+        "TotalInappropriateFeedbackCount": 0,
+        "TotalClientResponseCount": 0,
+        "TotalCommentCount": 0,
+        "Rating": 4,
+        "IsRatingsOnly": false,
+        "TotalFeedbackCount": 0,
+        "TotalNegativeFeedbackCount": 0,
+        "TotalPositiveFeedbackCount": 0,
+        "ModerationStatus": "APPROVED",
+        "SubmissionId": "r19006-en__173124411RbqdBfyjL",
+        "SubmissionTime": "2024-11-10T13:09:45.000+00:00",
+        "ReviewText": "I’m very happy with my new oven/microwave except for one thing. The microwave doesn’t have a light inside so you can watch food as it cooks.",
+        "Title": "Microwave",
+        "UserNickname": "GirlGayle",
+        "ContextDataValues": {
+          "SweepstakesEntry": {
+            "Value": "Yes",
+            "Id": "SweepstakesEntry"
+          },
+          "AgreeToRules": {
+            "Value": "Yes",
+            "Id": "AgreeToRules"
+          }
+        },
+        "SecondaryRatings": {
+  
+        },
+        "CommentIds": [],
+        "Videos": [],
+        "Pros": null,
+        "ClientResponses": [],
+        "SecondaryRatingsOrder": [],
+        "InappropriateFeedbackList": [],
+        "Photos": [],
+        "UserLocation": null,
+        "ProductRecommendationIds": [],
+        "Helpfulness": null,
+        "IsSyndicated": false,
+        "RatingRange": 5,
+        "AdditionalFields": {
+  
+        },
+        "CampaignId": null,
+        "TagDimensions": {
+  
+        },
+        "Cons": null,
+        "TagDimensionsOrder": [],
+        "AdditionalFieldsOrder": [],
+        "IsRecommended": null
+      },
+      {
+        "Id": "236734401",
+        "CID": "e63a38a7-24c1-527e-9099-78d7f6e88bbe",
+        "SourceClient": "frigidaire",
+        "Badges": {
+          "SweepstakesEntryYes": {
+            "ContentType": "REVIEW",
+            "Id": "SweepstakesEntryYes",
+            "BadgeType": "Custom"
+          }
+        },
+        "BadgesOrder": [
+          "SweepstakesEntryYes"
+        ],
+        "LastModeratedTime": "2024-10-12T20:15:11.000+00:00",
+        "LastModificationTime": "2024-10-12T20:15:11.000+00:00",
+        "ProductId": "FCWM3027AS",
+        "OriginalProductName": "30\" Electric Wall Oven and Microwave Combination",
+        "ContextDataValuesOrder": [
+          "AgreeToRules",
+          "SweepstakesEntry"
+        ],
+        "AuthorId": "i1lk9zx9heyuv1q4ly6tlsaq4",
+        "ContentLocale": "en_US",
+        "IsFeatured": false,
+        "TotalInappropriateFeedbackCount": 0,
+        "TotalClientResponseCount": 0,
+        "TotalCommentCount": 0,
+        "Rating": 4,
+        "IsRatingsOnly": false,
+        "TotalFeedbackCount": 0,
+        "TotalNegativeFeedbackCount": 0,
+        "TotalPositiveFeedbackCount": 0,
+        "ModerationStatus": "APPROVED",
+        "SubmissionId": "r19006-en__17287627VG2UGrM73K",
+        "SubmissionTime": "2024-10-12T19:52:35.000+00:00",
+        "ReviewText": "Works well.",
+        "UserNickname": "WS3718",
+        "ContextDataValues": {
+          "SweepstakesEntry": {
+            "Value": "Yes",
+            "Id": "SweepstakesEntry"
+          },
+          "AgreeToRules": {
+            "Value": "Yes",
+            "Id": "AgreeToRules"
+          }
+        },
+        "SecondaryRatings": {
+  
+        },
+        "CommentIds": [],
+        "Videos": [],
+        "Pros": null,
+        "ClientResponses": [],
+        "SecondaryRatingsOrder": [],
+        "InappropriateFeedbackList": [],
+        "Photos": [],
+        "UserLocation": null,
+        "Title": null,
+        "ProductRecommendationIds": [],
+        "Helpfulness": null,
+        "IsSyndicated": false,
+        "RatingRange": 5,
+        "AdditionalFields": {
+  
+        },
+        "CampaignId": null,
+        "TagDimensions": {
+  
+        },
+        "Cons": null,
+        "TagDimensionsOrder": [],
+        "AdditionalFieldsOrder": [],
+        "IsRecommended": null
+      },
+      {
+        "Id": "236705478",
+        "CID": "1c017e83-f66f-5b72-9d32-821f66225ee7",
+        "SourceClient": "frigidaire",
+        "Badges": {
+          "SweepstakesEntryYes": {
+            "ContentType": "REVIEW",
+            "Id": "SweepstakesEntryYes",
+            "BadgeType": "Custom"
+          }
+        },
+        "BadgesOrder": [
+          "SweepstakesEntryYes"
+        ],
+        "LastModeratedTime": "2024-10-11T02:45:04.000+00:00",
+        "LastModificationTime": "2024-10-11T02:45:04.000+00:00",
+        "ProductId": "FCWM3027AB",
+        "OriginalProductName": "30\" Electric Wall Oven and Microwave Combination",
+        "ContextDataValuesOrder": [
+          "AgreeToRules",
+          "SweepstakesEntry"
+        ],
+        "AuthorId": "iubopduu2xpmo7zjhvbipr4ei",
+        "ContentLocale": "en_US",
+        "IsFeatured": false,
+        "TotalInappropriateFeedbackCount": 0,
+        "TotalClientResponseCount": 0,
+        "TotalCommentCount": 0,
+        "Rating": 5,
+        "IsRatingsOnly": false,
+        "TotalFeedbackCount": 0,
+        "TotalNegativeFeedbackCount": 0,
+        "TotalPositiveFeedbackCount": 0,
+        "ModerationStatus": "APPROVED",
+        "SubmissionId": "r19006-en__172861362QNIY9mkh1",
+        "SubmissionTime": "2024-10-11T02:27:46.000+00:00",
+        "ReviewText": "Love the size, very quiet . Would buy it again. The delivery people were very nice and helpful.",
+        "UserNickname": "Turkey 59",
+        "ContextDataValues": {
+          "SweepstakesEntry": {
+            "Value": "Yes",
+            "Id": "SweepstakesEntry"
+          },
+          "AgreeToRules": {
+            "Value": "Yes",
+            "Id": "AgreeToRules"
+          }
+        },
+        "SecondaryRatings": {
+  
+        },
+        "CommentIds": [],
+        "Videos": [],
+        "Pros": null,
+        "ClientResponses": [],
+        "SecondaryRatingsOrder": [],
+        "InappropriateFeedbackList": [],
+        "Photos": [],
+        "UserLocation": null,
+        "Title": null,
+        "ProductRecommendationIds": [],
+        "Helpfulness": null,
+        "IsSyndicated": false,
+        "RatingRange": 5,
+        "AdditionalFields": {
+  
+        },
+        "CampaignId": null,
+        "TagDimensions": {
+  
+        },
+        "Cons": null,
+        "TagDimensionsOrder": [],
+        "AdditionalFieldsOrder": [],
+        "IsRecommended": null
+      },
+      {
+        "Id": "236348717",
+        "CID": "e9dc65f2-7ce5-511f-a363-a87fa1410512",
+        "SourceClient": "frigidaire",
+        "Badges": {
+          "SweepstakesEntryYes": {
+            "ContentType": "REVIEW",
+            "Id": "SweepstakesEntryYes",
+            "BadgeType": "Custom"
+          }
+        },
+        "BadgesOrder": [
+          "SweepstakesEntryYes"
+        ],
+        "LastModeratedTime": "2024-09-23T16:15:09.000+00:00",
+        "LastModificationTime": "2024-09-23T16:15:09.000+00:00",
+        "ProductId": "FCWM3027AB",
+        "OriginalProductName": "30\" Electric Wall Oven and Microwave Combination",
+        "ContextDataValuesOrder": [
+          "AgreeToRules",
+          "SweepstakesEntry"
+        ],
+        "AuthorId": "lcs9oknmea89gm3xnju9nucaq",
+        "ContentLocale": "en_US",
+        "IsFeatured": false,
+        "TotalInappropriateFeedbackCount": 0,
+        "TotalClientResponseCount": 0,
+        "TotalCommentCount": 0,
+        "Rating": 4,
+        "IsRatingsOnly": false,
+        "TotalFeedbackCount": 0,
+        "TotalNegativeFeedbackCount": 0,
+        "TotalPositiveFeedbackCount": 0,
+        "ModerationStatus": "APPROVED",
+        "SubmissionId": "r19006-en__17271056HsjPxTPR1Q",
+        "SubmissionTime": "2024-09-23T15:33:59.000+00:00",
+        "ReviewText": "Why is delay bake limited to only one hour?  Sometimes I want to do other stuff and return to the kitchen to find the oven already preheated.  Preheating can take over 20 minutes?",
+        "Title": "WHY LIMIT DELAY BAKE?",
+        "UserNickname": "Batteryman59",
+        "ContextDataValues": {
+          "SweepstakesEntry": {
+            "Value": "Yes",
+            "Id": "SweepstakesEntry"
+          },
+          "AgreeToRules": {
+            "Value": "Yes",
+            "Id": "AgreeToRules"
+          }
+        },
+        "SecondaryRatings": {
+  
+        },
+        "CommentIds": [],
+        "Videos": [],
+        "Pros": null,
+        "ClientResponses": [],
+        "SecondaryRatingsOrder": [],
+        "InappropriateFeedbackList": [],
+        "Photos": [],
+        "UserLocation": null,
+        "ProductRecommendationIds": [],
+        "Helpfulness": null,
+        "IsSyndicated": false,
+        "RatingRange": 5,
+        "AdditionalFields": {
+  
+        },
+        "CampaignId": null,
+        "TagDimensions": {
+  
+        },
+        "Cons": null,
+        "TagDimensionsOrder": [],
+        "AdditionalFieldsOrder": [],
+        "IsRecommended": null
+      }
+    ],
+    "Includes": {
+  
+    },
+    "HasErrors": false,
+    "Errors": []
+  }
